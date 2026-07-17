@@ -1,0 +1,22 @@
+{
+  "html_file_count": 49,
+  "service_exists": true,
+  "questionnaire_present": true,
+  "fieldset_count": 8,
+  "radio_count": 16,
+  "checkbox_count": 11,
+  "safety_notice_present": true,
+  "result_present": true,
+  "privacy_notice_present": true,
+  "no_whatsapp_prefill": true,
+  "no_local_storage": true,
+  "title_unchanged": true,
+  "canonical_unchanged": true,
+  "schema_count": 3,
+  "no_question_mark_corruption": true,
+  "service_link_failures": [],
+  "http_status_counts": {
+    "200": 49
+  },
+  "http_failures": []
+}

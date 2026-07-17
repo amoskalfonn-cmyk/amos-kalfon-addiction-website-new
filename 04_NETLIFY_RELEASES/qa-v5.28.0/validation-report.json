@@ -1,0 +1,136 @@
+{
+  "html_file_count": 49,
+  "service_exists": true,
+  "service_h1_count": 1,
+  "service_has_title": true,
+  "service_has_meta_description": true,
+  "service_has_canonical": true,
+  "service_has_schema": true,
+  "service_has_no_question_marks_corruption": true,
+  "service_link_results": [
+    [
+      "#main-content",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "../index.html",
+      "ok"
+    ],
+    [
+      "../index.html",
+      "ok"
+    ],
+    [
+      "../about.html",
+      "ok"
+    ],
+    [
+      "../specialties.html",
+      "ok"
+    ],
+    [
+      "../articles.html",
+      "ok"
+    ],
+    [
+      "../knowledge-center.html",
+      "ok"
+    ],
+    [
+      "../questions-and-answers.html",
+      "ok"
+    ],
+    [
+      "../why-choose-me.html",
+      "ok"
+    ],
+    [
+      "../trust-center.html",
+      "ok"
+    ],
+    [
+      "../contact.html",
+      "ok"
+    ],
+    [
+      "../index.html",
+      "ok"
+    ],
+    [
+      "../specialties.html",
+      "ok"
+    ],
+    [
+      "https://wa.me/972546330009",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "../contact.html",
+      "ok"
+    ],
+    [
+      "https://wa.me/972546330009",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "../contact.html",
+      "ok"
+    ],
+    [
+      "../articles/how-to-choose-addiction-help",
+      "ok"
+    ],
+    [
+      "../articles/guidance-vs-treatment",
+      "ok"
+    ],
+    [
+      "../articles/when-guidance-is-not-enough",
+      "ok"
+    ],
+    [
+      "../knowledge/families.html",
+      "ok"
+    ],
+    [
+      "tel:054-633-0009",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "https://wa.me/972546330009",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "tel:054-633-0009",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "https://wa.me/972546330009",
+      "skipped-external-or-fragment"
+    ],
+    [
+      "../editorial-policy.html",
+      "ok"
+    ],
+    [
+      "../sources.html",
+      "ok"
+    ],
+    [
+      "../for-professionals.html",
+      "ok"
+    ],
+    [
+      "../privacy.html",
+      "ok"
+    ],
+    [
+      "../disclaimer.html",
+      "ok"
+    ]
+  ],
+  "http_status_counts": {
+    "200": 49
+  },
+  "http_failures": []
+}

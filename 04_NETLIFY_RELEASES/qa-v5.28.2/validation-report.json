@@ -1,0 +1,17 @@
+{
+  "html_file_count": 49,
+  "service_exists": true,
+  "new_sections_present": true,
+  "table_rows": 5,
+  "service_h1_count": 1,
+  "title_unchanged": true,
+  "canonical_unchanged": true,
+  "schema_count": 3,
+  "no_question_mark_corruption": true,
+  "no_success_story_terms": true,
+  "service_link_failures": [],
+  "http_status_counts": {
+    "200": 49
+  },
+  "http_failures": []
+}

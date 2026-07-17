@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-07-17T12:48:01.193Z",
+  "results": [
+    {
+      "name": "service-desktop",
+      "url": "http://localhost:8765/services/treatment-guidance.html",
+      "status": 200,
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\qa-v5.28.0\\service-desktop.png",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "metrics": {
+        "title": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון",
+        "lang": "he",
+        "dir": "rtl",
+        "h1Count": 1,
+        "hasCanonical": true,
+        "whatsappHrefs": [
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009"
+        ],
+        "contactLinks": [
+          "../contact.html",
+          "../contact.html",
+          "../contact.html"
+        ],
+        "overflowX": false,
+        "mainExists": true,
+        "formCount": 0
+      }
+    },
+    {
+      "name": "service-mobile",
+      "url": "http://localhost:8765/services/treatment-guidance.html",
+      "status": 200,
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\qa-v5.28.0\\service-mobile.png",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "metrics": {
+        "title": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון",
+        "lang": "he",
+        "dir": "rtl",
+        "h1Count": 1,
+        "hasCanonical": true,
+        "whatsappHrefs": [
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009"
+        ],
+        "contactLinks": [
+          "../contact.html",
+          "../contact.html",
+          "../contact.html"
+        ],
+        "overflowX": false,
+        "mainExists": true,
+        "formCount": 0
+      }
+    },
+    {
+      "name": "specialties-link-desktop",
+      "url": "http://localhost:8765/specialties.html",
+      "status": 200,
+      "viewport": {
+        "width": 1440,
+        "height": 1100
+      },
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\qa-v5.28.0\\specialties-link-desktop.png",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "metrics": {
+        "title": "תחומי ליווי והדרכה בהתמכרויות | עמוס כלפון",
+        "lang": "he",
+        "dir": "rtl",
+        "h1Count": 1,
+        "hasCanonical": true,
+        "whatsappHrefs": [
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009"
+        ],
+        "contactLinks": [
+          "contact.html"
+        ],
+        "overflowX": false,
+        "mainExists": true,
+        "formCount": 0
+      }
+    },
+    {
+      "name": "home-desktop",
+      "url": "http://localhost:8765/index.html",
+      "status": 200,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\qa-v5.28.0\\home-desktop.png",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "metrics": {
+        "title": "עמוס כלפון | ייעוץ וליווי בהתמכרויות למכורים ובני משפחה",
+        "lang": "he",
+        "dir": "rtl",
+        "h1Count": 1,
+        "hasCanonical": true,
+        "whatsappHrefs": [
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009"
+        ],
+        "contactLinks": [
+          "contact.html",
+          "contact.html"
+        ],
+        "overflowX": false,
+        "mainExists": true,
+        "formCount": 0
+      }
+    },
+    {
+      "name": "contact-desktop",
+      "url": "http://localhost:8765/contact.html",
+      "status": 200,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\qa-v5.28.0\\contact-desktop.png",
+      "consoleErrors": [],
+      "pageErrors": [],
+      "metrics": {
+        "title": "צור קשר עם עמוס כלפון | ייעוץ וליווי בהתמכרויות",
+        "lang": "he",
+        "dir": "rtl",
+        "h1Count": 1,
+        "hasCanonical": true,
+        "whatsappHrefs": [
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009",
+          "https://wa.me/972546330009"
+        ],
+        "contactLinks": [
+          "contact.html"
+        ],
+        "overflowX": false,
+        "mainExists": true,
+        "formCount": 1
+      }
+    }
+  ],
+  "serviceAnchors": [
+    {
+      "text": "דלגו לתוכן המרכזי",
+      "href": "#main-content"
+    },
+    {
+      "text": "",
+      "href": "../index.html"
+    },
+    {
+      "text": "דף הבית",
+      "href": "../index.html"
+    },
+    {
+      "text": "אודות",
+      "href": "../about.html"
+    },
+    {
+      "text": "תחומי ליווי והדרכה",
+      "href": "../specialties.html"
+    },
+    {
+      "text": "מאמרים ומדריכים",
+      "href": "../articles.html"
+    },
+    {
+      "text": "מרכז ידע",
+      "href": "../knowledge-center.html"
+    },
+    {
+      "text": "שאלות ותשובות",
+      "href": "../questions-and-answers.html"
+    },
+    {
+      "text": "למה לבחור בי?",
+      "href": "../why-choose-me.html"
+    },
+    {
+      "text": "מרכז אמון",
+      "href": "../trust-center.html"
+    },
+    {
+      "text": "צור קשר",
+      "href": "../contact.html"
+    },
+    {
+      "text": "דף הבית",
+      "href": "../index.html"
+    },
+    {
+      "text": "תחומי ליווי והדרכה",
+      "href": "../specialties.html"
+    },
+    {
+      "text": "שלחו WhatsApp",
+      "href": "https://wa.me/972546330009"
+    },
+    {
+      "text": "מעבר לטופס יצירת קשר",
+      "href": "../contact.html"
+    },
+    {
+      "text": "שלחו WhatsAppפנייה ישירה",
+      "href": "https://wa.me/972546330009"
+    },
+    {
+      "text": "השאירו פרטיםטופס יצירת קשר",
+      "href": "../contact.html"
+    },
+    {
+      "text": "איך לבחור עזרה בהתמכרות?מדריך לבחירה אחראית",
+      "href": "../articles/how-to-choose-addiction-help"
+    },
+    {
+      "text": "ליווי והדרכה מול טיפולמה ההבדל?",
+      "href": "../articles/guidance-vs-treatment"
+    },
+    {
+      "text": "מתי ליווי אינו מספיק?סימני סיכון וגבולות בטיחות",
+      "href": "../articles/when-guidance-is-not-enough"
+    },
+    {
+      "text": "משפחות ובני זוגאיך לפעול בלי כפייה ובלי לאבד גבולות",
+      "href": "../knowledge/families.html"
+    },
+    {
+      "text": "התקשר עכשיו",
+      "href": "tel:054-633-0009"
+    },
+    {
+      "text": "שליחת WhatsApp",
+      "href": "https://wa.me/972546330009"
+    },
+    {
+      "text": "054-633-0009",
+      "href": "tel:054-633-0009"
+    },
+    {
+      "text": "WhatsApp",
+      "href": "https://wa.me/972546330009"
+    },
+    {
+      "text": "מדיניות עריכה",
+      "href": "../editorial-policy.html"
+    },
+    {
+      "text": "מקורות ומתודולוגיה",
+      "href": "../sources.html"
+    },
+    {
+      "text": "לאנשי מקצוע",
+      "href": "../for-professionals.html"
+    },
+    {
+      "text": "פרטיות",
+      "href": "../privacy.html"
+    },
+    {
+      "text": "הצהרת אחריות",
+      "href": "../disclaimer.html"
+    }
+  ]
+}
