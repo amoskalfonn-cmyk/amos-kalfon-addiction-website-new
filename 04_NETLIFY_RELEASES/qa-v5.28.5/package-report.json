@@ -1,0 +1,41 @@
+{
+  "checks": {
+    "html_file_exists": true,
+    "css_file_exists": true,
+    "examples_table_removed": true,
+    "examples_cards_count": 5,
+    "questionnaire_form": true,
+    "step_count": 8,
+    "lead_form": true,
+    "netlify_form": true,
+    "honeypot": true,
+    "summary_hidden_field": true,
+    "answers_hidden_field": true,
+    "source_page": true,
+    "submission_type": true,
+    "consent_required": true,
+    "no_whatsapp_prefill": true,
+    "no_local_storage": true,
+    "no_session_storage": true,
+    "schema_count": 3,
+    "canonical_present": true,
+    "css_block": true,
+    "css_brace_balance": true,
+    "html_files_count": 49
+  },
+  "zip": {
+    "zip_exists": true,
+    "zip_size": 578670,
+    "contains_treatment_page": true,
+    "contains_css": true,
+    "contains_changelog": true,
+    "contains_roadmap": true,
+    "excludes_git": true,
+    "excludes_release": true,
+    "excludes_qa": true,
+    "entry_count": 73
+  },
+  "zip_path": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\website-latest.zip",
+  "qa_dest": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\04_NETLIFY_RELEASES\\qa-v5.28.5",
+  "failures": []
+}

@@ -1,0 +1,78 @@
+{
+  "routes": {
+    "/": 200,
+    "/services/treatment-guidance.html": 200,
+    "/contact.html": 200,
+    "/specialties.html": 200
+  },
+  "content": {
+    "canonicalHref": "https://amos-kalfon-addiction-counselor.com/services/treatment-guidance.html",
+    "examplesCards": 5,
+    "examplesTables": 0,
+    "schemaCount": 3
+  },
+  "questionnaire": {
+    "initial": {
+      "leadHidden": true,
+      "prevHidden": true,
+      "progressText": "שאלה 1 מתוך 8",
+      "visibleSteps": 1
+    },
+    "validation": "יש לבחור תשובה לפני שממשיכים.",
+    "normalSummary": {
+      "answersFieldText": "הפנייה היא עבור: בן משפחה\nתחום עיקרי: אלכוהול\nמטרת הפנייה: למצוא מסגרת טיפול\nניסיון לקבל עזרה בעבר: כן\nמסגרת טיפול כיום: לא\nהמשפחה מתקשה להתמודד לבד: כן\nרמת המוטיבציה לקבל עזרה: חלקית\nקיימת סכנה מיידית: לא",
+      "leadHidden": false,
+      "resultHidden": false,
+      "resultText": "הסיכום הראשוני שלך\n\nנראה שהפנייה היא עבור אדם קרוב. במצבים כאלה חשוב להבין גם את מצבו של האדם וגם את העומס והצרכים של המשפחה.\n\nציינתם שכבר נעשה ניסיון לקבל עזרה בעבר. כדאי להביא לשיחת ההכוונה מידע על מה נוסה, מה עזר ומה לא התאים.\n\nציינתם שהמשפחה מתקשה להתמודד לבד. שיחת ההכוונה יכולה לעזור לעשות סדר באפשרויות ובגבולות שהמשפחה יכולה להציב.\n\nנראה שהמוטיבציה לקבל עזרה אינה מלאה. במצב כזה חשוב לבחון צעדים הדרגתיים ולחשוב כיצד לנהל שיחה שאינה מבוססת על כפייה.\n\nלא ציינתם סכנה מיידית, ולכן אפשר להתמקד בבירור מסודר של הצרכים והאפשרויות.\n\nהסיכום הוא מידע כללי בלבד. הוא אינו אבחון ואינו קובע איזו מסגרת טיפול מתאימה. בשיחת ההכוונה אפשר להבין יחד אילו אפשרויות ושאלות כדאי לבדוק.",
+      "summaryFieldHasParagraphBreaks": true,
+      "summaryFieldLength": 674,
+      "visibleSteps": 1,
+      "whatsappHref": "https://wa.me/972546330009"
+    },
+    "danger": {
+      "leadHidden": true,
+      "resultText": "הסיכום הראשוני שלך\n\nאם קיימת סכנה מיידית, אין להמתין לשיחת ההכוונה. יש לפנות מיד לשירותי החירום או לגורם רפואי או מקצועי מוסמך.",
+      "summaryFieldHasParagraphBreaks": true
+    },
+    "mobile": {
+      "bodyScrollWidth": 1265,
+      "examplesCards": 5,
+      "viewportWidth": 1280,
+      "visibleSteps": 1
+    }
+  },
+  "contactForm": {
+    "action": "/thank-you.html",
+    "consentRequired": true,
+    "formName": "guidance-questionnaire-contact",
+    "honeypotName": "bot-field",
+    "method": "POST",
+    "netlify": "true",
+    "payload": {
+      "bot-field": "",
+      "email": "qa@example.com",
+      "form-name": "guidance-questionnaire-contact",
+      "message": "פנייה בדיקה ללא שליחה בפועל.",
+      "name": "בדיקת QA",
+      "phone": "0500000000",
+      "questionnaire_answers": "הפנייה היא עבור: בן משפחה\nתחום עיקרי: אלכוהול\nמטרת הפנייה: למצוא מסגרת טיפול\nניסיון לקבל עזרה בעבר: כן\nמסגרת טיפול כיום: לא\nהמשפחה מתקשה להתמודד לבד: כן\nרמת המוטיבציה לקבל עזרה: חלקית\nקיימת סכנה מיידית: לא",
+      "questionnaire_summary": "הסיכום הראשוני שלך\n\nנראה שהפנייה היא עבור אדם קרוב. במצבים כאלה חשוב להבין גם את מצבו של האדם וגם את העומס והצרכים של המשפחה.\n\nציינתם שכבר נעשה ניסיון לקבל עזרה בעבר. כדאי להביא לשיחת ההכוונה מידע על מה נוסה, מה עזר ומה לא התאים.\n\nציינתם שהמשפחה מתקשה להתמודד לבד. שיחת ההכוונה יכולה לעזור לעשות סדר באפשרויות ובגבולות שהמשפחה יכולה להציב.\n\nנראה שהמוטיבציה לקבל עזרה אינה מלאה. במצב כזה חשוב לבחון צעדים הדרגתיים ולחשוב כיצד לנהל שיחה שאינה מבוססת על כפייה.\n\nלא ציינתם סכנה מיידית, ולכן אפשר להתמקד בבירור מסודר של הצרכים והאפשרויות.\n\nהסיכום הוא מידע כללי בלבד. הוא אינו אבחון ואינו קובע איזו מסגרת טיפול מתאימה. בשיחת ההכוונה אפשר להבין יחד אילו אפשרויות ושאלות כדאי לבדוק.",
+      "source_page": "services/treatment-guidance.html",
+      "submission_type": "Initial Guidance Questionnaire"
+    },
+    "summaryHasParagraphBreaks": true
+  },
+  "privacy": {
+    "localStorageKeys": [],
+    "sessionStorageKeys": [],
+    "sourceContainsLocalStorage": false,
+    "sourceContainsSessionStorage": false,
+    "whatsappPrefillInLead": false
+  },
+  "screenshots": {
+    "initialDesktop": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.5\\initial-desktop.png",
+    "normalSummary": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.5\\normal-summary-and-lead-form-desktop.png",
+    "dangerSummary": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.5\\danger-summary-desktop.png",
+    "mobileInitial": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.5\\mobile-initial.png"
+  }
+}

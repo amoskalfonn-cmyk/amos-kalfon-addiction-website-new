@@ -1466,116 +1466,125 @@ body.internal-page > a.whatsapp-float.whatsapp-button[href="https://wa.me/972546
   display: none !important;
 }
 
-/* Sprint 2A.3.1: treatment guidance examples and questionnaire repair */
-body.page-treatment-guidance .guidance-comparison-table {
+/* Sprint 2A.3.2: treatment guidance readable examples, step flow and lead form */
+body.page-treatment-guidance .guidance-examples-list {
   width: min(900px, 100%);
   margin: 18px auto 10px;
-  border-collapse: separate;
-  border-spacing: 0;
-  overflow: hidden;
-  border: 1px solid rgba(31, 80, 65, .16);
-  border-radius: 18px;
-  background: #fff;
-  box-shadow: 0 14px 32px rgba(30, 70, 57, .06);
-}
-body.page-treatment-guidance .guidance-comparison-table th,
-body.page-treatment-guidance .guidance-comparison-table td {
-  padding: 18px 20px;
-  text-align: right;
-  vertical-align: top;
-  border-bottom: 1px solid rgba(31, 80, 65, .12);
-  line-height: 1.75;
-}
-body.page-treatment-guidance .guidance-comparison-table th {
-  background: #eef7f0;
-  color: var(--v51-green-dark);
-  font-weight: 900;
-  font-size: .98rem;
-}
-body.page-treatment-guidance .guidance-comparison-table td:first-child {
-  width: 34%;
-  color: var(--v51-ink);
-  font-weight: 900;
-}
-body.page-treatment-guidance .guidance-comparison-table td + td,
-body.page-treatment-guidance .guidance-comparison-table th + th {
-  border-right: 1px solid rgba(31, 80, 65, .12);
-}
-body.page-treatment-guidance .guidance-comparison-table tbody tr:nth-child(even) td { background: #fbfdfb; }
-body.page-treatment-guidance .guidance-comparison-table tbody tr:last-child td { border-bottom: 0; }
-
-body.page-treatment-guidance .guidance-questionnaire {
-  width: min(900px, 100%);
-  margin: 22px auto 0 !important;
-  padding: clamp(18px, 3vw, 28px) !important;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
+  gap: 14px;
+}
+body.page-treatment-guidance .guidance-examples-list article {
+  padding: 19px;
+  border: 1px solid rgba(31, 80, 65, .14);
+  border-radius: 18px;
+  background: #fbfdfb;
+  box-shadow: 0 10px 24px rgba(30, 70, 57, .045);
+}
+body.page-treatment-guidance .guidance-examples-list article:last-child { grid-column: 1 / -1; }
+body.page-treatment-guidance .guidance-examples-list h3 {
+  margin: 0 0 8px;
+  color: var(--v51-green-dark);
+  font-size: 1.05rem;
+}
+body.page-treatment-guidance .guidance-examples-list p { margin: 0; line-height: 1.75; }
+body.page-treatment-guidance .guidance-step-flow {
+  width: min(760px, 100%);
+  margin: 22px auto 0 !important;
+  padding: clamp(18px, 3vw, 28px) !important;
+  display: block;
   border: 1px solid rgba(31, 80, 65, .14);
   border-radius: 22px;
   background: linear-gradient(180deg, #f7fbf8 0%, #ffffff 100%);
   box-shadow: 0 16px 38px rgba(30, 70, 57, .07);
 }
-body.page-treatment-guidance .guidance-questionnaire fieldset {
-  min-width: 0;
+body.page-treatment-guidance .guidance-progress {
+  margin-bottom: 16px;
+  display: grid;
+  gap: 9px;
+  color: var(--v51-green-dark);
+  font-weight: 900;
+}
+body.page-treatment-guidance .guidance-progress-track {
+  height: 8px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: rgba(31, 80, 65, .1);
+}
+body.page-treatment-guidance #guidance-progress-bar {
+  display: block;
+  width: 12.5%;
+  height: 100%;
+  border-radius: inherit;
+  background: #25D366;
+  transition: width .2s ease;
+}
+body.page-treatment-guidance .guidance-step-flow fieldset {
   margin: 0;
-  padding: 17px;
+  padding: 19px;
   display: flex;
   flex-direction: column;
-  gap: 9px;
+  gap: 10px;
   border: 1px solid rgba(31, 80, 65, .15);
   border-radius: 18px;
-  background: rgba(255, 255, 255, .92);
+  background: rgba(255, 255, 255, .94);
   box-shadow: 0 8px 20px rgba(30, 70, 57, .045);
 }
-body.page-treatment-guidance .guidance-questionnaire legend {
-  padding: 0 0 9px;
+body.page-treatment-guidance .guidance-step-flow fieldset[hidden],
+body.page-treatment-guidance .guidance-lead-section[hidden] { display: none !important; }
+body.page-treatment-guidance .guidance-step-flow legend {
+  padding: 0 0 10px;
   color: var(--v51-ink);
   font-weight: 900;
+  font-size: 1.12rem;
   line-height: 1.45;
 }
-body.page-treatment-guidance .guidance-questionnaire label {
-  min-height: 42px;
+body.page-treatment-guidance .guidance-step-flow label,
+body.page-treatment-guidance .guidance-consent {
+  min-height: 44px;
   margin: 0;
-  padding: 9px 11px;
+  padding: 10px 12px;
   display: flex;
   align-items: center;
   gap: 10px;
   border: 1px solid rgba(31, 80, 65, .12);
-  border-radius: 12px;
+  border-radius: 13px;
   background: #fbfdfb;
   color: var(--v51-ink);
   line-height: 1.45;
   cursor: pointer;
   transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
 }
-body.page-treatment-guidance .guidance-questionnaire label:hover,
-body.page-treatment-guidance .guidance-questionnaire label:focus-within {
+body.page-treatment-guidance .guidance-step-flow label:hover,
+body.page-treatment-guidance .guidance-step-flow label:focus-within,
+body.page-treatment-guidance .guidance-consent:hover,
+body.page-treatment-guidance .guidance-consent:focus-within {
   border-color: rgba(37, 211, 102, .55);
   background: #f0fbf3;
   box-shadow: 0 0 0 3px rgba(37, 211, 102, .13);
 }
-body.page-treatment-guidance .guidance-questionnaire input[type="radio"],
-body.page-treatment-guidance .guidance-questionnaire input[type="checkbox"] {
+body.page-treatment-guidance .guidance-step-flow input[type="radio"],
+body.page-treatment-guidance .guidance-step-flow input[type="checkbox"],
+body.page-treatment-guidance .guidance-consent input[type="checkbox"] {
   width: 18px;
   height: 18px;
   flex: 0 0 18px;
   margin: 0;
   accent-color: #25D366;
 }
-body.page-treatment-guidance .guidance-questionnaire label:has(input:checked) {
+body.page-treatment-guidance .guidance-step-flow label:has(input:checked),
+body.page-treatment-guidance .guidance-consent:has(input:checked) {
   border-color: rgba(37, 211, 102, .75);
   background: #e9faef;
   box-shadow: inset 0 0 0 1px rgba(37, 211, 102, .22);
   font-weight: 800;
 }
-body.page-treatment-guidance .guidance-questionnaire .form-note,
-body.page-treatment-guidance .guidance-questionnaire > button,
-body.page-treatment-guidance .guidance-result-panel {
-  grid-column: 1 / -1;
-}
-body.page-treatment-guidance .guidance-questionnaire .form-note {
-  margin: 0;
+body.page-treatment-guidance .guidance-step-flow .form-note,
+body.page-treatment-guidance .guidance-step-controls,
+body.page-treatment-guidance .guidance-result-panel { margin-top: 14px; }
+body.page-treatment-guidance .guidance-step-flow .form-note,
+body.page-treatment-guidance .guidance-lead-form .form-help,
+body.page-treatment-guidance .guidance-lead-form .form-note {
   padding: 13px 15px;
   border: 1px solid rgba(31, 80, 65, .14);
   border-radius: 14px;
@@ -1589,18 +1598,23 @@ body.page-treatment-guidance .guidance-result-panel.is-safety-result {
   background: #fff8ed;
   color: #5f3516;
 }
-body.page-treatment-guidance .guidance-questionnaire fieldset.is-invalid {
+body.page-treatment-guidance .guidance-step-flow fieldset.is-invalid {
   border-color: rgba(174, 52, 42, .55);
   box-shadow: 0 0 0 3px rgba(174, 52, 42, .08);
 }
 body.page-treatment-guidance .guidance-validation-message {
-  margin: 2px 0 0;
+  margin: 12px 0 0;
   color: #8f2f25;
   font-weight: 900;
-  font-size: .92rem;
+  font-size: .95rem;
 }
+body.page-treatment-guidance .guidance-step-controls {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+body.page-treatment-guidance .guidance-step-controls .btn { min-width: 120px; }
 body.page-treatment-guidance .guidance-result-panel {
-  margin-top: 4px;
   padding: 21px;
   border: 1px solid rgba(31, 80, 65, .16);
   border-radius: 18px;
@@ -1618,55 +1632,49 @@ body.page-treatment-guidance .guidance-result-panel h3:focus-visible {
   outline-offset: 4px;
   border-radius: 8px;
 }
-body.page-treatment-guidance .guidance-result-panel p {
-  margin: 0 0 .75em;
-  line-height: 1.75;
-}
+body.page-treatment-guidance .guidance-result-panel p { margin: 0 0 .75em; line-height: 1.75; }
 body.page-treatment-guidance .guidance-result-panel p:last-child { margin-bottom: 0; }
-
+body.page-treatment-guidance .guidance-lead-section {
+  width: min(900px, 100%);
+  margin: 24px auto 0;
+  padding: clamp(22px, 4vw, 34px);
+  border: 1px solid rgba(31, 80, 65, .14);
+  border-radius: 22px;
+  background: #fbfdfb;
+  box-shadow: 0 16px 38px rgba(30, 70, 57, .06);
+}
+body.page-treatment-guidance .guidance-lead-section h2 { margin-top: 0; }
+body.page-treatment-guidance .guidance-lead-form {
+  margin-top: 16px !important;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+body.page-treatment-guidance .guidance-lead-form .form-help,
+body.page-treatment-guidance .guidance-lead-form textarea,
+body.page-treatment-guidance .guidance-lead-form .guidance-consent,
+body.page-treatment-guidance .guidance-lead-form .form-note,
+body.page-treatment-guidance .guidance-lead-form button,
+body.page-treatment-guidance .guidance-lead-form .hidden-field { grid-column: 1 / -1; }
+body.page-treatment-guidance .guidance-lead-form input:not([type="hidden"]),
+body.page-treatment-guidance .guidance-lead-form textarea {
+  width: 100%;
+  min-height: 48px;
+  padding: 12px 14px;
+  border: 1px solid rgba(31, 80, 65, .18);
+  border-radius: 12px;
+  background: #fff;
+  color: var(--v51-ink);
+  font: inherit;
+}
+body.page-treatment-guidance .guidance-lead-form textarea { min-height: 110px; resize: vertical; }
+body.page-treatment-guidance .guidance-lead-actions { margin-top: 14px; }
 @media (max-width: 720px) {
-  body.page-treatment-guidance .guidance-comparison-table,
-  body.page-treatment-guidance .guidance-comparison-table thead,
-  body.page-treatment-guidance .guidance-comparison-table tbody,
-  body.page-treatment-guidance .guidance-comparison-table tr,
-  body.page-treatment-guidance .guidance-comparison-table th,
-  body.page-treatment-guidance .guidance-comparison-table td {
-    display: block;
-  }
-  body.page-treatment-guidance .guidance-comparison-table {
-    border: 0;
-    background: transparent;
-    box-shadow: none;
-  }
-  body.page-treatment-guidance .guidance-comparison-table thead { display: none; }
-  body.page-treatment-guidance .guidance-comparison-table tr {
-    margin-bottom: 12px;
-    overflow: hidden;
-    border: 1px solid rgba(31, 80, 65, .14);
-    border-radius: 16px;
-    background: #fff;
-    box-shadow: 0 10px 22px rgba(30, 70, 57, .055);
-  }
-  body.page-treatment-guidance .guidance-comparison-table td {
-    width: 100% !important;
-    padding: 13px 15px;
-    border: 0 !important;
-  }
-  body.page-treatment-guidance .guidance-comparison-table td + td { border-top: 1px solid rgba(31, 80, 65, .1) !important; }
-  body.page-treatment-guidance .guidance-comparison-table td::before {
-    display: block;
-    margin-bottom: 3px;
-    color: var(--v51-green-dark);
-    font-size: .78rem;
-    font-weight: 900;
-  }
-  body.page-treatment-guidance .guidance-comparison-table td:first-child::before { content: "מצב"; }
-  body.page-treatment-guidance .guidance-comparison-table td:nth-child(2)::before { content: "ייתכן שכדאי לבדוק"; }
-  body.page-treatment-guidance .guidance-questionnaire {
-    grid-template-columns: 1fr;
-    padding: 16px !important;
-    gap: 13px;
-  }
-  body.page-treatment-guidance .guidance-questionnaire fieldset { padding: 14px; }
-  body.page-treatment-guidance .guidance-questionnaire label { min-height: 44px; }
+  body.page-treatment-guidance .guidance-examples-list,
+  body.page-treatment-guidance .guidance-lead-form { grid-template-columns: 1fr; }
+  body.page-treatment-guidance .guidance-examples-list article:last-child { grid-column: auto; }
+  body.page-treatment-guidance .guidance-step-flow { padding: 16px !important; }
+  body.page-treatment-guidance .guidance-step-flow fieldset { padding: 15px; }
+  body.page-treatment-guidance .guidance-step-controls { flex-direction: column-reverse; }
+  body.page-treatment-guidance .guidance-step-controls .btn { width: 100%; }
 }

@@ -1,5 +1,19 @@
 # Changelog
 
+## v5.28.5 - 2026-07-17
+
+### Changed
+- Replaced the treatment-guidance examples table with normal readable content cards that preserve the approved meaning without recommendations or diagnosis.
+- Converted the initial guidance questionnaire into a one-question-at-a-time guided flow with Next, Back and progress indicator.
+- Preserved the approved contextual summary and immediate-danger behavior while adapting them to the guided flow.
+- Added a post-summary Netlify contact inquiry form that includes structured questionnaire summary and answers only after explicit consent and submission.
+
+### Fixed
+- Prevented all-question validation lists by validating only the current visible step.
+- Kept WhatsApp free of questionnaire answers and prefilled questionnaire content.
+- Preserved SEO metadata, schema, navigation, global design, existing WhatsApp URLs and unrelated workflows.
+
+
 ## v5.28.4 - 2026-07-17
 
 ### Changed

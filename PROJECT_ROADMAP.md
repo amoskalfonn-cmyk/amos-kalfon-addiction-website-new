@@ -2,6 +2,13 @@
 
 ## Completed
 
+### Sprint 2A.3.2 - Treatment Guidance Content, Step-by-Step Questionnaire and Email Lead Delivery
+- Replaced the examples table with readable content cards.
+- Converted the questionnaire into a guided one-question-at-a-time flow.
+- Added a consent-based Netlify lead form carrying the questionnaire summary and structured answers without sending anything automatically.
+- Preserved approved summary logic, emergency behavior, SEO, schema and existing URLs.
+
+
 ### Sprint 2A.3.1 - Treatment Guidance Page UI and Questionnaire Repair
 - Repaired only the approved treatment-guidance examples table, questionnaire UI and inline result behavior.
 - Preserved locked SEO, schema, navigation, URLs, CTA destinations, storage-free behavior and unrelated pages.
@@ -33,4 +40,4 @@
 5. Consider adding a future short checklist PDF or printable guide for families comparing treatment options, only after content approval.
 6. Consider future analytics review of the treatment-guidance page after real traffic data is available; do not add tracking changes without approval.
 7. Consider future usage review before adding answer transfer, analytics events, or prefilled WhatsApp summaries; do not implement without approval.
-
+8. AI Website Assistant - Knowledge Navigation, Safe Guidance and Lead Qualification (future approved roadmap item; not implemented in Sprint 2A.3.2).
