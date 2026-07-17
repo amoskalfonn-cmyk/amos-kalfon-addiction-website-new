@@ -1,0 +1,870 @@
+/* Mobile-only stabilization layer.
+   This file is intentionally separate from style.css to preserve the original desktop design. */
+
+@media (max-width: 920px) {
+  html, body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    direction: rtl;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body.menu-open {
+    overflow: hidden;
+  }
+
+  .site-header {
+    min-height: 74px !important;
+    padding: 10px 14px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 12px !important;
+    overflow: visible !important;
+  }
+
+  .site-header .logo-area {
+    flex: 0 1 72vw !important;
+    width: auto !important;
+    max-width: 72vw !important;
+    height: 54px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    overflow: hidden !important;
+  }
+
+  .site-header .logo-area img {
+    width: min(250px, 100%) !important;
+    max-width: 100% !important;
+    max-height: 54px !important;
+    height: auto !important;
+    object-fit: contain !important;
+    object-position: right center !important;
+  }
+
+  .site-header .menu-toggle {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 46px !important;
+    height: 46px !important;
+    min-width: 46px !important;
+    border-radius: 50% !important;
+    border: 1px solid rgba(47, 93, 126, .18) !important;
+    background: #ffffff !important;
+    color: #111111 !important;
+    font-size: 30px !important;
+    line-height: 1 !important;
+    cursor: pointer !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    z-index: 10001 !important;
+  }
+
+  .site-header nav#mainNav {
+    display: none !important;
+    position: fixed !important;
+    top: 82px !important;
+    right: 14px !important;
+    left: 14px !important;
+    width: auto !important;
+    max-height: calc(100vh - 110px) !important;
+    overflow-y: auto !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    justify-content: flex-start !important;
+    gap: 8px !important;
+    padding: 14px !important;
+    background: #ffffff !important;
+    border: 1px solid rgba(47, 93, 126, .16) !important;
+    border-radius: 22px !important;
+    box-shadow: 0 22px 48px rgba(14, 42, 61, .22) !important;
+    z-index: 10000 !important;
+  }
+
+  .site-header.open nav#mainNav,
+  .site-header nav#mainNav.is-open {
+    display: flex !important;
+  }
+
+  .site-header nav#mainNav a {
+    width: 100% !important;
+    min-height: 44px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    white-space: normal !important;
+    text-align: center !important;
+    font-size: 16px !important;
+    line-height: 1.35 !important;
+  }
+
+  main,
+  .container,
+  main > section {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-inline: 16px !important;
+  }
+
+  .breadcrumbs {
+    margin: 12px auto 8px !important;
+    padding: 8px 16px !important;
+    line-height: 1.5 !important;
+    text-align: center !important;
+    word-break: normal !important;
+  }
+
+  .page-title,
+  .hero,
+  .knowledge-hero,
+  .policy-hero {
+    margin-top: 12px !important;
+    padding: 26px 18px !important;
+    min-height: auto !important;
+    height: auto !important;
+    overflow: visible !important;
+    text-align: center !important;
+  }
+
+  h1,
+  .page-title h1,
+  .hero h1,
+  .knowledge-hero h1,
+  .policy-hero h1 {
+    font-size: clamp(2rem, 9vw, 3.1rem) !important;
+    line-height: 1.18 !important;
+    margin: 0 0 14px !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    white-space: normal !important;
+    overflow: visible !important;
+    word-break: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  h2 {
+    line-height: 1.28 !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .article-grid,
+  .knowledge-paths,
+  .knowledge-grid,
+  .category-grid,
+  .resource-grid,
+  .related-grid,
+  .policy-links-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .call-float,
+  .whatsapp-float {
+    bottom: 18px !important;
+    max-width: 46vw !important;
+    white-space: nowrap !important;
+    font-size: 14px !important;
+  }
+
+  .call-float {
+    right: auto !important;
+    left: 14px !important;
+  }
+
+  .whatsapp-float {
+    left: auto !important;
+    right: 14px !important;
+  }
+
+  input,
+  textarea,
+  select {
+    direction: rtl !important;
+    text-align: right !important;
+  }
+
+  input[type="tel"],
+  input#phone,
+  input[name="phone"] {
+    direction: rtl !important;
+    text-align: right !important;
+  }
+
+  input[type="tel"]::placeholder,
+  input#phone::placeholder,
+  input[name="phone"]::placeholder {
+    direction: rtl !important;
+    text-align: right !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .site-header {
+    min-height: 72px !important;
+  }
+
+  .site-header .logo-area {
+    max-width: 68vw !important;
+  }
+
+  .page-title,
+  .hero,
+  .knowledge-hero,
+  .policy-hero {
+    padding: 24px 16px !important;
+  }
+
+  h1,
+  .page-title h1,
+  .hero h1,
+  .knowledge-hero h1,
+  .policy-hero h1 {
+    font-size: clamp(1.9rem, 10vw, 2.75rem) !important;
+  }
+
+  .call-float,
+  .whatsapp-float {
+    font-size: 13px !important;
+    padding: 10px 12px !important;
+  }
+}
+
+/* ===== RC1 Mobile M2.2 - safe targeted fix =====
+   Desktop remains controlled by style.css. This block only fixes mobile layout bugs. */
+
+/* Keep telephone placeholder/input aligned like the rest of the RTL form fields. */
+input[type="tel"],
+input#phone,
+input[name="phone"],
+input[type="tel"]::placeholder,
+input#phone::placeholder,
+input[name="phone"]::placeholder {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+@media (max-width: 920px) {
+  html, body {
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+  }
+
+  /* Breadcrumbs were causing the mobile title/hero area to be pushed and visually clipped. */
+  nav.breadcrumbs,
+  .breadcrumbs {
+    display: none !important;
+  }
+
+  main#main-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 0 96px !important;
+    margin: 0 !important;
+    overflow: visible !important;
+  }
+
+  /* Inner pages title strip: prevent clipping and keep the original professional blue strip. */
+  section.page-title {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: auto !important;
+    height: auto !important;
+    margin: 0 0 18px 0 !important;
+    padding: 34px 18px 36px !important;
+    border-radius: 0 !important;
+    overflow: visible !important;
+    contain: none !important;
+    content-visibility: visible !important;
+    text-align: center !important;
+    box-sizing: border-box !important;
+  }
+
+  section.page-title h1 {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 0 12px 0 !important;
+    padding: 0 !important;
+    line-height: 1.28 !important;
+    font-size: clamp(2rem, 8.4vw, 2.8rem) !important;
+    white-space: normal !important;
+    overflow: visible !important;
+    text-wrap: balance !important;
+    word-break: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  section.page-title p {
+    max-width: 92% !important;
+    margin: 0 auto !important;
+    line-height: 1.55 !important;
+    font-size: 1rem !important;
+    white-space: normal !important;
+    overflow: visible !important;
+  }
+
+  /* Prevent generic section containment from hiding the first pixels of headings on mobile. */
+  section.page-title,
+  section.content,
+  section.article-grid,
+  section.knowledge-grid,
+  section.related-reading,
+  section.soft-conversion-note {
+    contain: none !important;
+    content-visibility: visible !important;
+  }
+
+  section.content,
+  section.article-grid,
+  section.knowledge-grid,
+  section.related-reading,
+  section.soft-conversion-note {
+    width: calc(100% - 28px) !important;
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    overflow: visible !important;
+  }
+
+  .profile img,
+  .hero-portrait-v6 img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .article-grid,
+  .cards,
+  .help-cards-v6,
+  .why-mini,
+  .steps,
+  .related-grid,
+  .knowledge-grid,
+  .knowledge-paths,
+  .category-grid,
+  .resource-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .call-float,
+  .whatsapp-float {
+    z-index: 9998 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  section.page-title {
+    padding: 30px 16px 32px !important;
+  }
+
+  section.page-title h1 {
+    font-size: clamp(1.85rem, 8.8vw, 2.45rem) !important;
+    line-height: 1.3 !important;
+  }
+
+  section.page-title p {
+    font-size: .96rem !important;
+  }
+}
+
+/* ===== v4.0.2 Homepage hero + mobile compatibility patch ===== */
+.hero-v6 {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: clamp(42px, 6vw, 70px) clamp(28px, 4.5vw, 70px) !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  background: radial-gradient(circle at 36% 38%, rgba(21, 85, 115, .58), transparent 34%), linear-gradient(135deg, #031d31 0%, #083959 54%, #04243a 100%) !important;
+  display: grid !important;
+  grid-template-columns: minmax(320px, 590px) minmax(340px, 1fr) !important;
+  gap: clamp(36px, 7vw, 120px) !important;
+  align-items: center !important;
+  direction: ltr !important;
+  overflow: hidden !important;
+}
+
+.hero-v6 .hero-portrait-v6 {
+  direction: rtl !important;
+  order: 1 !important;
+}
+
+.hero-v6 .hero-portrait-v6 img {
+  width: min(590px, 100%) !important;
+  aspect-ratio: 1 / 1.31 !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 10px !important;
+  box-shadow: 0 22px 55px rgba(0,0,0,.24) !important;
+}
+
+.hero-v6 .hero-content-v6 {
+  direction: rtl !important;
+  order: 2 !important;
+  text-align: center !important;
+  color: #ffffff !important;
+  max-width: 680px !important;
+  margin-inline: auto !important;
+}
+
+.hero-v6 .eyebrow {
+  display: block !important;
+  color: #ffffff !important;
+  background: transparent !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 0 36px !important;
+  font-size: clamp(1.1rem, 1.8vw, 1.75rem) !important;
+  line-height: 1.4 !important;
+  font-weight: 800 !important;
+}
+
+.hero-v6 .eyebrow::after,
+.hero-v6 .hero-main-title::before,
+.hero-v6 .hero-main-title::after {
+  content: "" !important;
+  display: block !important;
+  width: min(285px, 62%) !important;
+  height: 1px !important;
+  margin: 32px auto 0 !important;
+  background: linear-gradient(90deg, transparent, #25d5c3, transparent) !important;
+  opacity: .9 !important;
+}
+
+.hero-v6 .hero-main-title {
+  color: #36d7c8 !important;
+  font-size: clamp(3rem, 5.2vw, 4.6rem) !important;
+  line-height: 1.14 !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em !important;
+  margin: 0 auto 34px !important;
+  text-wrap: balance !important;
+}
+
+.hero-v6 .hero-main-title::before { display: none !important; }
+.hero-v6 .hero-main-title::after { width: min(475px, 82%) !important; margin-top: 28px !important; }
+
+.hero-v6 .hero-description {
+  color: #ffffff !important;
+  font-size: clamp(1.35rem, 2.35vw, 2rem) !important;
+  line-height: 1.65 !important;
+  font-weight: 700 !important;
+  max-width: 650px !important;
+  margin: 0 auto 34px !important;
+}
+
+.hero-actions-v6 {
+  display: flex !important;
+  flex-direction: row-reverse !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 22px !important;
+  flex-wrap: wrap !important;
+  margin: 18px auto 42px !important;
+}
+
+.hero-actions-v6 .btn {
+  min-width: 245px !important;
+  min-height: 74px !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 999px !important;
+  font-size: 1.25rem !important;
+  font-weight: 900 !important;
+  padding: 16px 28px !important;
+  margin: 0 !important;
+  text-decoration: none !important;
+}
+
+.hero-actions-v6 .whatsapp-btn { background: linear-gradient(135deg, #31b650, #51d167) !important; color: #ffffff !important; }
+.hero-actions-v6 .call-btn { background: rgba(255,255,255,.12) !important; border: 1px solid rgba(255,255,255,.38) !important; color: #ffffff !important; }
+
+.hero-badges-v6 {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 0 !important;
+  max-width: 640px !important;
+  margin: 0 auto !important;
+  color: #ffffff !important;
+}
+
+.hero-badges-v6 > div {
+  padding: 0 26px !important;
+  border-left: 1px solid rgba(255,255,255,.28) !important;
+}
+.hero-badges-v6 > div:first-child { border-left: 0 !important; }
+.hero-badges-v6 span,
+.hero-badges-v6 strong {
+  display: block !important;
+  color: #ffffff !important;
+  line-height: 1.55 !important;
+}
+.hero-badges-v6 span { font-size: 1.18rem !important; font-weight: 700 !important; }
+.hero-badges-v6 strong { font-size: 1.18rem !important; font-weight: 900 !important; }
+
+@media (max-width: 920px) {
+  .hero-v6 {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 24px !important;
+    padding: 28px 16px 34px !important;
+    overflow: visible !important;
+  }
+  .hero-v6 .hero-portrait-v6,
+  .hero-v6 .hero-content-v6 { order: initial !important; }
+  .hero-v6 .hero-content-v6 { order: 1 !important; width: 100% !important; }
+  .hero-v6 .hero-portrait-v6 { order: 2 !important; width: 100% !important; display: flex !important; justify-content: center !important; }
+  .hero-v6 .hero-portrait-v6 img { width: min(100%, 460px) !important; max-height: 560px !important; }
+  .hero-v6 .eyebrow { font-size: 1.05rem !important; margin-bottom: 22px !important; }
+  .hero-v6 .eyebrow::after { margin-top: 20px !important; }
+  .hero-v6 .hero-main-title { font-size: clamp(2.4rem, 12vw, 4rem) !important; line-height: 1.18 !important; margin-bottom: 24px !important; }
+  .hero-v6 .hero-main-title::after { margin-top: 20px !important; }
+  .hero-v6 .hero-description { font-size: clamp(1.12rem, 5.4vw, 1.55rem) !important; line-height: 1.65 !important; margin-bottom: 22px !important; }
+  .hero-actions-v6 { flex-direction: column !important; gap: 12px !important; margin-bottom: 28px !important; }
+  .hero-actions-v6 .btn { width: min(100%, 340px) !important; min-width: 0 !important; min-height: 58px !important; font-size: 1.05rem !important; }
+  .hero-badges-v6 { grid-template-columns: 1fr !important; gap: 12px !important; max-width: 360px !important; }
+  .hero-badges-v6 > div { border-left: 0 !important; border-top: 1px solid rgba(255,255,255,.22) !important; padding: 10px 0 0 !important; }
+  .hero-badges-v6 > div:first-child { border-top: 0 !important; }
+}
+
+@media (max-width: 480px) {
+  .hero-v6 { padding: 24px 12px 30px !important; }
+  .hero-v6 .hero-main-title { font-size: clamp(2.2rem, 11.5vw, 3.2rem) !important; }
+  .hero-v6 .hero-description { font-size: 1.08rem !important; }
+  .hero-v6 .hero-portrait-v6 img { width: 100% !important; max-height: 500px !important; }
+}
+
+/* ===== v4.0.3 Mobile Hero Final Patch =====
+   Goal: keep desktop layout as-is, improve mobile first screen: photo higher, compact text, non-cropped portrait, clean CTA/badges. */
+.hero-v6 .hero-content-v6 h1 {
+  color: #ffffff !important;
+  font-size: clamp(1.1rem, 1.8vw, 1.75rem) !important;
+  line-height: 1.4 !important;
+  font-weight: 800 !important;
+  margin: 0 0 36px !important;
+}
+.hero-v6 .hero-content-v6 h1::after {
+  content: "" !important;
+  display: block !important;
+  width: min(285px, 62%) !important;
+  height: 1px !important;
+  margin: 32px auto 0 !important;
+  background: linear-gradient(90deg, transparent, #25d5c3, transparent) !important;
+  opacity: .9 !important;
+}
+.hero-v6 .hero-subtitle-main {
+  color: #36d7c8 !important;
+  font-size: clamp(3rem, 5.2vw, 4.6rem) !important;
+  line-height: 1.14 !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em !important;
+  margin: 0 auto 34px !important;
+  text-wrap: balance !important;
+}
+.hero-v6 .hero-subtitle-main::after {
+  content: "" !important;
+  display: block !important;
+  width: min(475px, 82%) !important;
+  height: 1px !important;
+  margin: 28px auto 0 !important;
+  background: linear-gradient(90deg, transparent, #25d5c3, transparent) !important;
+  opacity: .9 !important;
+}
+
+@media (max-width: 920px) {
+  .hero-v6 {
+    flex-direction: column !important;
+    gap: 18px !important;
+    padding: 22px 14px 30px !important;
+    min-height: auto !important;
+  }
+  .hero-v6 .hero-portrait-v6 {
+    order: 1 !important;
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 0 auto 4px !important;
+  }
+  .hero-v6 .hero-content-v6 {
+    order: 2 !important;
+    width: 100% !important;
+    max-width: 540px !important;
+  }
+  .hero-v6 .hero-portrait-v6 img {
+    width: min(82vw, 360px) !important;
+    height: auto !important;
+    aspect-ratio: auto !important;
+    max-height: none !important;
+    object-fit: contain !important;
+    object-position: center center !important;
+    border-radius: 16px !important;
+    box-shadow: 0 16px 38px rgba(0,0,0,.22) !important;
+  }
+  .hero-v6 .eyebrow {
+    display: none !important;
+  }
+  .hero-v6 .hero-content-v6 h1 {
+    font-size: 1rem !important;
+    margin: 4px 0 14px !important;
+  }
+  .hero-v6 .hero-content-v6 h1::after {
+    width: 190px !important;
+    margin-top: 14px !important;
+  }
+  .hero-v6 .hero-subtitle-main {
+    font-size: clamp(2.25rem, 10.5vw, 3.25rem) !important;
+    line-height: 1.14 !important;
+    margin: 0 auto 16px !important;
+  }
+  .hero-v6 .hero-subtitle-main::after {
+    width: min(320px, 80%) !important;
+    margin-top: 16px !important;
+  }
+  .hero-v6 .hero-description {
+    font-size: clamp(1.05rem, 4.7vw, 1.28rem) !important;
+    line-height: 1.55 !important;
+    margin-bottom: 18px !important;
+  }
+  .hero-actions-v6 {
+    flex-direction: column !important;
+    gap: 10px !important;
+    margin: 0 auto 22px !important;
+  }
+  .hero-actions-v6 .btn {
+    width: min(100%, 320px) !important;
+    min-height: 54px !important;
+    font-size: 1rem !important;
+    padding: 12px 18px !important;
+  }
+  .hero-badges-v6 {
+    grid-template-columns: 1fr !important;
+    gap: 8px !important;
+    max-width: 330px !important;
+  }
+  .hero-badges-v6 > div {
+    border-left: 0 !important;
+    border-top: 1px solid rgba(255,255,255,.18) !important;
+    padding: 8px 0 0 !important;
+  }
+  .hero-badges-v6 span,
+  .hero-badges-v6 strong {
+    font-size: 1rem !important;
+    line-height: 1.35 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-v6 {
+    padding: 18px 12px 28px !important;
+    gap: 16px !important;
+  }
+  .hero-v6 .hero-portrait-v6 img {
+    width: min(84vw, 330px) !important;
+  }
+  .hero-v6 .hero-subtitle-main {
+    font-size: clamp(2.05rem, 10vw, 2.85rem) !important;
+  }
+}
+
+
+/* v4.0.4 quality fix: prevent floating contact buttons from visually touching on narrow mobile screens */
+@media (max-width: 480px) {
+  .call-float,
+  .whatsapp-float {
+    box-sizing: border-box !important;
+    width: calc(50% - 22px) !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    text-align: center !important;
+  }
+
+  .call-float {
+    left: 12px !important;
+    right: auto !important;
+  }
+
+  .whatsapp-float {
+    right: 12px !important;
+    left: auto !important;
+  }
+}
+
+
+/* ===== v4.1.3 homepage hero desktop portrait position =====
+   Desktop only: lift homepage portrait slightly without changing mobile layout. */
+@media (min-width: 921px) {
+  .hero-v6 .hero-portrait-v6 {
+    transform: translateY(-56px) !important;
+  }
+}
+
+/* Safety net: public visitors should not see internal article-order development notes. */
+.page-intro:empty {
+  display: none !important;
+}
+
+/* ===== Homepage warm professional mockup: responsive layer ===== */
+@media (max-width: 920px) {
+  section.warm-home-hero {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 34px 18px 44px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 30px !important;
+    overflow: hidden !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    text-align: right !important;
+    background:
+      radial-gradient(circle at 8% 18%, rgba(202, 224, 210, .58), transparent 28%),
+      linear-gradient(145deg, #fbf8f1 0%, #edf5ef 100%) !important;
+  }
+
+  .warm-home-hero .warm-hero-copy {
+    order: 1 !important;
+    width: 100% !important;
+    max-width: 620px !important;
+    margin: 0 auto !important;
+  }
+
+  .warm-home-hero .warm-hero-eyebrow {
+    display: inline-flex !important;
+    margin: 0 0 14px !important;
+    font-size: .86rem !important;
+    line-height: 1.45 !important;
+  }
+
+  .warm-home-hero h1 {
+    margin: 0 0 16px !important;
+    color: #173b32 !important;
+    font-size: clamp(2.55rem, 12.5vw, 4rem) !important;
+    line-height: 1.08 !important;
+    text-align: right !important;
+    overflow-wrap: normal !important;
+  }
+
+  .warm-home-hero .warm-hero-lead {
+    margin-bottom: 12px !important;
+    color: #294c42 !important;
+    font-size: clamp(1.08rem, 4.8vw, 1.32rem) !important;
+    line-height: 1.58 !important;
+  }
+
+  .warm-home-hero .warm-hero-note {
+    margin-bottom: 14px !important;
+    font-size: .98rem !important;
+    line-height: 1.65 !important;
+  }
+
+  .warm-home-hero .warm-hero-actions {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+    margin-bottom: 17px !important;
+  }
+
+  .warm-home-hero .warm-hero-promises {
+    display: flex !important;
+    justify-content: flex-start !important;
+    gap: 8px 18px !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .warm-home-hero .warm-hero-promises li {
+    font-size: .88rem !important;
+  }
+
+  .warm-home-hero .warm-hero-btn {
+    width: 100% !important;
+    height: 54px !important;
+    padding: 12px 16px !important;
+    font-size: 1rem !important;
+  }
+
+  .warm-home-hero .warm-hero-trust {
+    order: 3 !important;
+    width: 100% !important;
+    max-width: 620px !important;
+    margin: 0 auto !important;
+    grid-template-columns: 1fr !important;
+    gap: 0 !important;
+    padding-top: 8px !important;
+    border-top: 1px solid rgba(46, 82, 70, .16) !important;
+  }
+
+  .warm-home-hero .warm-hero-trust > div {
+    padding: 12px 0 !important;
+    border-left: 0 !important;
+    border-bottom: 1px solid rgba(46, 82, 70, .12) !important;
+  }
+
+  .warm-home-hero .warm-hero-trust > div:last-child {
+    border-bottom: 0 !important;
+  }
+
+  .warm-home-hero .warm-hero-trust strong {
+    font-size: .95rem !important;
+  }
+
+  .warm-home-hero .warm-hero-trust span {
+    font-size: .84rem !important;
+  }
+
+  .warm-home-hero .warm-hero-portrait {
+    order: 2 !important;
+    width: min(100%, 390px) !important;
+    margin: 0 auto !important;
+  }
+
+  .warm-home-hero .warm-hero-portrait::before {
+    inset: 22px -14px -16px 24px !important;
+    border-radius: 28px !important;
+  }
+
+  .warm-home-hero .warm-hero-image-wrap {
+    border-width: 6px !important;
+    border-radius: 24px !important;
+  }
+
+  .warm-home-hero .warm-hero-image-wrap img {
+    width: 100% !important;
+    max-height: none !important;
+    aspect-ratio: 591 / 775 !important;
+    object-fit: cover !important;
+    object-position: center top !important;
+  }
+}
+
+@media (max-width: 480px) {
+  section.warm-home-hero {
+    padding: 28px 14px 40px !important;
+    gap: 26px !important;
+  }
+
+  .warm-home-hero h1 {
+    font-size: clamp(2.4rem, 12vw, 3.25rem) !important;
+  }
+
+  .warm-home-hero .warm-hero-portrait {
+    width: min(94%, 350px) !important;
+  }
+
+  .warm-home-hero .warm-hero-portrait figcaption {
+    width: calc(100% - 28px) !important;
+    margin-top: -24px !important;
+    padding: 13px 14px !important;
+  }
+}
