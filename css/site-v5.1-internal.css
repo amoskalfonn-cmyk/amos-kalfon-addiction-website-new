@@ -1465,3 +1465,208 @@ body.page-about > a.whatsapp-float.whatsapp-button[href="https://wa.me/972546330
 body.internal-page > a.whatsapp-float.whatsapp-button[href="https://wa.me/972546330009"] {
   display: none !important;
 }
+
+/* Sprint 2A.3.1: treatment guidance examples and questionnaire repair */
+body.page-treatment-guidance .guidance-comparison-table {
+  width: min(900px, 100%);
+  margin: 18px auto 10px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid rgba(31, 80, 65, .16);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 14px 32px rgba(30, 70, 57, .06);
+}
+body.page-treatment-guidance .guidance-comparison-table th,
+body.page-treatment-guidance .guidance-comparison-table td {
+  padding: 18px 20px;
+  text-align: right;
+  vertical-align: top;
+  border-bottom: 1px solid rgba(31, 80, 65, .12);
+  line-height: 1.75;
+}
+body.page-treatment-guidance .guidance-comparison-table th {
+  background: #eef7f0;
+  color: var(--v51-green-dark);
+  font-weight: 900;
+  font-size: .98rem;
+}
+body.page-treatment-guidance .guidance-comparison-table td:first-child {
+  width: 34%;
+  color: var(--v51-ink);
+  font-weight: 900;
+}
+body.page-treatment-guidance .guidance-comparison-table td + td,
+body.page-treatment-guidance .guidance-comparison-table th + th {
+  border-right: 1px solid rgba(31, 80, 65, .12);
+}
+body.page-treatment-guidance .guidance-comparison-table tbody tr:nth-child(even) td { background: #fbfdfb; }
+body.page-treatment-guidance .guidance-comparison-table tbody tr:last-child td { border-bottom: 0; }
+
+body.page-treatment-guidance .guidance-questionnaire {
+  width: min(900px, 100%);
+  margin: 22px auto 0 !important;
+  padding: clamp(18px, 3vw, 28px) !important;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  border: 1px solid rgba(31, 80, 65, .14);
+  border-radius: 22px;
+  background: linear-gradient(180deg, #f7fbf8 0%, #ffffff 100%);
+  box-shadow: 0 16px 38px rgba(30, 70, 57, .07);
+}
+body.page-treatment-guidance .guidance-questionnaire fieldset {
+  min-width: 0;
+  margin: 0;
+  padding: 17px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  border: 1px solid rgba(31, 80, 65, .15);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, .92);
+  box-shadow: 0 8px 20px rgba(30, 70, 57, .045);
+}
+body.page-treatment-guidance .guidance-questionnaire legend {
+  padding: 0 0 9px;
+  color: var(--v51-ink);
+  font-weight: 900;
+  line-height: 1.45;
+}
+body.page-treatment-guidance .guidance-questionnaire label {
+  min-height: 42px;
+  margin: 0;
+  padding: 9px 11px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid rgba(31, 80, 65, .12);
+  border-radius: 12px;
+  background: #fbfdfb;
+  color: var(--v51-ink);
+  line-height: 1.45;
+  cursor: pointer;
+  transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
+}
+body.page-treatment-guidance .guidance-questionnaire label:hover,
+body.page-treatment-guidance .guidance-questionnaire label:focus-within {
+  border-color: rgba(37, 211, 102, .55);
+  background: #f0fbf3;
+  box-shadow: 0 0 0 3px rgba(37, 211, 102, .13);
+}
+body.page-treatment-guidance .guidance-questionnaire input[type="radio"],
+body.page-treatment-guidance .guidance-questionnaire input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 18px;
+  margin: 0;
+  accent-color: #25D366;
+}
+body.page-treatment-guidance .guidance-questionnaire label:has(input:checked) {
+  border-color: rgba(37, 211, 102, .75);
+  background: #e9faef;
+  box-shadow: inset 0 0 0 1px rgba(37, 211, 102, .22);
+  font-weight: 800;
+}
+body.page-treatment-guidance .guidance-questionnaire .form-note,
+body.page-treatment-guidance .guidance-questionnaire > button,
+body.page-treatment-guidance .guidance-result-panel {
+  grid-column: 1 / -1;
+}
+body.page-treatment-guidance .guidance-questionnaire .form-note {
+  margin: 0;
+  padding: 13px 15px;
+  border: 1px solid rgba(31, 80, 65, .14);
+  border-radius: 14px;
+  background: #f4f8f4;
+  color: var(--v51-muted);
+  line-height: 1.7;
+}
+body.page-treatment-guidance #guidance-safety-notice:not([hidden]),
+body.page-treatment-guidance .guidance-result-panel.is-safety-result {
+  border-color: rgba(130, 60, 20, .25);
+  background: #fff8ed;
+  color: #5f3516;
+}
+body.page-treatment-guidance .guidance-questionnaire fieldset.is-invalid {
+  border-color: rgba(174, 52, 42, .55);
+  box-shadow: 0 0 0 3px rgba(174, 52, 42, .08);
+}
+body.page-treatment-guidance .guidance-validation-message {
+  margin: 2px 0 0;
+  color: #8f2f25;
+  font-weight: 900;
+  font-size: .92rem;
+}
+body.page-treatment-guidance .guidance-result-panel {
+  margin-top: 4px;
+  padding: 21px;
+  border: 1px solid rgba(31, 80, 65, .16);
+  border-radius: 18px;
+  background: #f4fbf6;
+  color: var(--v51-ink);
+  box-shadow: 0 12px 28px rgba(30, 70, 57, .07);
+}
+body.page-treatment-guidance .guidance-result-panel h3 {
+  margin: 0 0 10px;
+  color: var(--v51-green-dark);
+  font-size: 1.25rem;
+}
+body.page-treatment-guidance .guidance-result-panel h3:focus-visible {
+  outline: 3px solid rgba(37, 211, 102, .35);
+  outline-offset: 4px;
+  border-radius: 8px;
+}
+body.page-treatment-guidance .guidance-result-panel p {
+  margin: 0 0 .75em;
+  line-height: 1.75;
+}
+body.page-treatment-guidance .guidance-result-panel p:last-child { margin-bottom: 0; }
+
+@media (max-width: 720px) {
+  body.page-treatment-guidance .guidance-comparison-table,
+  body.page-treatment-guidance .guidance-comparison-table thead,
+  body.page-treatment-guidance .guidance-comparison-table tbody,
+  body.page-treatment-guidance .guidance-comparison-table tr,
+  body.page-treatment-guidance .guidance-comparison-table th,
+  body.page-treatment-guidance .guidance-comparison-table td {
+    display: block;
+  }
+  body.page-treatment-guidance .guidance-comparison-table {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  body.page-treatment-guidance .guidance-comparison-table thead { display: none; }
+  body.page-treatment-guidance .guidance-comparison-table tr {
+    margin-bottom: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(31, 80, 65, .14);
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 10px 22px rgba(30, 70, 57, .055);
+  }
+  body.page-treatment-guidance .guidance-comparison-table td {
+    width: 100% !important;
+    padding: 13px 15px;
+    border: 0 !important;
+  }
+  body.page-treatment-guidance .guidance-comparison-table td + td { border-top: 1px solid rgba(31, 80, 65, .1) !important; }
+  body.page-treatment-guidance .guidance-comparison-table td::before {
+    display: block;
+    margin-bottom: 3px;
+    color: var(--v51-green-dark);
+    font-size: .78rem;
+    font-weight: 900;
+  }
+  body.page-treatment-guidance .guidance-comparison-table td:first-child::before { content: "מצב"; }
+  body.page-treatment-guidance .guidance-comparison-table td:nth-child(2)::before { content: "ייתכן שכדאי לבדוק"; }
+  body.page-treatment-guidance .guidance-questionnaire {
+    grid-template-columns: 1fr;
+    padding: 16px !important;
+    gap: 13px;
+  }
+  body.page-treatment-guidance .guidance-questionnaire fieldset { padding: 14px; }
+  body.page-treatment-guidance .guidance-questionnaire label { min-height: 44px; }
+}

@@ -1,0 +1,42 @@
+{
+  "screenshots": {
+    "normal": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-normal-summary-desktop.png",
+    "safety": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-safety-summary-desktop.png",
+    "mobile": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-mobile-full.png"
+  },
+  "initial": {
+    "canonical": "https://amos-kalfon-addiction-counselor.com/services/treatment-guidance.html",
+    "fieldsets": 8,
+    "labelRows": true,
+    "overflow": false,
+    "schemaCount": 3,
+    "storageCodeMentions": false
+  },
+  "validation": {
+    "invalidCount": 8,
+    "resultHidden": true
+  },
+  "normal": {
+    "hidden": false,
+    "includesFinalDisclaimer": true,
+    "includesNoDanger": true,
+    "paragraphs": 6,
+    "resultCount": 1,
+    "selectedStillVisible": true,
+    "text": "הסיכום הראשוני שלך\n\nנראה שהפנייה היא עבור אדם קרוב. במצבים כאלה חשוב להבין גם את מצבו של האדם וגם את העומס והצרכים של המשפחה.\n\nציינתם שכבר נעשה ניסיון לקבל עזרה בעבר. כדאי להביא לשיחת ההכוונה מידע על מה נוסה, מה עזר ומה לא התאים.\n\nציינתם שהמשפחה מתקשה להתמודד לבד. שיחת ההכוונה יכולה לעזור לעשות סדר באפשרויות ובגבולות שהמשפחה יכולה להציב.\n\nנראה שהמוטיבציה לקבל עזרה אינה מלאה. במצב כזה חשוב לבחון צעדים הדרגתיים ולחשוב כיצד לנהל שיחה שאינה מבוססת על כפייה.\n\nלא ציינתם סכנה מיידית, ולכן אפשר להתמקד בבירור מסודר של הצרכים והאפשרויות.\n\nהסיכום הוא מידע כללי בלבד. הוא אינו אבחון ואינו קובע איזו מסגרת טיפול מתאימה. בשיחת ההכוונה אפשר להבין יחד אילו אפשרויות ושאלות כדאי לבדוק."
+  },
+  "safety": {
+    "hidden": false,
+    "isSafetyResult": true,
+    "resultCount": 1,
+    "safetyNoticeVisible": true,
+    "text": "הסיכום הראשוני שלך\n\nאם קיימת סכנה מיידית, אין להמתין לשיחת ההכוונה. יש לפנות מיד לשירותי החירום או לגורם רפואי או מקצועי מוסמך."
+  },
+  "mobile": {
+    "firstTableRowDisplay": "block",
+    "formColumns": "270px",
+    "labelRows": true,
+    "overflow": false
+  },
+  "logs": []
+}

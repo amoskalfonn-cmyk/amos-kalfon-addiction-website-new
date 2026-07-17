@@ -1,0 +1,82 @@
+{
+  "statuses": {
+    "/": "complete",
+    "/services/treatment-guidance.html": "complete",
+    "/specialties.html": "complete",
+    "/contact.html": "complete",
+    "/about.html": "complete"
+  },
+  "overflows": {
+    "/": false,
+    "/services/treatment-guidance.html": false,
+    "/specialties.html": false,
+    "/contact.html": false,
+    "/about.html": false
+  },
+  "screenshots": {
+    "desktop": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-desktop-full.png",
+    "validation": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-validation-desktop.png",
+    "normal": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-normal-summary-desktop.png",
+    "safety": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-safety-summary-desktop.png",
+    "mobile": "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\qa-v5.28.4\\treatment-guidance-mobile-full.png"
+  },
+  "logs": [],
+  "initial": {
+    "canonical": "https://amos-kalfon-addiction-counselor.com/services/treatment-guidance.html",
+    "fieldsets": 8,
+    "formColumns": "413.2px 413.2px",
+    "formDisplay": "grid",
+    "labelRows": true,
+    "labels": 27,
+    "resultHidden": true,
+    "resultInsideForm": true,
+    "schemaCount": 3,
+    "storageCodeMentions": false,
+    "tableRows": 5,
+    "title": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון",
+    "whatsappHrefs": [
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009"
+    ]
+  },
+  "incomplete": {
+    "invalidCount": 8,
+    "resultHidden": true,
+    "validationMessages": [
+      "בחרו עבור מי הפנייה.",
+      "בחרו לפחות תחום אחד.",
+      "בחרו לפחות מטרה אחת לפנייה.",
+      "סמנו האם היה ניסיון קודם לקבל עזרה.",
+      "סמנו האם קיימת כיום מסגרת טיפול.",
+      "סמנו האם המשפחה מתקשה להתמודד לבד.",
+      "בחרו את רמת המוטיבציה לקבל עזרה.",
+      "סמנו האם קיימת סכנה מיידית."
+    ]
+  },
+  "normal": {
+    "heading": "הסיכום הראשוני שלך",
+    "hidden": false,
+    "pageUrl": "/services/treatment-guidance.html",
+    "paragraphs": 5,
+    "resultCount": 1,
+    "selectedStillVisible": true,
+    "text": "הסיכום הראשוני שלך\n\nנראה שהפנייה היא עבור אדם קרוב. במצבים כאלה חשוב להבין גם את מצבו של האדם וגם את העומס והצרכים של המשפחה.\n\nציינתם שכבר נעשה ניסיון לקבל עזרה בעבר. כדאי להביא לשיחת ההכוונה מידע על מה נוסה, מה עזר ומה לא התאים.\n\nציינתם שהמשפחה מתקשה להתמודד לבד. שיחת ההכוונה יכולה לעזור לעשות סדר באפשרויות ובגבולות שהמשפחה יכולה להציב.\n\nנראה שהמוטיבציה לקבל עזרה אינה מלאה. במצב כזה חשוב לבחון צעדים הדרגתיים ולחשוב כיצד לנהל שיחה שאינה מבוססת על כפייה.\n\nהמטרה שציינתם היא לבחון מסגרת טיפול. בשיחת ההכוונה אפשר לעבור על האפשרויות הקיימות ולהבין אילו שאלות חשוב להפנות לגורמים המקצועיים."
+  },
+  "safety": {
+    "hidden": false,
+    "isSafetyResult": true,
+    "pageUrl": "/services/treatment-guidance.html",
+    "resultCount": 1,
+    "safetyNoticeVisible": true,
+    "text": "הסיכום הראשוני שלך\n\nאם קיימת סכנה מיידית, אין להמתין לשיחת ההכוונה. יש לפנות מיד לשירותי החירום או לגורם רפואי או מקצועי מוסמך."
+  },
+  "mobile": {
+    "firstTableRowDisplay": "block",
+    "formColumns": "270px",
+    "labelRows": true,
+    "overflow": false
+  }
+}

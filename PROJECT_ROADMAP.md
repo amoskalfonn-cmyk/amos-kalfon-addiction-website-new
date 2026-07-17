@@ -2,6 +2,11 @@
 
 ## Completed
 
+### Sprint 2A.3.1 - Treatment Guidance Page UI and Questionnaire Repair
+- Repaired only the approved treatment-guidance examples table, questionnaire UI and inline result behavior.
+- Preserved locked SEO, schema, navigation, URLs, CTA destinations, storage-free behavior and unrelated pages.
+
+
 ### Sprint 2A.3 - Initial Guidance Questionnaire
 - Completed an isolated non-diagnostic questionnaire for the treatment guidance page.
 - Preserved the locked page structure, SEO, schema, CTAs, navigation, styling and existing functionality.

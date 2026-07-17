@@ -1,5 +1,18 @@
 # Changelog
 
+## v5.28.4 - 2026-07-17
+
+### Changed
+- Repaired the treatment-guidance examples table with a scoped comparison layout for desktop and stacked cards on mobile.
+- Repaired the initial guidance questionnaire visual layout with compact question cards, aligned clickable answer rows and selected-state styling.
+- Rebuilt the questionnaire result behavior so the summary button validates required answers and shows one inline contextual result panel below the button.
+
+### Fixed
+- Fixed the questionnaire submit button appearing inactive by preventing reloads, validating missing answers inline and rendering an accessible same-page result.
+- Added immediate-danger result behavior with prominent safety wording and no normal guidance summary.
+- Preserved SEO metadata, schema, navigation, existing URLs, WhatsApp links, contact links and storage-free behavior.
+
+
 ## v5.28.3 - 2026-07-17
 
 ### Added
