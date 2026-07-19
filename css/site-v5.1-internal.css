@@ -1678,3 +1678,165 @@ body.page-treatment-guidance .guidance-lead-actions { margin-top: 14px; }
   body.page-treatment-guidance .guidance-step-controls { flex-direction: column-reverse; }
   body.page-treatment-guidance .guidance-step-controls .btn { width: 100%; }
 }
+
+/* Sprint 2A.3.3: warmer visual refinement for the initial guidance questionnaire only */
+body.page-treatment-guidance .guidance-step-flow {
+  position: relative;
+  overflow: hidden;
+  width: min(820px, 100%);
+  padding: clamp(22px, 4vw, 34px) !important;
+  border: 1px solid rgba(37, 211, 102, .22);
+  border-radius: 28px;
+  background:
+    radial-gradient(circle at 88% 0%, rgba(37, 211, 102, .16), transparent 34%),
+    linear-gradient(180deg, #fbfffc 0%, #f4fbf6 100%);
+  box-shadow: 0 20px 52px rgba(18, 92, 72, .10);
+}
+
+body.page-treatment-guidance .guidance-step-flow::before {
+  content: '';
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 7px;
+  background: linear-gradient(180deg, #25D366 0%, rgba(37, 211, 102, .18) 100%);
+  pointer-events: none;
+}
+
+body.page-treatment-guidance .guidance-progress {
+  position: relative;
+  z-index: 1;
+  width: min(640px, 100%);
+  margin: 0 auto 20px;
+  padding: 12px 14px;
+  border: 1px solid rgba(37, 211, 102, .18);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, .78);
+  box-shadow: 0 10px 24px rgba(18, 92, 72, .055);
+}
+
+body.page-treatment-guidance .guidance-progress-track {
+  height: 10px;
+  background: rgba(31, 80, 65, .09);
+}
+
+body.page-treatment-guidance #guidance-progress-bar {
+  background: linear-gradient(90deg, #20BD5A 0%, #25D366 100%);
+}
+
+body.page-treatment-guidance .guidance-step-flow fieldset {
+  position: relative;
+  z-index: 1;
+  width: min(640px, 100%);
+  margin: 0 auto;
+  padding: clamp(20px, 3vw, 28px);
+  gap: 12px;
+  border: 1px solid rgba(37, 211, 102, .22);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, .96);
+  box-shadow: 0 16px 36px rgba(18, 92, 72, .085);
+}
+
+body.page-treatment-guidance .guidance-step-flow legend {
+  width: 100%;
+  margin: 0 0 6px;
+  padding: 0 0 14px;
+  border-bottom: 1px solid rgba(31, 80, 65, .11);
+  color: #123f34;
+  font-size: clamp(1.18rem, 2.4vw, 1.45rem);
+  line-height: 1.45;
+  text-align: right;
+}
+
+body.page-treatment-guidance .guidance-step-flow label {
+  position: relative;
+  min-height: 52px;
+  padding: 13px 16px;
+  justify-content: flex-start;
+  border: 1px solid rgba(31, 80, 65, .14);
+  border-radius: 17px;
+  background: #ffffff;
+  box-shadow: 0 8px 18px rgba(18, 92, 72, .045);
+  font-weight: 700;
+}
+
+body.page-treatment-guidance .guidance-step-flow label::after {
+  content: '';
+  position: absolute;
+  inset-inline-start: 14px;
+  top: 50%;
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(37, 211, 102, .24);
+  transform: translateY(-50%);
+  transition: background .16s ease, transform .16s ease;
+}
+
+body.page-treatment-guidance .guidance-step-flow label:hover,
+body.page-treatment-guidance .guidance-step-flow label:focus-within {
+  border-color: rgba(37, 211, 102, .58);
+  background: #f5fff8;
+  box-shadow: 0 10px 22px rgba(37, 211, 102, .13);
+}
+
+body.page-treatment-guidance .guidance-step-flow label:has(input:checked) {
+  border-color: rgba(37, 211, 102, .86);
+  background: linear-gradient(180deg, #effcf3 0%, #ffffff 100%);
+  box-shadow: inset 0 0 0 1px rgba(37, 211, 102, .28), 0 12px 26px rgba(37, 211, 102, .14);
+  color: #123f34;
+  font-weight: 900;
+}
+
+body.page-treatment-guidance .guidance-step-flow label:has(input:checked)::after {
+  background: #25D366;
+  transform: translateY(-50%) scale(1.35);
+}
+
+body.page-treatment-guidance .guidance-step-flow input[type="radio"],
+body.page-treatment-guidance .guidance-step-flow input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  flex-basis: 20px;
+  accent-color: #25D366;
+}
+
+body.page-treatment-guidance .guidance-step-flow .form-note,
+body.page-treatment-guidance .guidance-step-controls,
+body.page-treatment-guidance .guidance-result-panel {
+  width: min(640px, 100%);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body.page-treatment-guidance .guidance-step-flow .form-note {
+  background: rgba(255, 255, 255, .82);
+}
+
+body.page-treatment-guidance .guidance-step-controls {
+  margin-top: 18px;
+}
+
+body.page-treatment-guidance .guidance-step-controls .btn {
+  border-radius: 999px;
+}
+
+@media (max-width: 720px) {
+  body.page-treatment-guidance .guidance-step-flow {
+    padding: 18px !important;
+    border-radius: 24px;
+  }
+
+  body.page-treatment-guidance .guidance-step-flow fieldset {
+    padding: 18px;
+    border-radius: 20px;
+  }
+
+  body.page-treatment-guidance .guidance-step-flow legend {
+    font-size: 1.14rem;
+  }
+
+  body.page-treatment-guidance .guidance-step-flow label {
+    min-height: 50px;
+    padding: 12px 14px;
+  }
+}
