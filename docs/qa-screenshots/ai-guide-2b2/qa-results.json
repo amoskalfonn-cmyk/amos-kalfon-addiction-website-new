@@ -1,0 +1,281 @@
+{
+  "pages": [
+    {
+      "page": "home",
+      "viewport": "desktop",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "home",
+      "viewport": "mobile",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "treatment-guidance",
+      "viewport": "desktop",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "treatment-guidance",
+      "viewport": "mobile",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "knowledge-center",
+      "viewport": "desktop",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "knowledge-center",
+      "viewport": "mobile",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "for-professionals",
+      "viewport": "desktop",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "for-professionals",
+      "viewport": "mobile",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "article-when-to-seek-help",
+      "viewport": "desktop",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    },
+    {
+      "page": "article-when-to-seek-help",
+      "viewport": "mobile",
+      "initialOk": true,
+      "routeOk": true,
+      "answerOk": true,
+      "safetyOk": true,
+      "medicalOk": true,
+      "fallbackOk": true,
+      "closedByEscape": true,
+      "focusReturned": true,
+      "layout": {
+        "noHorizontalOverflow": true,
+        "launcherVisible": true,
+        "dialogVisible": true,
+        "launcherOverlapsFloats": false
+      }
+    }
+  ],
+  "screenshots": [
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\home-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\home-mobile.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\treatment-guidance-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\treatment-guidance-mobile.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\knowledge-center-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\knowledge-center-mobile.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\for-professionals-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\for-professionals-mobile.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\article-when-to-seek-help-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2\\article-when-to-seek-help-mobile.png"
+  ],
+  "consoleErrors": [],
+  "sourceLinkChecks": [
+    {
+      "href": "/",
+      "exists": true
+    },
+    {
+      "href": "/services/treatment-guidance.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge-center.html",
+      "exists": true
+    },
+    {
+      "href": "/for-professionals.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/when-to-seek-help.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/how-to-choose-addiction-help.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/guidance-vs-treatment.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/when-guidance-is-not-enough.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/families.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/addict-refuses-help.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/boundaries.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/talk-to-addicted-family-member.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/gambling.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/alcohol.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/drugs.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/prescription-drugs.html",
+      "exists": true
+    },
+    {
+      "href": "/disclaimer.html",
+      "exists": true
+    },
+    {
+      "href": "/privacy.html",
+      "exists": true
+    }
+  ],
+  "forbiddenApiTerms": {
+    "fetch(": false,
+    "XMLHttpRequest": false,
+    "sendBeacon": false,
+    "localStorage": false,
+    "sessionStorage": false,
+    "indexedDB": false,
+    "document.cookie": false
+  },
+  "totalButtonsVerified": 10
+}

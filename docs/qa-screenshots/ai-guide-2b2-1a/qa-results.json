@@ -1,0 +1,104 @@
+{
+  "copy": {
+    "headingExact": true,
+    "subtitleExact": true,
+    "disclosureExact": true,
+    "oldNameAbsent": true,
+    "fourCards": true,
+    "subtitleHasBdi": true
+  },
+  "readability": {
+    "desktop": {
+      "noticeColor": "rgb(23, 63, 54)",
+      "privacyColor": "rgb(47, 81, 72)",
+      "noticeOpacity": "0.232385",
+      "privacyOpacity": "0.232385"
+    },
+    "zoom200": {
+      "noHorizontalOverflow": true,
+      "textVisible": true
+    }
+  },
+  "mobile": [
+    {
+      "viewport": "320x568",
+      "dialogInsideViewport": false,
+      "bodyScrollable": true,
+      "footerBelowBody": true,
+      "freeCardExists": true,
+      "noHorizontalOverflow": true,
+      "launcherOverlapsFloat": false,
+      "freeCardVisibleAtBottom": false,
+      "footerDoesNotCoverFreeCard": false,
+      "bodyScrollTop": 300,
+      "bodyCanScroll": true
+    },
+    {
+      "viewport": "375x667",
+      "dialogInsideViewport": false,
+      "bodyScrollable": true,
+      "footerBelowBody": true,
+      "freeCardExists": true,
+      "noHorizontalOverflow": true,
+      "launcherOverlapsFloat": false,
+      "freeCardVisibleAtBottom": false,
+      "footerDoesNotCoverFreeCard": false,
+      "bodyScrollTop": 192,
+      "bodyCanScroll": true
+    },
+    {
+      "viewport": "390x844",
+      "dialogInsideViewport": true,
+      "bodyScrollable": true,
+      "footerBelowBody": true,
+      "freeCardExists": true,
+      "noHorizontalOverflow": true,
+      "launcherOverlapsFloat": false,
+      "freeCardVisibleAtBottom": true,
+      "footerDoesNotCoverFreeCard": true,
+      "bodyScrollTop": 168,
+      "bodyCanScroll": true
+    },
+    {
+      "viewport": "768x900",
+      "dialogInsideViewport": true,
+      "bodyScrollable": true,
+      "footerBelowBody": true,
+      "freeCardExists": true,
+      "noHorizontalOverflow": true,
+      "launcherOverlapsFloat": false,
+      "freeCardVisibleAtBottom": true,
+      "footerDoesNotCoverFreeCard": true,
+      "bodyScrollTop": 39,
+      "bodyCanScroll": true
+    }
+  ],
+  "interaction": {
+    "escapeCloses": true,
+    "focusReturns": true
+  },
+  "technical": {
+    "oldNameAbsentEverywhere": true,
+    "fetch(": false,
+    "XMLHttpRequest": false,
+    "sendBeacon": false,
+    "WebSocket": false,
+    "localStorage": false,
+    "sessionStorage": false,
+    "indexedDB": false,
+    "document.cookie": false
+  },
+  "screenshots": [
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1a\\desktop-opening.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1a\\mobile-390-bottom.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1a\\mobile-390-opening.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1a\\mobile-390-separation.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1a\\zoom-200.png"
+  ],
+  "consoleErrors": [],
+  "guideRequests": [
+    "http://127.0.0.1:8796/css/ai-website-guide.css?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8796/js/ai-website-guide.js?v=20260720-2b2-local-ui"
+  ],
+  "knownIssues": []
+}

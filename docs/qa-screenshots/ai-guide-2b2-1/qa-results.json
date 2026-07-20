@@ -1,0 +1,221 @@
+{
+  "pageChecks": [
+    {
+      "page": "home",
+      "title": true,
+      "subtitle": true,
+      "disclosure": true,
+      "shortOpening": true,
+      "compactPrivacy": true,
+      "fourCards": true
+    },
+    {
+      "page": "treatment-guidance",
+      "title": true,
+      "subtitle": true,
+      "disclosure": true,
+      "shortOpening": true,
+      "compactPrivacy": true,
+      "fourCards": true
+    },
+    {
+      "page": "knowledge-center",
+      "title": true,
+      "subtitle": true,
+      "disclosure": true,
+      "shortOpening": true,
+      "compactPrivacy": true,
+      "fourCards": true
+    },
+    {
+      "page": "for-professionals",
+      "title": true,
+      "subtitle": true,
+      "disclosure": true,
+      "shortOpening": true,
+      "compactPrivacy": true,
+      "fourCards": true
+    },
+    {
+      "page": "article-when-to-seek-help",
+      "title": true,
+      "subtitle": true,
+      "disclosure": true,
+      "shortOpening": true,
+      "compactPrivacy": true,
+      "fourCards": true
+    }
+  ],
+  "flowChecks": {
+    "selfRoute": true,
+    "familyContext": true,
+    "questionnaireContext": true,
+    "professionalRoute": true,
+    "validation": true,
+    "medicalBoundary": true,
+    "safety": true,
+    "fallback": true,
+    "fallbackFocus": true,
+    "escapeCloses": true,
+    "focusReturns": true
+  },
+  "responsiveChecks": [
+    {
+      "viewport": "320",
+      "noHorizontalOverflow": true,
+      "launcherVisible": true,
+      "dialogInsideViewport": true,
+      "launcherOverlapsFloats": false
+    },
+    {
+      "viewport": "375",
+      "noHorizontalOverflow": true,
+      "launcherVisible": true,
+      "dialogInsideViewport": true,
+      "launcherOverlapsFloats": false
+    },
+    {
+      "viewport": "390",
+      "noHorizontalOverflow": true,
+      "launcherVisible": true,
+      "dialogInsideViewport": true,
+      "launcherOverlapsFloats": false
+    },
+    {
+      "viewport": "768",
+      "noHorizontalOverflow": true,
+      "launcherVisible": true,
+      "dialogInsideViewport": true,
+      "launcherOverlapsFloats": false
+    },
+    {
+      "viewport": "1024",
+      "noHorizontalOverflow": true,
+      "launcherVisible": true,
+      "dialogInsideViewport": true,
+      "launcherOverlapsFloats": false
+    },
+    {
+      "viewport": "1366",
+      "noHorizontalOverflow": true,
+      "launcherVisible": true,
+      "dialogInsideViewport": true,
+      "launcherOverlapsFloats": false
+    },
+    {
+      "viewport": "390-200",
+      "zoom200": true
+    },
+    {
+      "viewport": "1366-200",
+      "zoom200": true
+    }
+  ],
+  "screenshots": [
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1\\home-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1\\treatment-guidance-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1\\knowledge-center-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1\\for-professionals-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1\\article-when-to-seek-help-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b2-1\\treatment-guidance-mobile.png"
+  ],
+  "sourceLinkChecks": [
+    {
+      "href": "/",
+      "exists": true
+    },
+    {
+      "href": "/services/treatment-guidance.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge-center.html",
+      "exists": true
+    },
+    {
+      "href": "/questions-and-answers.html",
+      "exists": true
+    },
+    {
+      "href": "/for-professionals.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/when-to-seek-help.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/how-to-choose-addiction-help.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/guidance-vs-treatment.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/when-guidance-is-not-enough.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/families.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/addict-refuses-help.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/boundaries.html",
+      "exists": true
+    },
+    {
+      "href": "/articles/talk-to-addicted-family-member.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/gambling.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/alcohol.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/drugs.html",
+      "exists": true
+    },
+    {
+      "href": "/knowledge/prescription-drugs.html",
+      "exists": true
+    },
+    {
+      "href": "/disclaimer.html",
+      "exists": true
+    }
+  ],
+  "forbiddenTerms": {
+    "fetch(": false,
+    "XMLHttpRequest": false,
+    "sendBeacon": false,
+    "WebSocket": false,
+    "localStorage": false,
+    "sessionStorage": false,
+    "indexedDB": false,
+    "document.cookie": false
+  },
+  "guideRequests": [
+    "http://127.0.0.1:8794/css/ai-website-guide.css?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/js/ai-website-guide.js?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/css/site-v5.1-internal.css?v=20260719-questionnaire-email-message-v1",
+    "http://127.0.0.1:8794/css/ai-website-guide.css?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/js/ai-website-guide.js?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/css/ai-website-guide.css?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/js/ai-website-guide.js?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/css/ai-website-guide.css?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/js/ai-website-guide.js?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/css/ai-website-guide.css?v=20260720-2b2-local-ui",
+    "http://127.0.0.1:8794/js/ai-website-guide.js?v=20260720-2b2-local-ui"
+  ],
+  "consoleErrors": [],
+  "knownIssues": []
+}

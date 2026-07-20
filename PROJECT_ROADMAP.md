@@ -2,6 +2,12 @@
 
 ## Completed
 
+### Sprint 2B.1 - Grounded AI Website Guide Specification
+- Created a complete planning specification for a future safe, grounded AI website guide.
+- Defined approved website sources, allowed and forbidden behavior, emergency policy, privacy requirements, technical architecture, UI/accessibility requirements and a 60-prompt test matrix.
+- No website UI, chatbot, API integration, packages, Netlify Functions, deployment or production behavior changes were made.
+
+
 ### Sprint 2A.3.2 - Treatment Guidance Content, Step-by-Step Questionnaire and Email Lead Delivery
 - Replaced the examples table with readable content cards.
 - Converted the questionnaire into a guided one-question-at-a-time flow.
@@ -40,4 +46,44 @@
 5. Consider adding a future short checklist PDF or printable guide for families comparing treatment options, only after content approval.
 6. Consider future analytics review of the treatment-guidance page after real traffic data is available; do not add tracking changes without approval.
 7. Consider future usage review before adding answer transfer, analytics events, or prefilled WhatsApp summaries; do not implement without approval.
-8. AI Website Assistant - Knowledge Navigation, Safe Guidance and Lead Qualification (future approved roadmap item; not implemented in Sprint 2A.3.2).
+8. Sprint 2B.2 - Local UI prototype without AI API.
+9. Sprint 2B.3 - Grounded AI and Netlify Function integration.
+10. Sprint 2B.4 - Safety, accessibility, privacy, and production QA.
+
+## Sprint 2B.2 - Local AI Website Guide UI Prototype
+
+Status: implemented locally for limited QA pages only.
+
+- Added the restrained floating entry point `עזרה בהתמצאות באתר`.
+- Implemented predefined local flows for visitors, family members, professionals, and keyword-based questions.
+- Implemented visible safety, medical refusal, unknown fallback, loading, local error, unavailable demo, reset, and close states.
+- Added source links to existing website pages for every substantive answer.
+- Kept the prototype disconnected from AI/API services, server functions, storage, analytics, and external dependencies.
+- Limited integration to the approved QA pages before any future grounded AI/server work.
+
+Next: Sprint 2B.3 may connect a server-side grounded AI flow only after explicit approval, privacy/legal review, and protected environment configuration.
+
+
+## Sprint 2B.2.1 - Local AI Website Guide UX Polish
+
+Status: implemented locally and awaiting visual approval.
+
+- Polished the existing local-only prototype for `עוזר AI להתמצאות באתר`.
+- Added a warmer opening experience, four audience cards, structured answer cards, source areas, full-page links, and follow-up suggestions.
+- Added local typing/loading feedback, reduced-motion-safe transitions, improved fallback, safety, and medical-boundary cards.
+- Added limited in-memory context for predefined navigation topics only.
+- Kept responses predefined and disconnected from AI/API services.
+- No AI connection, API key, Netlify Function, storage, analytics, deployment, commit, push, or ZIP was added.
+
+Next: Sprint 2B.3 remains future work and must not begin without explicit approval.
+
+
+## Sprint 2B.2.1a - Targeted AI Guide Visual and Naming Correction
+
+Status: implemented locally and awaiting final visual approval.
+
+- Improved opening and privacy text readability.
+- Fixed mobile content/footer separation and internal scrolling behavior.
+- Renamed the assistant to `עוזר AI להתמצאות באתר`.
+- Kept the prototype local-only with predefined responses.
+- No AI integration, API, storage, analytics, deployment, commit, push, or ZIP was added.
