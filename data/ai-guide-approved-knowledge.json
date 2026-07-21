@@ -1,0 +1,2376 @@
+{
+  "version": "2B.3d",
+  "generatedAt": "2026-07-21T14:07:46.877Z",
+  "optimizedAt": "2026-07-21T14:07:46.882Z",
+  "language": "he-IL",
+  "purpose": "Approved website-only knowledge candidate for the grounded AI website guide, pending Amos approval.",
+  "globalRules": [
+    "Answer only from this approved website knowledge candidate after Amos approves it.",
+    "Use approvedContent as the answer basis and summary only for retrieval/navigation.",
+    "Do not diagnose, treat, prescribe, choose a medical framework, or promise outcomes.",
+    "For urgent danger, violence, overdose, severe withdrawal, self-harm or immediate medical risk, tell the visitor the website and Amos are not emergency services and advise contacting local emergency or qualified professionals.",
+    "Do not ask for identifying details or sensitive medical details in chat.",
+    "Always include relevant source links when giving substantive guidance."
+  ],
+  "optimizationSummary": {
+    "wordCountBefore": 12179,
+    "wordCountAfter": 8829,
+    "wordReductionPercent": 27.51,
+    "recordsShortened": [
+      "404",
+      "about",
+      "articles",
+      "articles-addict-refuses-help",
+      "articles-alcohol-addiction",
+      "articles-boundaries",
+      "articles-drug-addiction-signs",
+      "articles-family-impact",
+      "articles-gambling-addiction-signs",
+      "articles-guidance-vs-treatment",
+      "articles-how-to-choose-addiction-help",
+      "articles-partner-addicted",
+      "articles-pornography-addiction",
+      "articles-questions-before-starting-help",
+      "articles-real-recovery",
+      "articles-rebuilding-trust",
+      "articles-relapse-prevention",
+      "articles-screen-addiction-teens",
+      "articles-talk-to-addicted-family-member",
+      "articles-when-guidance-is-not-enough",
+      "articles-when-to-seek-help",
+      "contact",
+      "cookies",
+      "copyright",
+      "disclaimer",
+      "editorial-policy",
+      "for-professionals",
+      "index",
+      "knowledge-alcohol",
+      "knowledge-center",
+      "knowledge-drugs",
+      "knowledge-families",
+      "knowledge-gambling",
+      "knowledge-pornography",
+      "knowledge-prescription-drugs",
+      "knowledge-recovery",
+      "knowledge-relapse-prevention",
+      "knowledge-screens",
+      "knowledge-teens",
+      "privacy",
+      "questions-and-answers",
+      "resources",
+      "services-treatment-guidance",
+      "sources",
+      "specialties",
+      "terms",
+      "thank-you",
+      "trust-center",
+      "why-choose-me"
+    ],
+    "metadataRemovedFrom": [
+      "articles-addict-refuses-help",
+      "articles-alcohol-addiction",
+      "articles-boundaries",
+      "articles-drug-addiction-signs",
+      "articles-family-impact",
+      "articles-gambling-addiction-signs",
+      "articles-guidance-vs-treatment",
+      "articles-how-to-choose-addiction-help",
+      "articles-partner-addicted",
+      "articles-pornography-addiction",
+      "articles-questions-before-starting-help",
+      "articles-real-recovery",
+      "articles-rebuilding-trust",
+      "articles-relapse-prevention",
+      "articles-screen-addiction-teens",
+      "articles-talk-to-addicted-family-member",
+      "articles-when-guidance-is-not-enough",
+      "articles-when-to-seek-help",
+      "cookies",
+      "copyright",
+      "disclaimer",
+      "knowledge-alcohol",
+      "knowledge-drugs",
+      "knowledge-families",
+      "knowledge-gambling",
+      "knowledge-pornography",
+      "knowledge-prescription-drugs",
+      "knowledge-recovery",
+      "knowledge-relapse-prevention",
+      "knowledge-screens",
+      "knowledge-teens",
+      "privacy",
+      "terms"
+    ],
+    "navigationClutterRemovedFrom": [
+      "articles",
+      "articles-family-impact",
+      "articles-pornography-addiction",
+      "articles-real-recovery",
+      "articles-rebuilding-trust",
+      "articles-relapse-prevention",
+      "articles-screen-addiction-teens",
+      "contact",
+      "for-professionals",
+      "index",
+      "knowledge-center",
+      "why-choose-me"
+    ],
+    "patternsRemoved": [
+      "זמן קריאה",
+      "עודכן לאחרונה",
+      "מאמר מידע והדרכה",
+      "מאמר שקיפות והכוונה",
+      "מאמר בטיחות והכוונה",
+      "עמוד עוגן במרכז הידע",
+      "קטגוריית ידע",
+      "המאמר הקודם",
+      "המאמר הבא",
+      "קראו את המאמר",
+      "מעבר לעמוד",
+      "כניסה לקטגוריה",
+      "קישורים פנימיים מומלצים",
+      "1. 2.",
+      "←",
+      "→",
+      "decorative symbols"
+    ]
+  },
+  "cleanedPromotionalRecords": [
+    "articles-how-to-choose-addiction-help",
+    "articles-questions-before-starting-help",
+    "contact",
+    "cookies",
+    "privacy",
+    "services-treatment-guidance",
+    "terms",
+    "thank-you",
+    "trust-center"
+  ],
+  "pages": [
+    {
+      "id": "index",
+      "path": "/",
+      "relativeSourcePath": "index.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/",
+      "title": "עמוס כלפון | ייעוץ וליווי בהתמכרויות למכורים ובני משפחה",
+      "h1": "לא צריך להתמודד לבד.",
+      "description": "עמוס כלפון – ייעוץ, הדרכה וליווי בהתמכרויות למכורים ולבני משפחותיהם. ליווי אישי, מכבד, מעשי ולא שיפוטי.",
+      "category": "navigation",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "איך אני יכול לעזור?",
+        "ליווי בתהליך החלמה",
+        "הדרכה והכוונה",
+        "ייעוץ אישי",
+        "ליווי בני משפחה",
+        "שלום, אני עמוס כלפון",
+        "למי הליווי מתאים?",
+        "תחומי ליווי והדרכה"
+      ],
+      "summary": "עמוס כלפון – ייעוץ, הדרכה וליווי בהתמכרויות למכורים ולבני משפחותיהם. ליווי אישי, מכבד, מעשי ולא שיפוטי.",
+      "approvedContent": "עמוד הבית מציג את עמוס כלפון ואת תחומי הליווי: ייעוץ, הדרכה וליווי בהתמכרויות לאנשים ולבני משפחה. האתר מדגיש גישה אישית, מכבדת ולא שיפוטית, שמירה על פרטיות, וניסיון אישי ומעשי בתחום ההתמכרויות. תחומי הליווי כוללים התמכרות להימורים, סמים, אלכוהול, תרופות, מסכים והתמכרויות התנהגותיות. העמוד מסביר שהליווי נועד לעזור להבין את המצב, לבנות דרך פעולה מותאמת ולתמוך באדם ובמשפחה, בלי להציג אבחון, טיפול רפואי או הבטחת תוצאה.",
+      "contentHash": "4293c7440a00d0deb9bc351042c1bac1b438e7544a97c057ac71439150f352a2",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 291,
+        "wordCountAfter2B3d": 65
+      }
+    },
+    {
+      "id": "404",
+      "path": "/404.html",
+      "relativeSourcePath": "404.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/404.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/404.html",
+      "title": "העמוד לא נמצא | עמוס כלפון",
+      "h1": "העמוד לא נמצא",
+      "description": "העמוד שחיפשתם לא נמצא. ניתן לחזור לדף הבית, לעיין במאמרים ומדריכים או ליצור קשר עם עמוס כלפון לקבלת הכוונה בנושא התמכרויות.",
+      "category": "navigation",
+      "audience": "general_visitor",
+      "topics": [
+        "page_not_found"
+      ],
+      "aliases": [
+        "page_not_found"
+      ],
+      "headings": [
+        "אפשר לחזור למסלול הנכון"
+      ],
+      "summary": "העמוד אינו נמצא. ניתן לחזור לדף הבית או להשתמש בניווט האתר כדי למצוא מידע קיים. רשומה זו מיועדת לניווט בלבד ואינה מקור לתשובה מקצועית, רפואית, טיפולית או משפטית.",
+      "approvedContent": "העמוד המבוקש אינו נמצא. ניתן לחזור לדף הבית או להשתמש בניווט האתר כדי למצוא מידע קיים. רשומה זו מיועדת לניווט בלבד ואינה מקור לתשובה מקצועית, רפואית, טיפולית או משפטית.",
+      "contentHash": "c305eea1e3b818c21046b9d23c737590044f69ae1489ccafcd5959236a051ff6",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 28,
+        "wordCountAfter2B3d": 29
+      }
+    },
+    {
+      "id": "about",
+      "path": "/about.html",
+      "relativeSourcePath": "about.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/about.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/about.html",
+      "title": "אודות עמוס כלפון | ניסיון אישי ומקצועי בליווי התמכרויות",
+      "h1": "אודות עמוס כלפון",
+      "description": "הכירו את עמוס כלפון – ליווי, הדרכה וייעוץ בהתמכרויות מתוך ניסיון אישי בהחלמה, לימודים וניסיון מעשי ועבודה עם אנשים ומשפחות במצבי חיים מורכבים.",
+      "category": "service-trust",
+      "audience": "prospective_client",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "עמוס כלפון",
+        "הדרך שלי",
+        "15 שנות החלמה – ניסיון חיים שמלווה אותי בכל יום",
+        "ניסיון מעשי",
+        "עבודה עם בני משפחה",
+        "בני משפחה רבים מוצאים את עצמם מתמודדים עם שאלות מורכבות:",
+        "הגישה שלי",
+        "הליווי מיועד לאנשים המתמודדים עם:"
+      ],
+      "summary": "הכירו את עמוס כלפון – ליווי, הדרכה וייעוץ בהתמכרויות מתוך ניסיון אישי בהחלמה, לימודים וניסיון מעשי ועבודה עם אנשים ומשפחות במצבי חיים מורכבים.",
+      "approvedContent": "עמוד האודות מציג את עמוס כלפון כמלווה אנשים המתמודדים עם התמכרויות ובני משפחותיהם מתוך שילוב של ניסיון אישי בהחלמה, לימודים וניסיון מעשי. הרקע המוצג כולל תואר ראשון במדעי החברה, הכשרה בקרימינולוגיה, עבודה בתחום הרווחה, ניסיון עם נוער בסיכון, הנחיית קבוצות וליווי תהליכי שינוי. הגישה המתוארת היא שיחה בגובה העיניים, הקשבה, אחריות, כנות וליווי ללא שיפוטיות. העמוד מדגיש כי הניסיון האישי אינו מחליף טיפול מקצועי וכי במצבים רפואיים, נפשיים או מסכני חיים יש לפנות לגורמים מוסמכים.",
+      "contentHash": "1280461de77905997752d7eedd8f130d04cf5d7282c259ae8a87e439d9165b9b",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 308,
+        "wordCountAfter2B3d": 75
+      }
+    },
+    {
+      "id": "articles",
+      "path": "/articles.html",
+      "relativeSourcePath": "articles.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles.html",
+      "title": "מאמרים ומדריכים על התמכרויות והחלמה | עמוס כלפון",
+      "h1": "מאמרים ומדריכים",
+      "description": "מאמרים ומדריכים בנושא התמכרויות, החלמה, גבולות שירות, הימורים, סמים, אלכוהול, משפחות מכורים ושיקום אמון.",
+      "category": "navigation",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "שאלות שכדאי לשאול לפני שמתחילים",
+        "מתי ליווי אינו מספיק?",
+        "איך לבחור עזרה בהתמכרות?",
+        "ליווי והדרכה מול טיפול בהתמכרות – מה ההבדל?",
+        "מתי נכון לפנות לעזרה?",
+        "האם אפשר לעזור למכור שלא רוצה עזרה?",
+        "איך לדבר עם בן משפחה מכור?",
+        "השפעת ההתמכרות על בני המשפחה"
+      ],
+      "summary": "מאמרים ומדריכים בנושא התמכרויות, החלמה, גבולות שירות, הימורים, סמים, אלכוהול, משפחות מכורים ושיקום אמון.",
+      "approvedContent": "עמוד המאמרים מרכז מדריכים ומאמרים בנושא התמכרויות, משפחה, גבולות, החלמה ושיקום אמון. הנושאים כוללים שאלות לפני תחילת ליווי או טיפול, מתי ליווי אינו מספיק, איך לבחור עזרה בהתמכרות, הבדל בין ליווי לטיפול, מתי לפנות לעזרה, איך לדבר עם בן משפחה מכור, השפעת התמכרות על המשפחה, סימני התמכרות להימורים, סמים, אלכוהול, פורנוגרפיה ומסכים, וכן נושאי החלמה, אמון ומניעת חזרה לשימוש. העמוד משמש מפת ניווט לתוכן מקצועי באתר.",
+      "contentHash": "e021d34ee04a77035aec77a09ed31fc80856e0edff2bf196e4c8f21f9fc51e01",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 304,
+        "wordCountAfter2B3d": 66
+      }
+    },
+    {
+      "id": "articles-addict-refuses-help",
+      "path": "/articles/addict-refuses-help.html",
+      "relativeSourcePath": "articles/addict-refuses-help.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/addict-refuses-help.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/addict-refuses-help.html",
+      "title": "איך לעזור לאדם עם התמכרות שמסרב לקבל עזרה? | עמוס כלפון",
+      "h1": "האם אפשר לעזור למכור שלא רוצה עזרה?",
+      "description": "מה אפשר לעשות כשאדם המתמודד עם התמכרות מסרב לעזרה? מדריך למשפחה על שיחה, גבולות, תמיכה, בטיחות ופנייה מקצועית.",
+      "category": "article",
+      "audience": "family_support",
+      "topics": [
+        "family",
+        "boundaries",
+        "communication",
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "family",
+        "boundaries",
+        "communication",
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "מה כן נמצא בשליטת המשפחה?",
+        "איך לפתוח שיחה כשיש סירוב?",
+        "תמיכה אינה ביטול של כל תוצאה",
+        "ממה כדאי להימנע?",
+        "אפשר לקבל עזרה גם אם הוא מסרב",
+        "מתי לא מחכים להסכמה?",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "מה אפשר לעשות כשאדם המתמודד עם התמכרות מסרב לעזרה? מדריך למשפחה על שיחה, גבולות, תמיכה, בטיחות ופנייה מקצועית.",
+      "approvedContent": "האם אפשר לעזור למכור שלא רוצה עזרה? מה נמצא בשליטת המשפחה, איך לפתוח אפשרות לשינוי ומתי נדרשת עזרה דחופה. 9 דקות · 23 ביוני 2026 התשובה הקצרה: אי אפשר להכריח אדם לבחור בהחלמה, אבל המשפחה אינה חסרת אונים. אפשר לשנות את אופן התגובה, להפסיק פעולות שמאפשרות את המשך המצב, להציב גבולות בטוחים, להציע עזרה בצורה לא מתעמתת ולקבל הדרכה גם כשהאדם עצמו עדיין מסרב. חשוב לזכור סירוב לעזרה אינו אומר שאין סיכוי לשינוי. לעיתים הוא משקף פחד, בושה, חוסר אמון, אמביוולנטיות או קושי לראות את מלוא הנזק. שינוי יכול להתחיל גם מצעד שהמשפחה עושה עבור עצמה. מה כן נמצא בשליטת המשפחה? הבחירה אם לפנות לטיפול שייכת לאדם עצמו. למשפחה יש השפעה על הסביבה שבה מתקבלות ההחלטות: אופן השיחה, הדרך שבה מגיבים לשימוש, הגבולות בבית, ניהול כסף, שמירה על ילדים והנכונות לקבל ייעוץ. מדריך המשפחה של SAMHSA מדגיש שמעורבות משפחתית יכולה לתמוך בהחלמה, ובמקביל לשפר את הבריאות והתפקוד של בני המשפחה עצמם. לתעד עובדות: מה קרה, מתי, ואיזו פגיעה נגרמה — בלי פרשנויות ואבחנות. להגדיר מטרה אחת: למשל שיחה עם איש מקצוע, בדיקה רפואית או הערכת מצב. להסכים בתוך המשפחה: מי מדבר, מה מציעים ואילו גבולות יישמרו. לקבל ליווי לעצמכם: אין צורך להמתין להסכמת האדם כדי להתייעץ. איך לפתוח שיחה כשיש סירוב? עדיף לבחור זמן שבו האדם רגוע יחסית ואינו תחת השפעה ניכרת. השיחה אינה משפט או ניסיון “להוכיח התמכרות”. גישה משתפת, סקרנית ולא מאשימה מפחיתה מאבק כוח ומאפשרת לשמוע את נקודת המבט שלו. פתחו מדאגה: “אני דואג לך ורוצה לדבר על משהו שראיתי.” תארו עובדה: “בשבועיים האחרונים לא הגעת שלוש פעמים לעבודה.” תארו השפעה: “אני רואה שזה פוגע בך ובתחושת הביטחון בבית.” שאלו שאלה פתוחה: “איך אתה רואה את המצב?” הציעו צעד מוגדר: שיחת הערכה, רופא, גורם טיפולי או ייעוץ משפחתי. אם השיחה הופכת לצעקות, איומים או סכנה — מפסיקים אותה. בטיחות קודמת לשכנוע.",
+      "contentHash": "87d96c11a99fd8e3c98064ccea2166d5ebe4f6e0a9f03df3e8550c74bfe21f2b",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 301,
+        "wordCountAfter2B3d": 294
+      }
+    },
+    {
+      "id": "articles-alcohol-addiction",
+      "path": "/articles/alcohol-addiction.html",
+      "relativeSourcePath": "articles/alcohol-addiction.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/alcohol-addiction.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/alcohol-addiction.html",
+      "title": "התמכרות לאלכוהול: סימנים, סיכון וגמילה בטוחה | עמוס כלפון",
+      "h1": "התמכרות לאלכוהול – מתי זה כבר לא רק לשתות?",
+      "description": "איך מזהים שימוש בעייתי או התמכרות לאלכוהול? סימנים, פגיעה בתפקוד, סבילות, גמילה, סיכונים ומתי לפנות לעזרה רפואית.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "alcohol"
+      ],
+      "aliases": [
+        "alcohol"
+      ],
+      "headings": [
+        "סימנים שמצדיקים הערכה מקצועית",
+        "לא חייבים לשתות בכל יום כדי שתהיה בעיה",
+        "סבילות ותסמיני גמילה",
+        "איך השתייה משפיעה על הבית?",
+        "מתי ואיך פונים לעזרה?",
+        "מתי מדובר בחירום?",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "איך מזהים שימוש בעייתי או התמכרות לאלכוהול? סימנים, פגיעה בתפקוד, סבילות, גמילה, סיכונים ומתי לפנות לעזרה רפואית.",
+      "approvedContent": "התמכרות לאלכוהול – מתי זה כבר לא רק לשתות? ההבדל בין שתייה לבין דפוס שפוגע בשליטה, בבריאות, בתפקוד ובמשפחה. 10 דקות · 23 ביוני 2026 הכמות לבדה אינה מספרת את כל הסיפור. הדגל המרכזי הוא אובדן שליטה והמשך שתייה למרות נזק: לבריאות, לעבודה, ליחסים, לכסף או לבטיחות. הפרעת שימוש באלכוהול היא מצב רפואי שניתן לטפל בו, והיא יכולה להיות קלה, בינונית או חמורה. המאמר אינו בדיקת אבחון סימנים כלליים יכולים לעזור לזהות צורך בבדיקה, אך אבחון נעשה על ידי איש מקצוע מוסמך. אם קיימת שתייה כבדה ומתמשכת, אין להפסיק בפתאומיות ללא ייעוץ רפואי — גמילה מאלכוהול עלולה להיות מסוכנת. סימנים שמצדיקים הערכה מקצועית שתייה בכמות גדולה יותר או במשך זמן ארוך יותר מהמתוכנן. ניסיונות חוזרים לצמצם או להפסיק שאינם מחזיקים. זמן רב שמוקדש לשתייה, להתאוששות או להסתרה. דחף חזק לשתות או תחושה שקשה לעבור אירוע בלעדיה. פגיעה בעבודה, בלימודים, בהורות או בהתחייבויות. המשך שתייה למרות ריבים, בעיות רפואיות, נפילות, נהיגה מסוכנת או נזק כלכלי. ויתור על פעילויות וקשרים שהיו חשובים בעבר. NIAAA מגדיר הפרעת שימוש באלכוהול כקושי לעצור או לשלוט בשתייה למרות תוצאות חברתיות, תעסוקתיות או בריאותיות שליליות. ככל שמצטברים יותר סימנים, כך עולה הדחיפות לבדיקה. לא חייבים לשתות בכל יום כדי שתהיה בעיה יש אנשים שאינם שותים מדי יום אך מאבדים שליטה בכל פעם שהם מתחילים, מסתכנים, נעדרים מהעבודה או פוגעים ביחסים. אחרים שותים באופן קבוע ונראים מתפקדים כלפי חוץ, אך הגוף, מצב הרוח והמשפחה משלמים מחיר. WHO מדגיש שהסיכון מושפע מכמות, תדירות, מהירות השתייה, מצב בריאותי והקשר — ושאין צריכת אלכוהול נטולת סיכון לחלוטין. שאלה פחות מועילה “האם הוא שותה יותר מאנשים אחרים?” שאלה מועילה יותר “האם השתייה חוזרת למרות נזק והאם קשה לשלוט בה?” סבילות ותסמיני גמילה סבילות היא צורך בכמות גדולה יותר כדי להגיע להשפעה דומה. גמילה היא הופעת תסמינים לאחר ירידה או הפסקה, למשל רעד, הזעה, בחילה, חרדה, אי־שקט או הפרעת שינה.",
+      "contentHash": "99c95b9c33c20606b349614d0eca081bdb6a7d2e4d8d42affedf7fa5819c3676",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 304,
+        "wordCountAfter2B3d": 297
+      }
+    },
+    {
+      "id": "articles-boundaries",
+      "path": "/articles/boundaries.html",
+      "relativeSourcePath": "articles/boundaries.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/boundaries.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/boundaries.html",
+      "title": "איך להציב גבולות לאדם המתמודד עם התמכרות? | עמוס כלפון",
+      "h1": "איך להציב גבולות למכור?",
+      "description": "מדריך מעשי להצבת גבולות מול התמכרות: מהו גבול, איך מנסחים אותו, כסף, בית, ילדים, עקביות ובטיחות.",
+      "category": "article",
+      "audience": "family_support",
+      "topics": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "aliases": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "headings": [
+        "מהו גבול — ומה הוא לא?",
+        "נוסחה לגבול ברור",
+        "תחומים שבהם נדרשים לעיתים גבולות",
+        "כסף וחובות",
+        "הבית והתקשורת",
+        "ילדים ונהיגה",
+        "מה הופך גבול ליעיל?",
+        "מה עושים כאשר הגבול מופר?"
+      ],
+      "summary": "מדריך מעשי להצבת גבולות מול התמכרות: מהו גבול, איך מנסחים אותו, כסף, בית, ילדים, עקביות ובטיחות.",
+      "approvedContent": "איך להציב גבולות למכור? גבול אינו עונש או איום — הוא החלטה ברורה על מה אתם מוכנים לעשות כדי לשמור על הבית ועל עצמכם. 9 דקות · 23 ביוני 2026 גבול מתאר את הפעולה שלכם, לא את השליטה באדם אחר. “אסור לך להשתמש יותר” הוא דרישה; “לא תתאפשר כניסה לבית כאשר אתה תחת השפעה” הוא גבול שניתן ליישם. גבול טוב הוא ברור, קשור לבטיחות או לערכים, ובר־ביצוע גם אם האדם אינו מסכים. מהו גבול — ומה הוא לא? גבול נועד להגן על בריאות, כסף, ילדים, מרחב אישי ותקשורת. הוא אינו נקמה, מבחן אהבה או דרך לגרום לאדם “לסבול מספיק”. מדריך SAMHSA למשפחות מתאר גבולות כחלק מהאופן שבו מערכת משפחתית פועלת; שינוי בתגובות המשפחה עשוי לשפר את תפקודה גם כאשר השימוש עדיין לא נפסק. גבול “אם מתחילות קללות, אני מסיים את השיחה ויוצא.” איום “אם תקלל עוד פעם, אני אדאג שתצטער.” נוסחה לגבול ברור ההתנהגות: תארו מה קורה באופן שניתן לזהות. ההשפעה: הסבירו בקצרה מדוע נדרש שינוי. הפעולה שלכם: אמרו מה תעשו אם ההתנהגות תתרחש. העזרה הזמינה: הציעו דרך בטוחה שבה כן תהיו מוכנים לסייע. דוגמה: “כשמבקשים ממני כסף בלי הסבר בזמן שיש חובות, אני מרגיש שאני משתתף במצב שפוגע בכולנו. לא אתן כסף מזומן. אני מוכן לשלם ישירות על מזון או לעזור לקבוע פגישה מקצועית.” תחומים שבהם נדרשים לעיתים גבולות כסף וחובות לא למסור כסף מזומן כאשר השימוש אינו יציב. לא לחתום על הלוואות או ערבויות מתוך לחץ. להגן על חשבונות משותפים ולקבל ייעוץ פיננסי/משפטי כאשר יש סיכון. הבית והתקשורת לא לאפשר אלימות, איומים, הרס רכוש או שימוש שמסכן אחרים. להפסיק שיחה שיש בה קללות או הפחדה ולחזור אליה רק בתנאים בטוחים. להגדיר מראש מי רשאי להיכנס לבית ובאילו תנאים. ילדים ונהיגה לא להשאיר ילדים באחריות אדם שנמצא תחת השפעה או אינו כשיר להשגיח. לא לאפשר נהיגה תחת השפעה או נסיעה של ילדים במצב כזה. לא להפוך ילדים למתווכים, חוקרים או שומרים. מה הופך גבול ליעיל? מציאותיות: בחרו פעולה שאתם מסוגלים לבצע. עקביות: גבול שמשתנה בכל משבר יוצר בלבול.",
+      "contentHash": "8d8a5b2595bc5b3aa1f07bdf7f1b5eae8b574006b574df33e856dfbe5c72e10c",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 326,
+        "wordCountAfter2B3d": 319
+      }
+    },
+    {
+      "id": "articles-drug-addiction-signs",
+      "path": "/articles/drug-addiction-signs.html",
+      "relativeSourcePath": "articles/drug-addiction-signs.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/drug-addiction-signs.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/drug-addiction-signs.html",
+      "title": "סימנים להתמכרות לסמים: מה בודקים ומתי פונים לעזרה | עמוס כלפון",
+      "h1": "סימנים להתמכרות לסמים",
+      "description": "סימנים אפשריים לשימוש בעייתי או התמכרות לסמים: שינוי בתפקוד, אובדן שליטה, סבילות, גמילה, סיכון למנת יתר ומתי לפנות לעזרה.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "drugs_or_prescription"
+      ],
+      "aliases": [
+        "drugs_or_prescription"
+      ],
+      "headings": [
+        "שינויים בתפקוד ובהתנהגות",
+        "סימנים הקשורים לשליטה בשימוש",
+        "סבילות, גמילה וסימנים גופניים",
+        "סימנים אפשריים למנת יתר",
+        "איך לדבר על החשד?",
+        "מהו הצעד הבא?",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "סימנים אפשריים לשימוש בעייתי או התמכרות לסמים: שינוי בתפקוד, אובדן שליטה, סבילות, גמילה, סיכון למנת יתר ומתי לפנות לעזרה.",
+      "approvedContent": "סימנים להתמכרות לסמים איך לזהות דפוס מדאיג בלי לקפוץ לאבחנה, ומה דורש תגובה רפואית מיידית. 10 דקות · 23 ביוני 2026 אין סימן יחיד שמוכיח התמכרות. שינוי בשינה, מצב רוח או כסף יכול לנבוע מסיבות רבות. החשד מתחזק כאשר כמה סימנים מופיעים יחד, חוזרים לאורך זמן, ויש קושי לשלוט בשימוש למרות נזק לתפקוד, לבריאות או ליחסים. שפה מדויקת חשובה עד להערכה מקצועית נכון לדבר על “שימוש מדאיג” או “שימוש בעייתי”. חיפוש בחדר, בדיקה ביתית או עימות אינם תחליף להערכה רפואית וקלינית. שינויים בתפקוד ובהתנהגות היעדרויות, ירידה בעבודה או בלימודים ואובדן אחריות. שינוי חד בקשרים, בידוד או פעילות סודית. בקשות כסף, חובות, מכירת חפצים או הוצאות לא מוסברות. שקרים חוזרים לגבי מקום, זמן, כסף או מצב גופני. שינויים משמעותיים בשינה, תיאבון, אנרגיה או מצב רוח. הזנחת היגיינה, בריאות, בית או הורות. נהיגה מסוכנת, הסתבכות משפטית או אירועים רפואיים. סימנים אלה אינם ייחודיים לסמים. חשוב להתייחס לדפוס ולשינוי ביחס להתנהגות הרגילה של האדם, ולא להסיק מסקנה מאירוע בודד. סימנים הקשורים לשליטה בשימוש NIDA מתאר התמכרות כדפוס של חיפוש ושימוש שקשה לשלוט בו למרות השלכות מזיקות. סימנים משמעותיים כוללים: שימוש בכמות גדולה יותר או בתדירות גבוהה יותר מהמתוכנן. ניסיונות חוזרים להפסיק שאינם מצליחים. דחף חזק או עיסוק מתמשך בהשגת החומר ובשימוש בו. המשך למרות נזק בריאותי, נפשי, משפחתי או תעסוקתי. ויתור על פעילויות ועל קשרים חשובים. שימוש במצבים מסוכנים או שילוב חומרים. סבילות, גמילה וסימנים גופניים סבילות היא צורך בכמות גדולה יותר להשפעה דומה. תסמיני גמילה משתנים מאוד לפי החומר ויכולים לכלול חרדה, כאב, רעד, הזעה, בחילה, הפרעת שינה או שינוי חריף במצב הרוח. חלק מהמצבים דורשים טיפול רפואי. אישונים, ריח, פצעים, ירידה במשקל או ישנוניות יכולים לעורר חשד, אבל אינם מאפשרים לזהות בבטחה איזה חומר נלקח. בשוק לא מפוקח גם האדם המשתמש אינו תמיד יודע מה מכיל החומר.",
+      "contentHash": "708a3c792fb6ee96d520a2f4c63e83b2587339c345b032736698c4b33ffce796",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 293,
+        "wordCountAfter2B3d": 286
+      }
+    },
+    {
+      "id": "articles-family-impact",
+      "path": "/articles/family-impact.html",
+      "relativeSourcePath": "articles/family-impact.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/family-impact.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/family-impact.html",
+      "title": "השפעת ההתמכרות על בני המשפחה | עמוס כלפון",
+      "h1": "השפעת ההתמכרות על בני המשפחה",
+      "description": "השפעת ההתמכרות על בני המשפחה – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "category": "article",
+      "audience": "family_support",
+      "topics": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "aliases": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "headings": [
+        "מה חשוב להבין?",
+        "צעדים ראשונים",
+        "מתי לפנות לעזרה?",
+        "רוצים להבין מה נכון לעשות עכשיו?"
+      ],
+      "summary": "השפעת ההתמכרות על בני המשפחה – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "approvedContent": "השפעת ההתמכרות על בני המשפחה מידע מקצועי ונגיש למשפחות ולאנשים המתמודדים עם התמכרות. 6 דקות · יוני 2026 הנושא של השפעת ההתמכרות על בני המשפחה דורש רגישות, אחריות והבנה של המציאות המשפחתית והאישית. המטרה במאמר זה היא לתת כיוון ראשוני ברור, בלי שיפוטיות ובלי הבטחות לא מציאותיות. מה חשוב להבין? התמכרות כמעט אף פעם אינה בעיה נקודתית בלבד. היא משפיעה על האדם, על המשפחה, על תחושת הביטחון, על האמון ועל היכולת לקבל החלטות רגועות. לכן חשוב להתבונן בתמונה הרחבה ולא לפעול מתוך לחץ, אשמה או פחד. צעדים ראשונים להפסיק לנסות לפתור הכול לבד ובבת אחת. לאסוף מידע אמין על המצב ועל דפוסי ההתנהגות שחוזרים על עצמם. לקבוע גבולות ברורים ומכבדים. לפנות להתייעצות כאשר יש בלבול, הסתרה, חובות, חזרה לשימוש או פגיעה בתפקוד. מתי לפנות לעזרה? כאשר ההתנהגות חוזרת למרות נזקים, כאשר המשפחה מותשת, כאשר קיימת הסתרה או כאשר האדם מתקשה לעצור בכוחות עצמו – זה הזמן לפנות להכוונה. שיחה מקצועית יכולה לעשות סדר, להפחית לחץ ולבנות תוכנית פעולה אחראית. איך לדבר עם בן משפחה מכור? איך מזהים התמכרות להימורים?",
+      "contentHash": "01c6d68d5dbe73f61bd47b82ddd7c5290435a7d23f1958451d7d0def39b1c591",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 180,
+        "wordCountAfter2B3d": 169
+      }
+    },
+    {
+      "id": "articles-gambling-addiction-signs",
+      "path": "/articles/gambling-addiction-signs.html",
+      "relativeSourcePath": "articles/gambling-addiction-signs.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/gambling-addiction-signs.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/gambling-addiction-signs.html",
+      "title": "התמכרות להימורים: סימנים, חובות ומה עושים | עמוס כלפון",
+      "h1": "איך מזהים התמכרות להימורים?",
+      "description": "סימנים להתמכרות או נזק מהימורים: אובדן שליטה, רדיפה אחרי הפסדים, הסתרה, חובות, פגיעה במשפחה ומה עושים עכשיו.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "gambling"
+      ],
+      "aliases": [
+        "gambling"
+      ],
+      "headings": [
+        "סימני אזהרה מרכזיים",
+        "סימנים כלכליים שדורשים תשומת לב",
+        "מהי רדיפה אחרי הפסדים?",
+        "מה בני המשפחה יכולים לעשות?",
+        "כלים מעשיים להפחתת גישה",
+        "כאשר החוב הופך למשבר",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "סימנים להתמכרות או נזק מהימורים: אובדן שליטה, רדיפה אחרי הפסדים, הסתרה, חובות, פגיעה במשפחה ומה עושים עכשיו.",
+      "approvedContent": "איך מזהים התמכרות להימורים? איך לזהות אובדן שליטה ונזק כלכלי־משפחתי, גם כאשר האדם ממשיך לעבוד ולהיראות מתפקד. 10 דקות · 23 ביוני 2026 הסימן המרכזי אינו גובה ההימור הבודד. החשש עולה כאשר קשה לשלוט בהימורים, הם מקבלים עדיפות על פני חיים וצרכים אחרים, והם ממשיכים למרות הפסדים ונזק. נזק יכול להופיע עוד לפני שמתקיימת אבחנה קלינית. הימורים אינם רק עניין של כסף הם עלולים להשפיע על בריאות נפשית, זוגיות, הורות, דיור, עבודה וביטחון כלכלי. בושה והסתרה גורמות לעיתים למשפחה לגלות את היקף הנזק באיחור. סימני אזהרה מרכזיים WHO מתאר שלושה מאפיינים מרכזיים של הפרעת הימורים: פגיעה בשליטה, מתן עדיפות גוברת להימורים, והמשך למרות השלכות שליליות. ניסיונות חוזרים לצמצם או לעצור שאינם מצליחים. עיסוק מתמשך בתוצאות, טיפים, משחקים או דרכים להשיג כסף. הימורים בסכומים גדלים או בתדירות עולה. הסתרת זמן, הפסדים, חשבונות או הלוואות. פגיעה בעבודה, בשינה, בקשרים או באחריות משפחתית. בקשת חילוץ כספי חוזרת לאחר הבטחה שזה “הפעם האחרונה”. כעס, חרדה או אי־שקט כאשר מנסים לעצור. סימנים כלכליים שדורשים תשומת לב משיכות, העברות או חיובים שאינם מוסברים. הלוואות מהירות, מסגרות אשראי חדשות או פיגורים. מכירת רכוש, שימוש בכסף שיועד למזון, דיור או ילדים. חשבונות סודיים, אפליקציות מוסתרות או שינוי סיסמאות פתאומי. לחץ “להלוות רק עד הזכייה הבאה”. WHO מציין שנזק מהימורים יכול להסיט כסף מצרכים חיוניים ולהוביל לקשיי דיור, מזון, בריאות וחינוך. לכן הגנה על משאבי הבית אינה ענישה — היא צעד בטיחותי. מהי רדיפה אחרי הפסדים? זהו ניסיון להחזיר הפסד באמצעות הימור נוסף. ככל שההפסד גדל, האדם מרגיש שהוא “חייב” להמשיך כדי לתקן אותו. בפועל, המרדף עלול להעמיק את החוב ולהוביל להחלטות מהירות ומסוכנות. המחשבה “אם אפסיק עכשיו, ההפסד יהפוך לאמיתי.” המציאות הימור נוסף אינו תוכנית להחזר חוב והוא עלול להגדיל את הנזק. מה בני המשפחה יכולים לעשות? לאסוף תמונת מצב: חשבונות, הלוואות, התחייבויות ונכסים משותפים.",
+      "contentHash": "5d0549477df064043c9a5c7acabab91530a314552ec64087e8bf18962255cce3",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 294,
+        "wordCountAfter2B3d": 287
+      }
+    },
+    {
+      "id": "articles-guidance-vs-treatment",
+      "path": "/articles/guidance-vs-treatment.html",
+      "relativeSourcePath": "articles/guidance-vs-treatment.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/guidance-vs-treatment.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/guidance-vs-treatment.html",
+      "title": "ליווי והדרכה מול טיפול בהתמכרות – מה ההבדל? | עמוס כלפון",
+      "h1": "ליווי והדרכה מול טיפול בהתמכרות — מה ההבדל?",
+      "description": "מה ההבדל בין ליווי והדרכה לבין טיפול בהתמכרות, אבחון, גמילה רפואית או טיפול קליני? מדריך שקיפות קצר וברור לבחירת עזרה אחראית.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "מה כן יכול לכלול ליווי והדרכה?",
+        "מה ליווי והדרכה אינם מחליפים?",
+        "מתי חשוב לפנות לגורם רפואי או טיפולי מוסמך?",
+        "מה השירות של עמוס כן מציע?",
+        "שאלות שכדאי לשאול לפני שמתחילים תהליך",
+        "איך יודעים אם להתחיל בליווי או לפנות ישר לטיפול?",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "מה ההבדל בין ליווי והדרכה לבין טיפול בהתמכרות, אבחון, גמילה רפואית או טיפול קליני? מדריך שקיפות קצר וברור לבחירת עזרה אחראית.",
+      "approvedContent": "ליווי והדרכה מול טיפול בהתמכרות — מה ההבדל? הסבר ברור על גבולות השירות, מתי ליווי יכול לעזור, ומתי חשוב לפנות לגורם טיפולי או רפואי מוסמך. 7 דקות · 24 ביוני 2026 ליווי והדרכה אינם טיפול קליני. הם יכולים לעזור לעשות סדר, להבין את המצב, לתכנן צעדים, לשפר שיחה משפחתית ולהחזיק גבולות — אבל הם אינם אבחון, טיפול רפואי, טיפול פסיכולוגי, טיפול פסיכיאטרי, גמילה רפואית או שירות חירום. ההבחנה הזו חשובה גם מקצועית, גם מוסרית וגם כדי שכל אדם יקבל את סוג העזרה שמתאים למצבו. מה כן יכול לכלול ליווי והדרכה? ליווי לא־קליני יכול להיות משמעותי כאשר אדם או משפחה מרגישים אבודים מול התמכרות, אך עדיין צריכים קודם כול להבין את התמונה ולבחור צעד אחראי. הוא מתמקד בהכוונה מעשית, סדר, שיחה, גבולות ותמיכה אנושית. שיחה ראשונית שמארגנת את המצב ואת הדאגות המרכזיות. הבחנה בין מה ידוע, מה לא ידוע ומה דורש בדיקה מקצועית. תכנון שיחה עם אדם מתמודד ללא האשמות, איומים או מאבק כוח. עזרה לבני משפחה להציב גבולות ברורים ומכבדים. הכוונה לשאלות שכדאי לשאול גורם טיפולי, מסגרת גמילה או רופא. תמיכה בתהליך קבלת החלטות, בלי להבטיח תוצאה ובלי להחליף טיפול. מה ליווי והדרכה אינם מחליפים? כדי לשמור על שקיפות, חשוב לומר זאת בצורה פשוטה: ליווי והדרכה אינם מספקים שירותים ששייכים למקצועות טיפוליים, רפואיים או קליניים מוסמכים. לא אבחון של התמכרות, הפרעה נפשית או מצב רפואי. לא טיפול פסיכולוגי, פסיכיאטרי, רפואי, קליני או סוציאלי טיפולי. לא מתן תרופות, שינוי מינונים או ייעוץ רפואי. לא גמילה רפואית או השגחה על גמילה מחומרים. לא הערכת מסוכנות, טיפול באובדנות, אלימות או מצב חירום. לא התחייבות לכך שהאדם יפסיק להשתמש, יגיע לטיפול או ישתנה. עיקרון עבודה חשוב כאשר עולה צורך באבחון, טיפול, גמילה רפואית, התערבות חירום או הערכה קלינית — הצעד האחראי הוא לפנות לגורם מוסמך ומתאים. ליווי טוב אמור לדעת גם מתי לעצור ולהפנות הלאה. מתי חשוב לפנות לגורם רפואי או טיפולי מוסמך?",
+      "contentHash": "f06b60cfedeff01df57feecda8bbddc6c0de79d70d097c439e45c854d4cf3e52",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 306,
+        "wordCountAfter2B3d": 299
+      }
+    },
+    {
+      "id": "articles-how-to-choose-addiction-help",
+      "path": "/articles/how-to-choose-addiction-help.html",
+      "relativeSourcePath": "articles/how-to-choose-addiction-help.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/how-to-choose-addiction-help.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/how-to-choose-addiction-help.html",
+      "title": "איך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפון",
+      "h1": "איך לבחור עזרה בהתמכרות?",
+      "description": "איך בוחרים איש מקצוע, מסגרת טיפול, ליווי או גמילה בתחום ההתמכרויות? מדריך מעשי לשאלות שכדאי לשאול, נורות אזהרה ומצבים שמחייבים גורם מוסמך.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "השאלה הראשונה: מה רמת הסיכון?",
+        "אילו סוגי עזרה קיימים?",
+        "מה לבדוק לפני שמתחילים?",
+        "נורות אזהרה בבחירת עזרה",
+        "איך ליווי יכול להשתלב בתהליך?",
+        "מתי לא מחכים לבחירה מסודרת?",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "איך בוחרים איש מקצוע, מסגרת טיפול, ליווי או גמילה בתחום ההתמכרויות? מדריך מעשי לשאלות שכדאי לשאול, נורות אזהרה ומצבים שמחייבים גורם מוסמך.",
+      "approvedContent": "מאמר שקיפות ובחירת שירות איך לבחור עזרה בהתמכרות? איש מקצוע, מסגרת טיפול, ליווי או גמילה — איך עושים סדר בלי להיבהל ובלי לבחור מתוך לחץ. 8 דקות · 24 ביוני 2026 בחירת עזרה בתחום ההתמכרויות צריכה להיות זהירה, שקופה ומותאמת מצב. לא כל אדם צריך את אותו סוג מענה: יש מי שזקוק לשיחת הכוונה, יש מי שזקוק לטיפול קליני, יש מי שצריך הערכה רפואית או גמילה בפיקוח, ויש משפחות שצריכות קודם כל להבין איך לפעול בלי להחמיר את המצב. השאלה הראשונה: מה רמת הסיכון? לפני שבוחרים אדם או מסגרת, חשוב לשאול מה מצב הסיכון. אם יש חשש רפואי, נפשי או בטיחותי — הבחירה אינה מתחילה באתר, בפרסומת או בהמלצה מחבר, אלא בפנייה לגורם מוסמך ומתאים. האם יש תסמיני גמילה, שימוש כבד או שימוש משולב בחומרים? האם יש דיכאון חריף, מחשבות אובדניות, בלבול, פסיכוזה או אלימות? האם מעורבים קטינים, היריון, מחלה רפואית או תרופות קבועות? האם האדם איבד שליטה בצורה שמסכנת אותו או אחרים? אם אחת התשובות היא כן, חשוב לערב גורם רפואי, טיפולי או שירות חירום לפי חומרת המצב. ליווי והדרכה יכולים לעזור סביב קבלת החלטות, אבל אינם תחליף להערכה מקצועית. אילו סוגי עזרה קיימים? תחום ההתמכרויות כולל רצף של מענים. הבחירה הנכונה תלויה במצב האדם, במשפחה, בסיכון ובמשאבים הקיימים. ליווי והדרכה: מתאים לסדר ראשוני, הבנת מצב, הכנת שיחה, גבולות והכוונה למשפחה. אינו אבחון או טיפול קליני. טיפול קליני: יכול לכלול טיפול פסיכולוגי, פסיכיאטרי, משפחתי או עבודה סוציאלית טיפולית, לפי הכשרת המטפל והצורך. הערכה רפואית: חשובה במצבי גמילה, תרופות, שימוש משולב, מחלות רקע או צורך בטיפול תרופתי. מסגרת טיפול או גמילה: יכולה להיות אמבולטורית, אינטנסיבית, אשפוזית או שיקומית. רמת המסגרת צריכה להיקבע לפי הערכה מקצועית. קבוצות תמיכה ומשאבי קהילה: יכולות לספק תמיכה מתמשכת, אך אינן מחליפות טיפול כאשר יש סיכון קליני או רפואי. ASAM מדגישים התאמה לרמת טיפול על בסיס הערכה רב־ממדית: מצב רפואי, מצב נפשי, סיכון, סביבת החלמה, חוזקות וצרכים אישיים.",
+      "contentHash": "1f5d003de7ee6cfcb6995046dbd329bf2b194e7a1311206147d67ce63b82f485",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 306,
+        "wordCountAfter2B3d": 302
+      }
+    },
+    {
+      "id": "articles-partner-addicted",
+      "path": "/articles/partner-addicted.html",
+      "relativeSourcePath": "articles/partner-addicted.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/partner-addicted.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/partner-addicted.html",
+      "title": "מה עושים כשבן או בת הזוג מתמודדים עם התמכרות? | עמוס כלפון",
+      "h1": "מה עושים כשבן הזוג מכור?",
+      "description": "צעדים לבן או בת זוג של אדם עם התמכרות: בטיחות, כסף, ילדים, שיחה, גבולות, תמיכה וקבלת החלטות.",
+      "category": "article",
+      "audience": "family_support",
+      "topics": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "aliases": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "headings": [
+        "קודם כול: האם אתם בטוחים?",
+        "להפריד בין עובדות, חשדות והבטחות",
+        "להגן על כסף ועל ילדים",
+        "כסף",
+        "ילדים",
+        "איך לדבר עם בן או בת הזוג?",
+        "גבולות בתוך קשר זוגי",
+        "האם להישאר או לעזוב?"
+      ],
+      "summary": "צעדים לבן או בת זוג של אדם עם התמכרות: בטיחות, כסף, ילדים, שיחה, גבולות, תמיכה וקבלת החלטות.",
+      "approvedContent": "מה עושים כשבן הזוג מכור? איך לשמור על עצמכם ועל הבית, בלי לנסות לנהל לבד את ההתמכרות של בן או בת הזוג. 10 דקות · 23 ביוני 2026 הצעד הראשון הוא לא להחליט מיד על כל עתיד הקשר. מתחילים בבטיחות, בהבנת המצב, בהגנה על ילדים וכסף, ובקבלת תמיכה עבורכם. אפשר לאהוב אדם, לקוות לשינוי ולהציב תנאים ברורים לחיים משותפים — בו־זמנית. קודם כול: האם אתם בטוחים? התמכרות אינה מסבירה או מצדיקה אלימות. אם יש איומים, אלימות פיזית או מינית, נהיגה מסוכנת, נשק, הרס רכוש, מעקב, שליטה בכסף או פחד ממשי — אל תנסו לפתור זאת בשיחה זוגית רגילה. התרחקו למקום בטוח ופנו לעזרה. סיוע בישראל במצבי אלימות במשפחה או צורך בסיוע רווחתי דחוף אפשר לפנות למוקד 118 של משרד הרווחה, הפועל ללא תשלום. לפנייה שקטה ניתן לשלוח הודעת טקסט למספר 050-2270118. בסכנה מיידית פנו לשירותי החירום. להפריד בין עובדות, חשדות והבטחות רשמו מה אתם יודעים: אירועי שימוש, היעדרויות, חובות, שקרים, בעיות תפקוד, טיפול קודם וסיכונים. אל תבנו החלטות רק על הבטחה ש“ממחר הכול משתנה”, אבל גם אל תנסו לאבחן לבד. הערכה מקצועית עוזרת להבין מהי חומרת המצב ואיזה סוג מענה נדרש. טיפול בהתמכרות עשוי להיות יעיל, אך הוא בדרך כלל תהליך ולא אירוע חד־פעמי. NIDA מתאר טיפול מותאם הכולל לפי הצורך צרכים רפואיים, נפשיים, משפחתיים וחברתיים. להגן על כסף ועל ילדים כסף בדקו חשבונות, כרטיסים, הלוואות והתחייבויות משותפות. אל תחתמו על חוב חדש מתוך לחץ או הבטחה בעל פה. שקלו הפרדת הרשאות או ייעוץ משפטי/פיננסי כאשר יש סיכון ממשי. שמרו מסמכים חשובים ונגישות לכסף בסיסי במקום בטוח. ילדים ילדים אינם צריכים לשמור סוד, לפקח או לתווך בין ההורים. אין להשאיר ילד בהשגחת אדם שאינו כשיר בשל שימוש. שמרו ככל האפשר על שגרה ועל הסבר מותאם גיל שאינו מאשים. כאשר יש חשיפה חוזרת לסיכון, פנו להדרכה מקצועית ולא רק להסכמה זוגית. איך לדבר עם בן או בת הזוג? בחרו זמן רגוע יחסית, תארו דוגמאות קונקרטיות ודברו על ההשפעה עליכם ועל הבית.",
+      "contentHash": "27c7e354b4a76f615690334edd218792d8d4655e6701e471a2d7707295fded7d",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 317,
+        "wordCountAfter2B3d": 310
+      }
+    },
+    {
+      "id": "articles-pornography-addiction",
+      "path": "/articles/pornography-addiction.html",
+      "relativeSourcePath": "articles/pornography-addiction.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/pornography-addiction.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/pornography-addiction.html",
+      "title": "התמכרות לפורנוגרפיה | עמוס כלפון",
+      "h1": "התמכרות לפורנוגרפיה",
+      "description": "התמכרות לפורנוגרפיה – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה חשוב להבין?",
+        "צעדים ראשונים",
+        "מתי לפנות לעזרה?",
+        "רוצים להבין מה נכון לעשות עכשיו?"
+      ],
+      "summary": "התמכרות לפורנוגרפיה – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "approvedContent": "התמכרות לפורנוגרפיה מידע מקצועי ונגיש למשפחות ולאנשים המתמודדים עם התמכרות. 6 דקות · יוני 2026 הנושא של התמכרות לפורנוגרפיה דורש רגישות, אחריות והבנה של המציאות המשפחתית והאישית. המטרה במאמר זה היא לתת כיוון ראשוני ברור, בלי שיפוטיות ובלי הבטחות לא מציאותיות. מה חשוב להבין? התמכרות כמעט אף פעם אינה בעיה נקודתית בלבד. היא משפיעה על האדם, על המשפחה, על תחושת הביטחון, על האמון ועל היכולת לקבל החלטות רגועות. לכן חשוב להתבונן בתמונה הרחבה ולא לפעול מתוך לחץ, אשמה או פחד. צעדים ראשונים להפסיק לנסות לפתור הכול לבד ובבת אחת. לאסוף מידע אמין על המצב ועל דפוסי ההתנהגות שחוזרים על עצמם. לקבוע גבולות ברורים ומכבדים. לפנות להתייעצות כאשר יש בלבול, הסתרה, חובות, חזרה לשימוש או פגיעה בתפקוד. מתי לפנות לעזרה? כאשר ההתנהגות חוזרת למרות נזקים, כאשר המשפחה מותשת, כאשר קיימת הסתרה או כאשר האדם מתקשה לעצור בכוחות עצמו – זה הזמן לפנות להכוונה. שיחה מקצועית יכולה לעשות סדר, להפחית לחץ ולבנות תוכנית פעולה אחראית. התמכרות לאלכוהול – מתי זה כבר לא רק לשתות? התמכרות למסכים אצל בני נוער",
+      "contentHash": "daeb24ee96512a072c8e3e50008368453878998cb6dbe4ac2fd185fb26f1e8af",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 178,
+        "wordCountAfter2B3d": 167
+      }
+    },
+    {
+      "id": "articles-questions-before-starting-help",
+      "path": "/articles/questions-before-starting-help.html",
+      "relativeSourcePath": "articles/questions-before-starting-help.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/questions-before-starting-help.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/questions-before-starting-help.html",
+      "title": "שאלות שכדאי לשאול לפני שמתחילים ליווי או טיפול בהתמכרות | עמוס כלפון",
+      "h1": "שאלות שכדאי לשאול לפני שמתחילים ליווי או טיפול בהתמכרות",
+      "description": "רשימת שאלות מעשית לפני תחילת ליווי, טיפול או פנייה למסגרת בתחום ההתמכרויות: גבולות שירות, פרטיות, הכשרה, סיכונים, עלויות ותיאום ציפיות.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "למה חשוב לשאול לפני שמתחילים?",
+        "שאלות על גבולות השירות",
+        "שאלות על סיכון ובטיחות",
+        "שאלות על פרטיות ומידע אישי",
+        "שאלות על מבנה התהליך, עלות וציפיות",
+        "נורות אזהרה לפני בחירה",
+        "איך להשתמש בצ׳קליסט הזה?",
+        "שאלות נפוצות"
+      ],
+      "summary": "רשימת שאלות מעשית לפני תחילת ליווי, טיפול או פנייה למסגרת בתחום ההתמכרויות: גבולות שירות, פרטיות, הכשרה, סיכונים, עלויות ותיאום ציפיות.",
+      "approvedContent": "מאמר שקיפות ותיאום ציפיות שאלות שכדאי לשאול לפני שמתחילים ליווי או טיפול בהתמכרות צ׳קליסט רגוע וברור שיעזור לבחור עזרה בצורה אחראית, בלי לחץ, בלי בושה ובלי הבטחות שווא. 7 דקות · 24 ביוני 2026 לפני שמתחילים תהליך בתחום ההתמכרויות, מותר לעצור ולשאול שאלות. דווקא כשיש לחץ, פחד או תחושת דחיפות, שאלות נכונות יכולות להגן על האדם, על המשפחה ועל איכות ההחלטה. גורם אחראי לא אמור להיבהל משאלות — הוא אמור לעזור לכם להבין מה מתאים, מה לא מתאים ומה דורש גורם מוסמך אחר. למה חשוב לשאול לפני שמתחילים? התמכרות היא תחום רגיש שמשלב התנהגות, משפחה, בריאות, רגשות, כסף ולעיתים גם סיכון. לכן לא נכון לבחור עזרה רק לפי פרסומת, המלצה כללית או תחושת בהלה. שאלות טובות עוזרות להבין האם מדובר בליווי, טיפול קליני, הערכה רפואית, מסגרת טיפול או הפניה לשירות אחר. השאלות אינן מבחן למי שנותן את השירות. הן דרך ליצור תיאום ציפיות ולהפחית אי־בהירות. אם התשובות אינן ברורות, זה מידע חשוב בפני עצמו. שאלות על גבולות השירות מה בדיוק כולל השירות — ליווי, הדרכה, ייעוץ, טיפול קליני, אבחון או מסגרת טיפול? מה השירות אינו כולל? האם נותן השירות הוא בעל רישיון רפואי, פסיכולוגי, פסיכיאטרי, עבודה סוציאלית או טיפול קליני? באילו מצבים הוא מפנה לגורם אחר? האם קיימת עבודה מול בני משפחה, מול האדם עצמו, או שניהם? מה קורה אם במהלך התהליך מתגלה סיכון רפואי, נפשי או משפחתי? באתר זה השירות מוצג כליווי, הדרכה, ייעוץ והכוונה — לא כאבחון, טיפול רפואי, פסיכולוגי, פסיכיאטרי, קליני, גמילה רפואית או שירות חירום. להרחבה קראו את ההבדל בין ליווי והדרכה לבין טיפול בהתמכרות. שאלות על סיכון ובטיחות לפני שמתחילים, חשוב לברר איך מזהים מצבים שבהם אין להסתפק בשיחה רגילה. האם יש תסמיני גמילה או שימוש בחומרים שעלול להיות מסוכן להפסקה לבד? האם יש דיכאון חריף, מחשבות אובדניות, אלימות, בלבול או מצב נפשי לא יציב? האם מעורבים קטינים, היריון, מחלות רקע או תרופות קבועות?",
+      "contentHash": "2b4ff32bf70b912bb61d0f7e857aa31abc3a2c3f46ea516767bfa71da9b8b6e8",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 303,
+        "wordCountAfter2B3d": 299
+      }
+    },
+    {
+      "id": "articles-real-recovery",
+      "path": "/articles/real-recovery.html",
+      "relativeSourcePath": "articles/real-recovery.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/real-recovery.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/real-recovery.html",
+      "title": "מהי החלמה אמיתית? | עמוס כלפון",
+      "h1": "מהי החלמה אמיתית?",
+      "description": "מהי החלמה אמיתית? – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה חשוב להבין?",
+        "צעדים ראשונים",
+        "מתי לפנות לעזרה?",
+        "רוצים להבין מה נכון לעשות עכשיו?"
+      ],
+      "summary": "מהי החלמה אמיתית? – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "approvedContent": "מהי החלמה אמיתית? מידע מקצועי ונגיש למשפחות ולאנשים המתמודדים עם התמכרות. 6 דקות · יוני 2026 הנושא של מהי החלמה אמיתית? דורש רגישות, אחריות והבנה של המציאות המשפחתית והאישית. המטרה במאמר זה היא לתת כיוון ראשוני ברור, בלי שיפוטיות ובלי הבטחות לא מציאותיות. מה חשוב להבין? התמכרות כמעט אף פעם אינה בעיה נקודתית בלבד. היא משפיעה על האדם, על המשפחה, על תחושת הביטחון, על האמון ועל היכולת לקבל החלטות רגועות. לכן חשוב להתבונן בתמונה הרחבה ולא לפעול מתוך לחץ, אשמה או פחד. צעדים ראשונים להפסיק לנסות לפתור הכול לבד ובבת אחת. לאסוף מידע אמין על המצב ועל דפוסי ההתנהגות שחוזרים על עצמם. לקבוע גבולות ברורים ומכבדים. לפנות להתייעצות כאשר יש בלבול, הסתרה, חובות, חזרה לשימוש או פגיעה בתפקוד. מתי לפנות לעזרה? כאשר ההתנהגות חוזרת למרות נזקים, כאשר המשפחה מותשת, כאשר קיימת הסתרה או כאשר האדם מתקשה לעצור בכוחות עצמו – זה הזמן לפנות להכוונה. שיחה מקצועית יכולה לעשות סדר, להפחית לחץ ולבנות תוכנית פעולה אחראית. התמכרות למסכים אצל בני נוער מניעת חזרה לשימוש",
+      "contentHash": "3b5f1f25af430a6ede03d06730730a3c4ff1100a3f373e62ea74acf939ceae54",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 174,
+        "wordCountAfter2B3d": 163
+      }
+    },
+    {
+      "id": "articles-rebuilding-trust",
+      "path": "/articles/rebuilding-trust.html",
+      "relativeSourcePath": "articles/rebuilding-trust.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/rebuilding-trust.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/rebuilding-trust.html",
+      "title": "איך בונים אמון מחדש לאחר התמכרות? | עמוס כלפון",
+      "h1": "איך בונים אמון מחדש לאחר התמכרות?",
+      "description": "איך בונים אמון מחדש לאחר התמכרות? – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "מה חשוב להבין?",
+        "צעדים ראשונים",
+        "מתי לפנות לעזרה?",
+        "רוצים להבין מה נכון לעשות עכשיו?"
+      ],
+      "summary": "איך בונים אמון מחדש לאחר התמכרות? – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "approvedContent": "איך בונים אמון מחדש לאחר התמכרות? מידע מקצועי ונגיש למשפחות ולאנשים המתמודדים עם התמכרות. 6 דקות · יוני 2026 הנושא של איך בונים אמון מחדש לאחר התמכרות? דורש רגישות, אחריות והבנה של המציאות המשפחתית והאישית. המטרה במאמר זה היא לתת כיוון ראשוני ברור, בלי שיפוטיות ובלי הבטחות לא מציאותיות. מה חשוב להבין? התמכרות כמעט אף פעם אינה בעיה נקודתית בלבד. היא משפיעה על האדם, על המשפחה, על תחושת הביטחון, על האמון ועל היכולת לקבל החלטות רגועות. לכן חשוב להתבונן בתמונה הרחבה ולא לפעול מתוך לחץ, אשמה או פחד. צעדים ראשונים להפסיק לנסות לפתור הכול לבד ובבת אחת. לאסוף מידע אמין על המצב ועל דפוסי ההתנהגות שחוזרים על עצמם. לקבוע גבולות ברורים ומכבדים. לפנות להתייעצות כאשר יש בלבול, הסתרה, חובות, חזרה לשימוש או פגיעה בתפקוד. מתי לפנות לעזרה? כאשר ההתנהגות חוזרת למרות נזקים, כאשר המשפחה מותשת, כאשר קיימת הסתרה או כאשר האדם מתקשה לעצור בכוחות עצמו – זה הזמן לפנות להכוונה. שיחה מקצועית יכולה לעשות סדר, להפחית לחץ ולבנות תוכנית פעולה אחראית. מניעת חזרה לשימוש איך להציב גבולות למכור?",
+      "contentHash": "f8e3dafefd6237644442eb0f166f057c219aad9917a6f3341507f2da32e832ed",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 179,
+        "wordCountAfter2B3d": 168
+      }
+    },
+    {
+      "id": "articles-relapse-prevention",
+      "path": "/articles/relapse-prevention.html",
+      "relativeSourcePath": "articles/relapse-prevention.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/relapse-prevention.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/relapse-prevention.html",
+      "title": "מניעת חזרה לשימוש | עמוס כלפון",
+      "h1": "מניעת חזרה לשימוש",
+      "description": "מניעת חזרה לשימוש – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה חשוב להבין?",
+        "צעדים ראשונים",
+        "מתי לפנות לעזרה?",
+        "רוצים להבין מה נכון לעשות עכשיו?"
+      ],
+      "summary": "מניעת חזרה לשימוש – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "approvedContent": "מניעת חזרה לשימוש מידע מקצועי ונגיש למשפחות ולאנשים המתמודדים עם התמכרות. 6 דקות · יוני 2026 הנושא של מניעת חזרה לשימוש דורש רגישות, אחריות והבנה של המציאות המשפחתית והאישית. המטרה במאמר זה היא לתת כיוון ראשוני ברור, בלי שיפוטיות ובלי הבטחות לא מציאותיות. מה חשוב להבין? התמכרות כמעט אף פעם אינה בעיה נקודתית בלבד. היא משפיעה על האדם, על המשפחה, על תחושת הביטחון, על האמון ועל היכולת לקבל החלטות רגועות. לכן חשוב להתבונן בתמונה הרחבה ולא לפעול מתוך לחץ, אשמה או פחד. צעדים ראשונים להפסיק לנסות לפתור הכול לבד ובבת אחת. לאסוף מידע אמין על המצב ועל דפוסי ההתנהגות שחוזרים על עצמם. לקבוע גבולות ברורים ומכבדים. לפנות להתייעצות כאשר יש בלבול, הסתרה, חובות, חזרה לשימוש או פגיעה בתפקוד. מתי לפנות לעזרה? כאשר ההתנהגות חוזרת למרות נזקים, כאשר המשפחה מותשת, כאשר קיימת הסתרה או כאשר האדם מתקשה לעצור בכוחות עצמו – זה הזמן לפנות להכוונה. שיחה מקצועית יכולה לעשות סדר, להפחית לחץ ולבנות תוכנית פעולה אחראית. מהי החלמה אמיתית? איך בונים אמון מחדש לאחר התמכרות?",
+      "contentHash": "147726fe871ef59b23a0a7aef463b54db23e56ecd6fcf68ebe32cfe297f0357f",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 175,
+        "wordCountAfter2B3d": 164
+      }
+    },
+    {
+      "id": "articles-screen-addiction-teens",
+      "path": "/articles/screen-addiction-teens.html",
+      "relativeSourcePath": "articles/screen-addiction-teens.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/screen-addiction-teens.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/screen-addiction-teens.html",
+      "title": "התמכרות למסכים אצל בני נוער | עמוס כלפון",
+      "h1": "התמכרות למסכים אצל בני נוער",
+      "description": "התמכרות למסכים אצל בני נוער – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה חשוב להבין?",
+        "צעדים ראשונים",
+        "מתי לפנות לעזרה?",
+        "רוצים להבין מה נכון לעשות עכשיו?"
+      ],
+      "summary": "התמכרות למסכים אצל בני נוער – מידע, הכוונה וכלים ראשוניים להתמודדות עם התמכרות וליווי בני משפחה.",
+      "approvedContent": "התמכרות למסכים אצל בני נוער מידע מקצועי ונגיש למשפחות ולאנשים המתמודדים עם התמכרות. 6 דקות · יוני 2026 הנושא של התמכרות למסכים אצל בני נוער דורש רגישות, אחריות והבנה של המציאות המשפחתית והאישית. המטרה במאמר זה היא לתת כיוון ראשוני ברור, בלי שיפוטיות ובלי הבטחות לא מציאותיות. מה חשוב להבין? התמכרות כמעט אף פעם אינה בעיה נקודתית בלבד. היא משפיעה על האדם, על המשפחה, על תחושת הביטחון, על האמון ועל היכולת לקבל החלטות רגועות. לכן חשוב להתבונן בתמונה הרחבה ולא לפעול מתוך לחץ, אשמה או פחד. צעדים ראשונים להפסיק לנסות לפתור הכול לבד ובבת אחת. לאסוף מידע אמין על המצב ועל דפוסי ההתנהגות שחוזרים על עצמם. לקבוע גבולות ברורים ומכבדים. לפנות להתייעצות כאשר יש בלבול, הסתרה, חובות, חזרה לשימוש או פגיעה בתפקוד. מתי לפנות לעזרה? כאשר ההתנהגות חוזרת למרות נזקים, כאשר המשפחה מותשת, כאשר קיימת הסתרה או כאשר האדם מתקשה לעצור בכוחות עצמו – זה הזמן לפנות להכוונה. שיחה מקצועית יכולה לעשות סדר, להפחית לחץ ולבנות תוכנית פעולה אחראית. התמכרות לפורנוגרפיה מהי החלמה אמיתית?",
+      "contentHash": "8b9b2132d198c600426b2c6ac5ed260e16729f916c707824d888218093be226c",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 175,
+        "wordCountAfter2B3d": 164
+      }
+    },
+    {
+      "id": "articles-talk-to-addicted-family-member",
+      "path": "/articles/talk-to-addicted-family-member.html",
+      "relativeSourcePath": "articles/talk-to-addicted-family-member.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/talk-to-addicted-family-member.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/talk-to-addicted-family-member.html",
+      "title": "איך לדבר עם בן משפחה על התמכרות? | עמוס כלפון",
+      "h1": "איך לדבר עם בן משפחה מכור?",
+      "description": "איך לפתוח שיחה רגישה על שימוש בעייתי או התמכרות: הכנה, ניסוח, הקשבה, טעויות נפוצות והצעת עזרה מעשית.",
+      "category": "article",
+      "audience": "family_support",
+      "topics": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "aliases": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "headings": [
+        "לפני שמתחילים: הכנה קצרה",
+        "מבנה פשוט לשיחה",
+        "איך מגיבים להכחשה, כעס או שתיקה?",
+        "“אין לי בעיה”",
+        "“כולם נגדי”",
+        "כעס או צעקות",
+        "הסכמה חלקית",
+        "טעויות שמקשות על השיחה"
+      ],
+      "summary": "איך לפתוח שיחה רגישה על שימוש בעייתי או התמכרות: הכנה, ניסוח, הקשבה, טעויות נפוצות והצעת עזרה מעשית.",
+      "approvedContent": "איך לדבר עם בן משפחה מכור? דרך ברורה לפתוח שיחה בלי להפוך אותה לחקירה, הטפה או מאבק כוח. 9 דקות · 23 ביוני 2026 מטרת השיחה אינה להשיג הודאה. המטרה היא לבטא דאגה, לתאר עובדות, להבין איך האדם רואה את מצבו ולהציע צעד אפשרי. שיחה מכבדת אינה מבטיחה הסכמה, אבל היא משאירה דלת פתוחה ומפחיתה את הסיכוי שהמסר יאבד בתוך עימות. לפני שמתחילים: הכנה קצרה בחרו אדם אחד או שניים: קבוצה גדולה עלולה להיחוות כמארב. בחרו זמן בטוח: לא בזמן שימוש ניכר, שכרות, נהיגה, ריב או לחץ חריף. בחרו דוגמאות קונקרטיות: אירועים שראיתם בעצמכם, לא שמועות. הגדירו בקשה אחת: שיחת הערכה, בדיקה רפואית או פגישה משותפת. החליטו מראש על גבולות: מה תעשו אם השיחה תידחה או תהפוך למסוכנת. מבנה פשוט לשיחה רשות: “יש משהו שמדאיג אותי. אפשר לדבר עליו כמה דקות?” דאגה: “אני אומר את זה כי אתה חשוב לי.” עובדה: “בחודש האחרון נעדרת מהעבודה והיו שני לילות שלא ידענו היכן אתה.” השפעה: “זה מדאיג אותי ומשפיע על תחושת הביטחון בבית.” שאלה: “מה אתה חושב שקורה?” או “מה מדאיג אותך במצב?” הצעה: “אני מוכן לעזור לקבוע שיחת הערכה ולבוא איתך.” מדריך SAMHSA לשיחה מוטיבציונית מתאר שינוי כתהליך שיתופי: אמביוולנטיות היא מצב רגיל, והאדם עצמו הוא שמחליט ומבצע שינוי. הקשבה, סקרנות וכבוד אינם ויתור על המציאות; הם דרך לדבר עליה בלי לנהל ויכוח. איך מגיבים להכחשה, כעס או שתיקה? “אין לי בעיה” אפשר להשיב: “יכול להיות שאתה רואה את זה אחרת. אני עדיין רוצה שתדע מה ראיתי ואיך זה משפיע עליי.” אין צורך לנצח בוויכוח על התווית. “כולם נגדי” חזרו לכוונה: “אני לא מנסה לתקוף אותך. אני רוצה שנמצא דרך לבדוק את המצב.” שאלו מה היה הופך שיחה עם איש מקצוע לבטוחה יותר עבורו. כעס או צעקות שמרו על קול רגוע והפסיקו אם אין שיחה בטוחה: “אני רוצה לדבר, אבל לא תוך צעקות. נחזור לזה כשנוכל לדבר בלי לפגוע.” הסכמה חלקית אל תעמיסו עשר דרישות. נסו להפוך את ההסכמה לצעד קטן ומוגדר בזמן: למי מתקשרים ומתי.",
+      "contentHash": "0c96050f960960c5b91d98e7fe89b67394a361f301c582199e39924664185ddf",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 322,
+        "wordCountAfter2B3d": 315
+      }
+    },
+    {
+      "id": "articles-when-guidance-is-not-enough",
+      "path": "/articles/when-guidance-is-not-enough.html",
+      "relativeSourcePath": "articles/when-guidance-is-not-enough.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/when-guidance-is-not-enough.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/when-guidance-is-not-enough.html",
+      "title": "מתי ליווי אינו מספיק ונדרשת הערכה רפואית או נפשית? | עמוס כלפון",
+      "h1": "מתי ליווי אינו מספיק?",
+      "description": "באילו מצבים ליווי והדרכה אינם מספיקים בתחום התמכרויות? סימני חירום, גמילה מסוכנת, סיכון נפשי, קטינים ואלימות — ומתי לפנות לגורם מוסמך.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "מתי נדרשת הערכה רפואית?",
+        "מתי נדרשת הערכה נפשית או קלינית?",
+        "מתי המשפחה צריכה לערב גורם נוסף?",
+        "מה ליווי כן יכול לעשות במצבים מורכבים?",
+        "מתי פונים מיד לשירותי חירום?",
+        "שאלות נפוצות",
+        "מקורות מקצועיים",
+        "לא בטוחים מה רמת הסיכון?"
+      ],
+      "summary": "באילו מצבים ליווי והדרכה אינם מספיקים בתחום התמכרויות? סימני חירום, גמילה מסוכנת, סיכון נפשי, קטינים ואלימות — ומתי לפנות לגורם מוסמך.",
+      "approvedContent": "מתי ליווי אינו מספיק? מצבים שבהם נכון לעצור, לא להסתפק בשיחת ייעוץ, ולפנות לגורם רפואי, נפשי, טיפולי או לשירותי חירום. 8 דקות · 24 ביוני 2026 ליווי יכול לעזור לעשות סדר, אבל הוא לא מתאים לכל מצב. כאשר יש חשש לסיכון רפואי, נפשי, בטיחותי או משפטי — האחריות היא לא “להמשיך לדבר”, אלא לפנות לגורם מוסמך. ההבחנה הזו מגינה על האדם המתמודד, על המשפחה, וגם על איכות התהליך. מתי נדרשת הערכה רפואית? במצבים רפואיים אין מקום לניחוש. התמכרות יכולה להיות קשורה לתרופות, שימוש משולב, מחלות רקע, היריון, תסמיני גמילה או סכנת מנת יתר. אלה מצבים שבהם רופא או שירות חירום צריכים להיות בתמונה. הפסקה פתאומית או ניסיון גמילה מאלכוהול, בנזודיאזפינים, אופיאטים או שימוש משולב. רעידות, פרכוסים, הזעה קיצונית, בלבול, הזיות, כאבים בחזה או קוצר נשימה. שימוש יחד עם תרופות מרשם, מחלת רקע, היריון או מצב בריאותי לא יציב. חשד למנת יתר, אובדן הכרה, נשימה איטית או קושי להעיר את האדם. CDC מדגישים שבחשד למנת יתר, גם אם לא בטוחים, נכון להתייחס לכך כמנת יתר: להזעיק עזרה, לשמור על נשימה וערנות, להשכיב על הצד ולהישאר עם האדם עד הגעת סיוע. מתי נדרשת הערכה נפשית או קלינית? התמכרות יכולה להופיע יחד עם דיכאון, חרדה, טראומה, פסיכוזה, אובדנות או התנהגות אלימה. כאשר קיימת מצוקה נפשית משמעותית, ליווי אינו מחליף הערכה של פסיכיאטר, פסיכולוג, עובד סוציאלי טיפולי או חדר מיון. איום בפגיעה עצמית או באחרים: לא ממתינים לשיחה עתידית. בלבול קיצוני, פסיכוזה או הזיות: דורש הערכה מקצועית דחופה. דיכאון חריף או חוסר תפקוד עמוק: מצריך בירור קליני. אלימות, כפייה או פחד בבית: זה כבר לא רק נושא התמכרות, אלא גם בטיחות. מתי המשפחה צריכה לערב גורם נוסף? בני משפחה רבים פונים לליווי כשהם מותשים, מבולבלים או מפחדים. זה לגיטימי. אבל יש נקודות שבהן האחריות היא לערב גורם חיצוני מוסמך. כאשר יש ילדים או קטינים בסיכון. כאשר יש אלימות, איומים, נשק, נהיגה מסוכנת או חובות שמסכנים את הבית.",
+      "contentHash": "22ce5a82da96b51b28daeed4dc6d4cb7363d5e4fe0a60c099cc21a81e762f9ad",
+      "safetyClassification": "high_safety_sensitive",
+      "responsePermission": "summarize_with_boundary_and_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 310,
+        "wordCountAfter2B3d": 303
+      }
+    },
+    {
+      "id": "articles-when-to-seek-help",
+      "path": "/articles/when-to-seek-help.html",
+      "relativeSourcePath": "articles/when-to-seek-help.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/articles/when-to-seek-help.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/articles/when-to-seek-help.html",
+      "title": "מתי נכון לפנות לעזרה בנושא התמכרות? | עמוס כלפון",
+      "h1": "מתי נכון לפנות לעזרה?",
+      "description": "מתי שימוש הופך למצב שמצריך עזרה מקצועית? סימנים תפקודיים, מצבי סיכון, אפשרויות פנייה ומה לעשות כשאינכם בטוחים.",
+      "category": "article",
+      "audience": "general_visitor",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "סימנים שכדאי לבדוק מקצועית",
+        "גם מצב המשפחה הוא סיבה לפנות",
+        "לאיזה סוג עזרה פונים?",
+        "איך מתכוננים לפנייה ראשונה?",
+        "מתי זו כבר לא פנייה רגילה?",
+        "אם עדיין אינכם בטוחים",
+        "שאלות נפוצות",
+        "מקורות מקצועיים"
+      ],
+      "summary": "מתי שימוש הופך למצב שמצריך עזרה מקצועית? סימנים תפקודיים, מצבי סיכון, אפשרויות פנייה ומה לעשות כשאינכם בטוחים.",
+      "approvedContent": "מתי נכון לפנות לעזרה? סימנים שמצדיקים התייעצות, ההבדל בין הכוונה מקצועית למצב חירום, ואיך מתחילים. 8 דקות · 23 ביוני 2026 לא צריך לחכות לקריסה. נכון לפנות לעזרה כאשר שימוש בחומר או התנהגות ממכרת חוזרים למרות נזק, כאשר קיימת ירידה בתפקוד, כאשר ניסיונות לצמצם אינם מצליחים, או כשהמשפחה כבר מתנהלת סביב המשבר. התייעצות מוקדמת אינה “הגזמה” — היא דרך להבין את רמת הסיכון ואת אפשרויות הפעולה. סימנים שכדאי לבדוק מקצועית סימן יחיד אינו אבחנה. התמונה נעשית משמעותית כאשר כמה דפוסים חוזרים לאורך זמן או גורמים לנזק ברור. קושי לעצור או לצמצם למרות החלטות חוזרות. שימוש או התנהגות שתופסים יותר זמן, כסף ומחשבה. פגיעה בעבודה, לימודים, הורות, קשרים או בריאות. הסתרה, שקרים, חובות או התנהגות מסוכנת. המשך למרות ריבים, תאונות, בעיות משפטיות או אובדן אמון. צורך בכמות גדולה יותר, או תסמינים לא נעימים כאשר מפסיקים — מצב שמצריך הערכה רפואית ולא גמילה עצמאית. גם מצב המשפחה הוא סיבה לפנות לא חייבים להוכיח אבחנה כדי לקבל הדרכה. אם הבית מתנהל סביב מעקב, כיסוי חובות, חיפוש, פחד, מריבות או ניסיון למנוע את המשבר הבא — המשפחה זקוקה לתמיכה. טיפול משפחתי בתחום ההתמכרויות מתייחס גם לבריאות, לתקשורת ולתפקוד של בני המשפחה, ולא רק להפסקת השימוש של אדם אחד. סימנים נפוצים הם תשישות, ירידה בשינה, בידוד, קושי לשמור על גבולות, ותחושה שכל החלטה תלויה במצבו של האדם המתמודד. לאיזה סוג עזרה פונים? שיחת הכוונה: מתאימה כאשר לא ברור מה קורה ומה הצעד הראשון. הערכה מקצועית: בוחנת את דפוס השימוש, התפקוד, הבריאות והצרכים המשפחתיים. בדיקה רפואית: חשובה כאשר קיימים תסמיני גמילה, שימוש בתרופות, שימוש משולב, היריון או מחלה גופנית/נפשית. טיפול מתמשך: עשוי לכלול טיפול רפואי, פסיכולוגי, התנהגותי, קבוצתי, משפחתי או שילוב ביניהם. NIDA מדגיש שטיפול יעיל מותאם לאדם ומתייחס לצרכים רפואיים, נפשיים, חברתיים ומשפחתיים. הפסקת שימוש בלבד או גמילה פיזית אינן תמיד טיפול מלא. איך מתכוננים לפנייה ראשונה?",
+      "contentHash": "a9623b35db91dbff43729429a41ead3df965ae952006b11d33867eeadee2f03d",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 299,
+        "wordCountAfter2B3d": 292
+      }
+    },
+    {
+      "id": "contact",
+      "path": "/contact.html",
+      "relativeSourcePath": "contact.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/contact.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/contact.html",
+      "title": "צור קשר עם עמוס כלפון | ייעוץ וליווי בהתמכרויות",
+      "h1": "צור קשר",
+      "description": "צרו קשר עם עמוס כלפון לקבלת ייעוץ, הכוונה וליווי בהתמודדות עם התמכרות או עם בן משפחה המתמודד עם התמכרות.",
+      "category": "service-trust",
+      "audience": "prospective_client",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "פרטי קשר",
+        "עמוס כלפון",
+        "טופס יצירת קשר",
+        "שעות פעילות",
+        "ימים א'–ה'",
+        "08:00–20:00",
+        "ימי ו'",
+        "08:00–13:00"
+      ],
+      "summary": "לעיתים שיחה אחת יכולה לעשות סדר, להפחית תחושת חוסר אונים ולעזור להבין מהן האפשרויות העומדות בפניכם. הפנייה אינה מחייבת דבר, ומטרתה לספק הקשבה, מידע והכוונה ראשונית בהתאם למצב האישי שלכם. הפרטים ישמשו לטיפול בפנייה וליצירת קשר, כמפורט במדיניות הפרטיות. אין לשלוח בטופס מידע רפואי, משפטי או אישי מפורט; די בתיאור קצר לצורך שיחה ראשונית.",
+      "approvedContent": "דף יצירת הקשר מרכז את אפשרויות הפנייה באתר, כולל טופס פנייה ושיחה ראשונית בתיאום. מטרת הדף היא להסביר היכן ניתן לפנות וכיצד נשמרת פרטיות הפונה לפי מדיניות הפרטיות. אין לשלוח בטופס מידע רפואי, משפטי או אישי מפורט; מספיק תיאור כללי וקצר לצורך חזרה ראשונית. במקרה חירום, סכנה מיידית, חשש למנת יתר או משבר נפשי חריף יש לפנות מיד למד״א, למשטרה, לחדר מיון או לגורם חירום מוסמך. השירות כולל ייעוץ, הדרכה, ליווי והכוונה מניסיון אישי ומעשי, ואינו אבחון, טיפול רפואי, פסיכולוגי, פסיכיאטרי או קליני, גמילה רפואית או שירות חירום.",
+      "contentHash": "1c70e92781f926c4216d80123692139eabebb9edd56b86974c15f427cc92b58a",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 274,
+        "wordCountAfter2B3d": 88
+      }
+    },
+    {
+      "id": "cookies",
+      "path": "/cookies.html",
+      "relativeSourcePath": "cookies.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/cookies.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/cookies.html",
+      "title": "מדיניות Cookies | עמוס כלפון",
+      "h1": "מדיניות Cookies",
+      "description": "הסבר ברור על שימוש בקובצי Cookies באתר עמוס כלפון, מטרות שימוש, שירותי מדידה עתידיים, ניהול העדפות ומחיקת Cookies בדפדפן.",
+      "category": "trust-legal",
+      "audience": "trust_legal",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "בעמוד זה",
+        "מה הם Cookies",
+        "שימוש נוכחי באתר",
+        "מדידה ושיפור עתידי",
+        "Cookies של צד שלישי",
+        "ניהול ומחיקה",
+        "הסכמה לשימוש",
+        "שאלות בנושא Cookies"
+      ],
+      "summary": "הסבר ברור על שימוש בקובצי Cookies באתר עמוס כלפון, מטרות שימוש, שירותי מדידה עתידיים, ניהול העדפות ומחיקת Cookies בדפדפן.",
+      "approvedContent": "מדיניות Cookies מסבירה שהאתר עשוי להשתמש בקבצי Cookies או בטכנולוגיות דומות לצורך תפקוד בסיסי, אבטחה, שיפור חוויית שימוש והבנת שימוש כללי באתר. המידע מיועד לשיפור האתר ולניהול תקין שלו, בהתאם למדיניות הפרטיות. ניתן לנהל או למחוק Cookies דרך הגדרות הדפדפן. העמוד נועד לשקיפות ואינו ייעוץ משפטי.",
+      "contentHash": "b849711141aec9b7509f3afb8a71ad8167e25977a37735ce1f681e63fe07cf74",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 273,
+        "wordCountAfter2B3d": 46
+      }
+    },
+    {
+      "id": "copyright",
+      "path": "/copyright.html",
+      "relativeSourcePath": "copyright.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/copyright.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/copyright.html",
+      "title": "זכויות יוצרים | עמוס כלפון",
+      "h1": "זכויות יוצרים",
+      "description": "הצהרת זכויות יוצרים לאתר עמוס כלפון: בעלות על תכנים, שימוש מותר, איסור העתקה, שימוש הוגן, קרדיט ופנייה לבקשת אישור.",
+      "category": "trust-legal",
+      "audience": "trust_legal",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "בעמוד זה",
+        "בעלות על התכנים",
+        "מה מותר לעשות",
+        "מה אסור לעשות",
+        "שימוש מקצועי או לימודי",
+        "דיווח על הפרת זכויות",
+        "פיתוח מרכז הידע"
+      ],
+      "summary": "הצהרת זכויות יוצרים לאתר עמוס כלפון: בעלות על תכנים, שימוש מותר, איסור העתקה, שימוש הוגן, קרדיט ופנייה לבקשת אישור.",
+      "approvedContent": "עמוד זכויות היוצרים מסביר שהתכנים, המבנה, הטקסטים, המאמרים, העיצוב והחומרים באתר מוגנים בזכויות יוצרים אלא אם צוין אחרת. אין להעתיק, לפרסם מחדש, לשכפל או לעשות שימוש מסחרי בתוכן ללא אישור מראש ובכתב. ניתן לשתף קישור לעמודי האתר באופן סביר, תוך שמירה על ייחוס ועל אי־שינוי התוכן.",
+      "contentHash": "c5196e29f0380f66788c4fc993fab690cdccded1f7f72b44bbaec59427dc5e8e",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 239,
+        "wordCountAfter2B3d": 46
+      }
+    },
+    {
+      "id": "disclaimer",
+      "path": "/disclaimer.html",
+      "relativeSourcePath": "disclaimer.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/disclaimer.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/disclaimer.html",
+      "title": "הצהרת אחריות מקצועית | עמוס כלפון",
+      "h1": "הצהרת אחריות מקצועית",
+      "description": "הבהרת גבולות האחריות באתר עמוס כלפון: מידע כללי בלבד, לא תחליף לטיפול רפואי או נפשי, מצבי חירום, התאמה אישית ופנייה לגורמים מוסמכים.",
+      "category": "trust-legal",
+      "audience": "trust_legal",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "בעמוד זה",
+        "מידע כללי בלבד",
+        "לא תחליף לטיפול מקצועי",
+        "מצבי חירום וסיכון",
+        "כל מקרה דורש התאמה אישית",
+        "מה כן ניתן לקבל",
+        "אחריות המשתמש",
+        "שאלות והבהרות"
+      ],
+      "summary": "הבהרת גבולות האחריות באתר עמוס כלפון: מידע כללי בלבד, לא תחליף לטיפול רפואי או נפשי, מצבי חירום, התאמה אישית ופנייה לגורמים מוסמכים.",
+      "approvedContent": "הצהרת האחריות מבהירה שהאתר מספק מידע, הכוונה וידע ראשוני בתחום ההתמכרויות. המידע אינו אבחון, טיפול רפואי, טיפול פסיכולוגי, טיפול פסיכיאטרי, ייעוץ משפטי או המלצה אישית מחייבת. עמוס כלפון מספק הדרכה, ליווי, ייעוץ והכוונה, ואינו מציג את השירות כטיפול של פסיכולוג, פסיכיאטר, רופא, עובד סוציאלי או מטפל קליני מורשה. התמכרות עשויה לכלול היבטים נפשיים, רפואיים, משפחתיים, כלכליים ומשפטיים, ולכן אין לראות בתוכן או בשירות תחליף לאבחון, טיפול, גמילה רפואית או פנייה לגורם מוסמך. במצב של סכנה מיידית, פגיעה עצמית או באחרים, אלימות, מנת יתר, מצב רפואי חריף או משבר נפשי חמור יש לפנות מיד למד״א, משטרה, חדר מיון או גורם מקצועי מוסמך. אין התחייבות לתוצאה מסוימת.",
+      "contentHash": "9fa655e6e79dcfa5fc8d4012d34be9f9c57d8c624ab467b6fb56ed1ece196bb0",
+      "safetyClassification": "high_safety_sensitive",
+      "responsePermission": "summarize_with_boundary_and_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 296,
+        "wordCountAfter2B3d": 105
+      }
+    },
+    {
+      "id": "editorial-policy",
+      "path": "/editorial-policy.html",
+      "relativeSourcePath": "editorial-policy.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/editorial-policy.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/editorial-policy.html",
+      "title": "מדיניות עריכה ובדיקת תוכן | עמוס כלפון",
+      "h1": "מדיניות עריכה ובדיקת תוכן",
+      "description": "כיצד נכתב, נבדק ומתעדכן התוכן המקצועי באתר עמוס כלפון, מהם גבולותיו ואילו עקרונות מנחים את מרכז הידע להתמכרויות.",
+      "category": "trust-legal",
+      "audience": "general_visitor",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "מטרת התוכן",
+        "מי עומד מאחוריו",
+        "מקורות ובדיקת עובדות",
+        "שפה ורגישות",
+        "עדכונים ותיקונים",
+        "שימוש בכלי AI",
+        "שימוש בתוכן האתר כמקור לעוזר AI"
+      ],
+      "summary": "כיצד נכתב, נבדק ומתעדכן התוכן המקצועי באתר עמוס כלפון, מהם גבולותיו ואילו עקרונות מנחים את מרכז הידע להתמכרויות.",
+      "approvedContent": "מדיניות עריכה ובדיקת תוכן העקרונות שמנחים את הכתיבה, הבדיקה והעדכון של מרכז הידע באתר. מטרת התוכן להנגיש מידע ברור, אחראי ומכבד לאנשים המתמודדים עם התמכרות, לבני משפחה ולאנשי מקצוע. התוכן נועד לסייע בהבנה ובהכוונה ראשונית, ולא להחליף אבחון או טיפול רפואי, פסיכולוגי או קליני. מי עומד מאחוריו התוכן מתפרסם תחת שמו של עמוס כלפון ומבוסס על הניסיון והידע המוצהרים בעמוד אודות. טענות מקצועיות יוצגו בגבולות ההכשרה והשירות המתוארים באתר. מקורות ובדיקת עובדות בעת הרחבה או עדכון של תוכן מקצועי ניתנת עדיפות למקורות רשמיים, גופי בריאות ציבוריים, מאמרי סקירה והנחיות מקצועיות. מקורות מרכזיים מרוכזים בעמוד מקורות ומתודולוגיה. שפה ורגישות הכתיבה נמנעת משיפוטיות, הפחדה, הבטחות לתוצאה או הצגת מידע מורכב כפתרון פשוט. אנו מעדיפים שפה אנושית, דיוק, תקווה מציאותית והבחנה בין מידע כללי לבין המלצה אישית. עדכונים ותיקונים תוכן מהותי יעודכן כאשר מתווסף מידע מקצועי, כאשר מתגלה אי־דיוק או כאשר נדרש ניסוח ברור יותר. תאריך עדכון יוצג במאמרים שבהם בוצע שינוי מהותי, ולא רק שינוי קוסמטי. שימוש בכלי AI כלי AI עשויים לסייע בארגון, עריכה ובקרת איכות. האחריות לפרסום, לאימות העובדות, להתאמת השפה ולשמירה על גבולות השירות נשארת אנושית. תוכן לא יפורסם באופן אוטומטי ללא בדיקה. שימוש בתוכן האתר כמקור לעוזר AI עוזר ה-AI נשען על דפי האתר שאושרו כמקורות ידע פנימיים. מטרתו להפנות למידע קיים ולנסח הסבר קצר ומוגבל, ולא ליצור סמכות טיפולית חדשה.",
+      "contentHash": "a48f5f715d67d3cccd8b66a6909dd99c0f33312d96b88d1044547ceadabd441b",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 229,
+        "wordCountAfter2B3d": 213
+      }
+    },
+    {
+      "id": "for-professionals",
+      "path": "/for-professionals.html",
+      "relativeSourcePath": "for-professionals.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/for-professionals.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/for-professionals.html",
+      "title": "מרכז ידע לאנשי מקצוע בתחום ההתמכרויות",
+      "h1": "מרכז ידע לאנשי מקצוע",
+      "description": "שער מתפתח לאנשי מקצוע המחפשים ידע מסודר על התמכרויות, משפחות, החלמה, גבולות שירות, מקורות והפניה לגורמים מתאימים.",
+      "category": "service-trust",
+      "audience": "professional_referral",
+      "topics": [
+        "professionals",
+        "service_boundaries"
+      ],
+      "aliases": [
+        "professionals",
+        "service_boundaries"
+      ],
+      "headings": [
+        "מושגי יסוד",
+        "משפחה כמערכת",
+        "תהליכי שינוי והחלמה",
+        "מקורות ובדיקת מידע",
+        "גבולות האזור המקצועי",
+        "מפת הפיתוח המתוכננת"
+      ],
+      "summary": "שער מתפתח לאנשי מקצוע המחפשים ידע מסודר על התמכרויות, משפחות, החלמה, גבולות שירות, מקורות והפניה לגורמים מתאימים.",
+      "approvedContent": "מרכז ידע לאנשי מקצוע שער מתפתח למידע מסודר, מקורות, מושגים ותהליכים בעולם ההתמכרויות. מושגי יסוד הגדרות, שפה מקצועית והבחנות בין שימוש, שימוש בעייתי, תלות, התמכרות והחלמה. למרכז הידע משפחה כמערכת גבולות, תקשורת, שחיקה, אמון ותפקידם של בני משפחה בתהליכי שינוי. למסלול משפחות תהליכי שינוי והחלמה הבנת תהליך הדרגתי, מצבי סיכון, מניעת חזרה לשימוש ושיקום אמון. למסלול החלמה מקורות ובדיקת מידע גופי ידע רשמיים, עקרונות ציטוט ותהליך עדכון התוכן באתר. למקורות ומתודולוגיה גבולות האזור המקצועי האזור נועד להנגשת ידע וללמידה עצמית. הוא אינו מספק הכשרה, הסמכה, הדרכה קלינית, אבחון או פרוטוקול טיפולי. בעתיד יתווספו בו מילון מושגים, סקירות מקורות, מדריכים וכלי עבודה — כל אחד עם סימון ברור של מטרתו ומגבלותיו. מפת הפיתוח המתוכננת שכתוב והעמקה של המאמרים הקיימים, כולל מקורות ספציפיים. מילון מושגים מקצועי ומסלולי קריאה לפי קהל ונושא. סקירות על משפחה, גבולות, החלמה ומניעת חזרה לשימוש. מדריכים להורדה עם מטרות שימוש והבהרות מקצועיות.",
+      "contentHash": "66c763591bc5ede21f98aa88b08b5fa1d1cce57cbcc608182764015e3dff6bc7",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 148,
+        "wordCountAfter2B3d": 144
+      }
+    },
+    {
+      "id": "knowledge-center",
+      "path": "/knowledge-center.html",
+      "relativeSourcePath": "knowledge-center.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge-center.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge-center.html",
+      "title": "מרכז ידע להתמכרויות והחלמה | עמוס כלפון",
+      "h1": "מרכז הידע להתמכרויות והחלמה",
+      "description": "מרכז ידע מקצועי בנושא התמכרויות, החלמה, משפחות, הימורים, סמים, אלכוהול, מסכים וכלים מעשיים להתמודדות.",
+      "category": "navigation",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מאיפה נכון להתחיל?",
+        "אני חושב שיש לי התמכרות",
+        "בן משפחה שלי מכור",
+        "אני רוצה לבדוק אמינות",
+        "קטגוריות מרכז הידע",
+        "התמכרות להימורים",
+        "התמכרות לסמים",
+        "התמכרות לאלכוהול"
+      ],
+      "summary": "מרכז ידע מקצועי בנושא התמכרויות, החלמה, משפחות, הימורים, סמים, אלכוהול, מסכים וכלים מעשיים להתמודדות.",
+      "approvedContent": "מרכז הידע הוא שער מסודר למאמרים, מדריכים, שאלות נפוצות וכלים עבור אנשים המתמודדים עם התמכרות, בני משפחה ואנשי מקצוע. הוא מפנה למסלולי קריאה לפי נושאים: הימורים, סמים, אלכוהול, תרופות מרשם, מסכים, פורנוגרפיה, משפחות ובני זוג, בני נוער, החלמה ושיקום אמון ומניעת חזרה לשימוש. מטרת העמוד היא לעזור למבקר לבחור נקודת התחלה מתאימה לקריאה באתר.",
+      "contentHash": "c64711cc31699d1590e691ed0c4b4cae2e6ae91db6ad2dbdc2cdc8cbc8fbdf34",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 290,
+        "wordCountAfter2B3d": 54
+      }
+    },
+    {
+      "id": "knowledge-alcohol",
+      "path": "/knowledge/alcohol.html",
+      "relativeSourcePath": "knowledge/alcohol.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/alcohol.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/alcohol.html",
+      "title": "התמכרות לאלכוהול ושימוש בעייתי | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "התמכרות לאלכוהול ושימוש בעייתי",
+      "description": "עמוד עוגן על התמכרות לאלכוהול ושימוש בעייתי: סימני אזהרה, פגיעה בתפקוד, סבילות וגמילה, השפעה על המשפחה, מתי נדרשת הערכה רפואית ומסלול קריאה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "alcohol"
+      ],
+      "aliases": [
+        "alcohol"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "הכמות חשובה — אבל היא לא כל הסיפור",
+        "סימנים שמצדיקים עצירה ובדיקה",
+        "שתייה “מתפקדת” עדיין יכולה להיות מסוכנת",
+        "גמילה מאלכוהול: לא עושים את זה לבד כשיש תלות",
+        "איך אלכוהול משפיע על המשפחה?",
+        "מהם סוגי העזרה האפשריים?",
+        "הערכה רפואית"
+      ],
+      "summary": "עמוד עוגן על התמכרות לאלכוהול ושימוש בעייתי: סימני אזהרה, פגיעה בתפקוד, סבילות וגמילה, השפעה על המשפחה, מתי נדרשת הערכה רפואית ומסלול קריאה.",
+      "approvedContent": "התמכרות לאלכוהול ושימוש בעייתי אלכוהול הוא חומר חוקי ונפוץ, ולכן לפעמים קשה לזהות מתי שתייה “רגילה” הופכת לדפוס שפוגע בשליטה, בבריאות, במשפחה או בתפקוד. העמוד הזה עושה סדר — בלי אבחון עצמי ובלי להקל ראש בסכנת גמילה. מה תמצאו כאן? הבחנה בין שתייה, שימוש מזיק והפרעת שימוש באלכוהול. סימני אזהרה שאינם מחליפים אבחון מקצועי. הסבר על סבילות וגמילה — כולל מתי לא מפסיקים לבד. השפעת אלכוהול על משפחה, זוגיות, עבודה ובטיחות. מסלול קריאה פנימי למאמרים וכלים רלוונטיים. מקורות רשמיים וגבולות מידע ברורים. הכמות חשובה — אבל היא לא כל הסיפור אנשים רבים שואלים “כמה צריך לשתות כדי שזה ייחשב בעיה?”. זו שאלה טבעית, אבל לא תמיד מספיקה. לפי NIAAA, הפרעת שימוש באלכוהול מאופיינת בקושי לעצור או לשלוט בשתייה למרות השלכות חברתיות, תעסוקתיות או בריאותיות. כלומר, הדפוס והמחיר חשובים לא פחות מהכמות. CDC מתאר שתייה מופרזת ככוללת בין היתר שתייה מרוכזת, שתייה כבדה, שתייה מתחת לגיל המותר ושתייה בזמן היריון. בנוסף, CDC מדגיש ששתייה פחותה יותר עדיפה לבריאות על שתייה מרובה יותר. שאלה טובה לבדיקה ראשונית לא רק “כמה שתיתי?”, אלא “מה קרה בעקבות השתייה — והאם זה חוזר למרות המחיר?”. סימנים שמצדיקים עצירה ובדיקה הסימנים הבאים אינם אבחון. הם כן יכולים להראות שכדאי לפנות להערכה רפואית או מקצועית, במיוחד אם כמה מהם מופיעים יחד או חוזרים לאורך זמן. שתייה יותר ממה שהתכוונתם, או במשך זמן ארוך יותר. ניסיונות לצמצם או להפסיק שלא מחזיקים. דחף חזק לשתות או מחשבות חוזרות על השתייה. פגיעה בעבודה, בלימודים, בהורות, בזוגיות או בהתחייבויות. המשך שתייה למרות ריבים, בעיות רפואיות, סיכון, נהיגה מסוכנת או נזק כלכלי. צורך בכמות גדולה יותר כדי להרגיש השפעה דומה. רעד, הזעה, חרדה, בחילה, דופק מהיר או אי־שקט כאשר מפחיתים או מפסיקים. שתייה “מתפקדת” עדיין יכולה להיות מסוכנת יש אנשים שממשיכים לעבוד, לטפל בילדים או להחזיק תדמית יציבה, ועדיין משלמים מחיר בריאותי, רגשי ומשפחתי משמעותי.",
+      "contentHash": "821afc2cbc42cd780d62e38370c0c50a5b79792cab7b2fdbe1e6a244eb5cc82e",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 297,
+        "wordCountAfter2B3d": 293
+      }
+    },
+    {
+      "id": "knowledge-drugs",
+      "path": "/knowledge/drugs.html",
+      "relativeSourcePath": "knowledge/drugs.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/drugs.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/drugs.html",
+      "title": "התמכרות לסמים ושימוש מדאיג | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "התמכרות לסמים ושימוש מדאיג",
+      "description": "עמוד עוגן על התמכרות לסמים ושימוש מדאיג: סימני אזהרה, אובדן שליטה, סיכון למנת יתר, שיחה עם אדם משתמש, תפקיד המשפחה ומתי לפנות לעזרה דחופה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "drugs_or_prescription"
+      ],
+      "aliases": [
+        "drugs_or_prescription"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "אין סימן אחד שמוכיח התמכרות",
+        "סימני אזהרה שכדאי לשים לב אליהם",
+        "מה הופך שימוש למסוכן יותר?",
+        "חומר לא ידוע",
+        "שילוב חומרים",
+        "שימוש לאחר הפסקה",
+        "מתי מדובר במצב חירום?"
+      ],
+      "summary": "עמוד עוגן על התמכרות לסמים ושימוש מדאיג: סימני אזהרה, אובדן שליטה, סיכון למנת יתר, שיחה עם אדם משתמש, תפקיד המשפחה ומתי לפנות לעזרה דחופה.",
+      "approvedContent": "התמכרות לסמים ושימוש מדאיג שימוש בסמים יכול להיראות אחרת מאדם לאדם. לפעמים הוא גלוי וסוער, ולפעמים הוא מוסתר מאחורי תפקוד חיצוני. העמוד הזה עוזר להבין מה בודקים, מתי לא קופצים לאבחנה, ומתי חייבים לפעול מהר. מה תמצאו כאן? הבחנה בין חשד, שימוש מדאיג והתמכרות. סימני אזהרה בתפקוד, ביחסים, בכסף ובבריאות. מידע בטיחותי על מנת יתר ושילוב חומרים. איך לדבר עם אדם שמשתמש בלי להסלים את המצב. תפקיד המשפחה והגבולות שלה. מסלול קריאה ומקורות מקצועיים. אין סימן אחד שמוכיח התמכרות שינוי בשינה, מצב רוח, כסף, אישונים או קשרים יכול לנבוע מסיבות רבות. לכן לא נכון להחליט על התמכרות על בסיס סימן אחד. החשד מתחזק כאשר כמה סימנים מופיעים יחד, חוזרים לאורך זמן, ויש קושי לשלוט בשימוש למרות נזק לתפקוד, לבריאות, למשפחה או לבטיחות. NIDA מתאר התמכרות כדפוס שבו חיפוש ושימוש בחומר נמשכים למרות השלכות מזיקות. זהו מצב שניתן לטפל בו, אך הטיפול צריך להתאים לחומר, לרמת הסיכון, למצב הבריאותי ולסביבה המשפחתית. שפה מדויקת מפחיתה נזק עד להערכה מקצועית עדיף לדבר על “חשד”, “שימוש מדאיג” או “דפוס שמצריך בדיקה” — ולא להדביק תווית שמגבירה בושה והתנגדות. סימני אזהרה שכדאי לשים לב אליהם ירידה בתפקוד בעבודה, בלימודים, בהורות או בשגרה. הסתגרות, קשרים חדשים או סודיות חריגה. בקשות כסף, חובות, מכירת חפצים או הוצאות לא מוסברות. שקרים חוזרים לגבי מקום, זמן, מצב גופני או כסף. שינויים חריפים בשינה, תיאבון, מצב רוח, אנרגיה או ריכוז. המשך שימוש למרות נזק, עימותים, סכנה או הסתבכות. דחף חזק, ניסיונות להפסיק שלא מצליחים, או חזרה לשימוש אחרי הפסקה. מה הופך שימוש למסוכן יותר? חומר לא ידוע בשוק לא מפוקח האדם לא תמיד יודע מה החומר מכיל. CDC מדגיש סיכון מחומרים חזקים כמו פנטניל, כולל בכדורים מזויפים. שילוב חומרים שילוב סמים, אלכוהול, תרופות או חומרים מרדימים יכול להגביר סיכון לפגיעה נשימתית, בלבול, תאונות ומנת יתר. שימוש לאחר הפסקה לאחר תקופה של הימנעות, חזרה לכמות ישנה עלולה להיות מסוכנת בגלל ירידה בסבילות.",
+      "contentHash": "915ba3bbf20c314a2cd281df9dc25b922e25e41207795edaff00c6067aaed99c",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 305,
+        "wordCountAfter2B3d": 301
+      }
+    },
+    {
+      "id": "knowledge-families",
+      "path": "/knowledge/families.html",
+      "relativeSourcePath": "knowledge/families.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/families.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/families.html",
+      "title": "משפחות ובני זוג של אדם מכור | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "משפחות ובני זוג של אדם מכור",
+      "description": "מרכז ידע למשפחות ובני זוג המתמודדים עם התמכרות של אדם קרוב: איך להבין את המצב, להציב גבולות, לדבר נכון, לשמור על ילדים ולדעת מתי לפנות לעזרה.",
+      "category": "knowledge",
+      "audience": "family_support",
+      "topics": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "aliases": [
+        "family",
+        "boundaries",
+        "communication"
+      ],
+      "headings": [
+        "אם אתם לא יודעים מאיפה להתחיל",
+        "מה תמצאו כאן?",
+        "קודם כל: המשפחה אינה אשמה בהתמכרות",
+        "מה לא בשליטת המשפחה",
+        "מה כן בשליטת המשפחה?",
+        "שפה ושיחה",
+        "גבולות",
+        "פנייה לעזרה"
+      ],
+      "summary": "מרכז ידע למשפחות ובני זוג המתמודדים עם התמכרות של אדם קרוב: איך להבין את המצב, להציב גבולות, לדבר נכון, לשמור על ילדים ולדעת מתי לפנות לעזרה.",
+      "approvedContent": "משפחות ובני זוג של אדם מכור התמכרות של אדם קרוב אינה נשארת רק אצלו. היא משפיעה על אמון, כסף, ילדים, שגרה, גבולות והיכולת של המשפחה להרגיש בטוחה. העמוד הזה עושה סדר: מה המשפחה יכולה לעשות, מה לא בשליטתה, ומתי חשוב לפנות לעזרה. אם אתם לא יודעים מאיפה להתחיל לא כל משפחה נמצאת באותו מקום. אפשר להתחיל מהשאלה שהכי קרובה למה שקורה אצלכם עכשיו. אתם לא חייבים להתמודד עם חוסר הוודאות לבד. האדם מסרב לעזרה מה עושים כשהאדם מסרב לעזרה הגבולות בבית נשחקו איך להציב גבולות בלי איומים צריך לבחור סוג עזרה איך לבחור עזרה מתאימה חשוב לבדוק קודם בטיחות אם יש אלימות, איום בפגיעה עצמית או באחרים, חשד למנת יתר, ילדים בסיכון או גמילה שעלולה להיות מסוכנת — לא מחכים לשיחת הכוונה ופונים לגורם חירום, רפואי או רווחה מתאים. מה תמצאו כאן? הבנה בסיסית של התמכרות בתוך מערכת משפחתית. כלים לשיחה רגועה יותר עם אדם קרוב. עקרונות להצבת גבולות בלי איומים ובלי נטישה. הבחנה בין תמיכה לבין אפשרה של ההתמכרות. סימני סיכון שבהם לא מסתפקים בליווי. מסלול קריאה למאמרים החשובים למשפחות ובני זוג. קודם כל: המשפחה אינה אשמה בהתמכרות בני משפחה רבים מגיעים לנקודה שבה הם שואלים “איפה טעינו?” או “איך לא ראינו את זה קודם?”. חשוב לומר בזהירות: משפחה יכולה להשפיע על הסביבה, על הגבולות ועל הדרך שבה מגיבים, אבל היא אינה שולטת בהתמכרות של אדם אחר ואינה יכולה “לתקן” אותו במקומו. לפי SAMHSA TIP 39, עבודה עם משפחות סביב הפרעת שימוש בחומרים מתייחסת למשפחה כמערכת מושפעת ומשפיעה: ההתמכרות פוגעת בדינמיקה המשפחתית, ובמקביל שינוי בדפוסי התגובה של המשפחה יכול לתמוך בבטיחות, בהפחתת נזק ובפנייה לעזרה. עיקרון מנחה למשפחה המטרה אינה לשלוט באדם המכור, אלא להפסיק לנהל את החיים סביב ההתמכרות, ללמוד להגיב בצורה עקבית, ולשמור גם על בני המשפחה עצמם. מה לא בשליטת המשפחה המשפחה אינה יכולה להכריח אדם להחלים, להחליף טיפול מקצועי, לאבחן התמכרות או לשלוט בבחירות של אדם אחר.",
+      "contentHash": "25f7e2f25d35347090d711555f66daa71018ff58d30ba35e6a3e64bbc6c6a224",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 306,
+        "wordCountAfter2B3d": 302
+      }
+    },
+    {
+      "id": "knowledge-gambling",
+      "path": "/knowledge/gambling.html",
+      "relativeSourcePath": "knowledge/gambling.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/gambling.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/gambling.html",
+      "title": "התמכרות להימורים ונזק כלכלי | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "התמכרות להימורים ונזק כלכלי",
+      "description": "עמוד עוגן על התמכרות להימורים: סימני אזהרה, רדיפה אחרי הפסדים, חובות, הסתרה, השפעה על המשפחה, גבולות, בטיחות ומתי לפנות לעזרה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "gambling"
+      ],
+      "aliases": [
+        "gambling"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "לא רק כסף: מה הופך הימורים לבעיה?",
+        "סימני אזהרה שכדאי לעצור מולם",
+        "רדיפה אחרי הפסדים: הלב של המעגל המסוכן",
+        "הנזק הכלכלי הוא רק חלק מהתמונה",
+        "כסף וחובות",
+        "אמון וזוגיות",
+        "בריאות וסיכון"
+      ],
+      "summary": "עמוד עוגן על התמכרות להימורים: סימני אזהרה, רדיפה אחרי הפסדים, חובות, הסתרה, השפעה על המשפחה, גבולות, בטיחות ומתי לפנות לעזרה.",
+      "approvedContent": "התמכרות להימורים ונזק כלכלי הימורים בעייתיים אינם נמדדים רק לפי סכום ההפסד. הם נמדדים לפי אובדן שליטה, רדיפה אחרי הפסדים, הסתרה, חובות, פגיעה במשפחה והמשך הימורים למרות המחיר. מה תמצאו כאן? הסבר מה מבדיל בין הימור מזדמן לבין דפוס מסוכן. סימני אזהרה התנהגותיים, כלכליים ומשפחתיים. הסבר על רדיפה אחרי הפסדים ועל מעגל החוב וההסתרה. הכוונה למשפחות: מה אפשר לעשות ומה עלול להזיק. מתי מדובר בסיכון שמצריך עזרה מיידית או גורם מוסמך. מסלול קריאה, FAQ ומקורות מקצועיים. לא רק כסף: מה הופך הימורים לבעיה? הימור בודד, הפסד חד־פעמי או עצם העובדה שהימורים חוקיים אינם מספיקים כדי לקבוע התמכרות. לפי ארגון הבריאות העולמי, הפרעת הימורים מתאפיינת בפגיעה בשליטה, מתן עדיפות גוברת להימורים והמשך ההימורים למרות השלכות שליליות. לכן השאלה המרכזית אינה “כמה כסף הלך?”, אלא האם האדם מתקשה לעצור, מסתיר, ממשיך למרות נזק, או מנסה לפתור הפסדים בעזרת הימור נוסף. שפה מדויקת מפחיתה בושה והתנגדות עד להערכה מקצועית עדיף לדבר על “דפוס הימורים מדאיג”, “נזק מהימורים” או “מצב שמצריך בדיקה” — ולא להשתמש בתווית שמגבירה מאבק. סימני אזהרה שכדאי לעצור מולם הסימנים הבאים אינם אבחון. הם כן מצביעים על צורך בבדיקה, שיחה והכוונה, במיוחד כאשר כמה מהם מופיעים יחד או חוזרים לאורך זמן. קושי לצמצם, לעצור או לעמוד בהחלטות סביב הימורים. עיסוק מתמשך בתוצאות, תחזיות, טיפים, אפליקציות או הזדמנויות להמר. רדיפה אחרי הפסדים וניסיון “להחזיר את הכסף” בהימור נוסף. הסתרת הפסדים, חשבונות, הלוואות, אשראי או זמן שהוקדש להימורים. בקשות כסף חוזרות אחרי הבטחה שזה לא יקרה שוב. פגיעה בעבודה, בשינה, בזוגיות, בהורות או באחריות יומיומית. כעס, אי־שקט, חרדה או לחץ כאשר מנסים לעצור או כאשר המשפחה שואלת שאלות. רדיפה אחרי הפסדים: הלב של המעגל המסוכן אחד הדפוסים השכיחים בהימורים בעייתיים הוא התחושה שאי אפשר לעצור “דווקא עכשיו”, כי ההפסד יהפוך לאמיתי.",
+      "contentHash": "e34c6df93226d3e2af1865e6317b35b94b8107c0eb21f8ee9e950c7e4946ff75",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 283,
+        "wordCountAfter2B3d": 279
+      }
+    },
+    {
+      "id": "knowledge-pornography",
+      "path": "/knowledge/pornography.html",
+      "relativeSourcePath": "knowledge/pornography.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/pornography.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/pornography.html",
+      "title": "התמכרות לפורנוגרפיה | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "התמכרות לפורנוגרפיה",
+      "description": "התמכרות לפורנוגרפיה – התמכרות שקטה, בושה, זוגיות, גבולות ופנייה לעזרה. מרכז ידע מקצועי, מאמרים וכלים מעשיים בנושא התמכרויות והחלמה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה יופיע בקטגוריה זו?",
+        "מאמרים קיימים בקטגוריה",
+        "מאמרים קשורים",
+        "התמכרות לפורנוגרפיה",
+        "לא בטוחים מאיפה להתחיל?"
+      ],
+      "summary": "התמכרות לפורנוגרפיה – התמכרות שקטה, בושה, זוגיות, גבולות ופנייה לעזרה. מרכז ידע מקצועי, מאמרים וכלים מעשיים בנושא התמכרויות והחלמה.",
+      "approvedContent": "התמכרות לפורנוגרפיה התמכרות שקטה, בושה, זוגיות, גבולות ופנייה לעזרה. מה יופיע בקטגוריה זו? מאמרי עומק מקצועיים שאלות נפוצות מדריכים מעשיים למשפחות קישורים פנימיים לתחומי ליווי והדרכה רלוונטיים הכוונה מתי כדאי לפנות לעזרה מאמרים קיימים בקטגוריה התמכרות לפורנוגרפיה מאמרים קשורים התמכרות לפורנוגרפיה מאמר קשור בקטגוריה זו.",
+      "contentHash": "81dba455fbe82f5890b37af6d1510832256ae8667c811806c4d068f375e3c519",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 47,
+        "wordCountAfter2B3d": 45
+      }
+    },
+    {
+      "id": "knowledge-prescription-drugs",
+      "path": "/knowledge/prescription-drugs.html",
+      "relativeSourcePath": "knowledge/prescription-drugs.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/prescription-drugs.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/prescription-drugs.html",
+      "title": "תרופות מרשם | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "תרופות מרשם",
+      "description": "תרופות מרשם – שימוש לא מבוקר, תלות, הסתרה והצורך בהכוונה אחראית. מרכז ידע מקצועי, מאמרים וכלים מעשיים בנושא התמכרויות והחלמה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "drugs_or_prescription"
+      ],
+      "aliases": [
+        "drugs_or_prescription"
+      ],
+      "headings": [
+        "מה יופיע בקטגוריה זו?",
+        "מאמרים קיימים בקטגוריה",
+        "מאמרים קשורים",
+        "בקרוב",
+        "לא בטוחים מאיפה להתחיל?"
+      ],
+      "summary": "תרופות מרשם – שימוש לא מבוקר, תלות, הסתרה והצורך בהכוונה אחראית. מרכז ידע מקצועי, מאמרים וכלים מעשיים בנושא התמכרויות והחלמה.",
+      "approvedContent": "תרופות מרשם שימוש לא מבוקר, תלות, הסתרה והצורך בהכוונה אחראית. מה יופיע בקטגוריה זו? מאמרי עומק מקצועיים שאלות נפוצות מדריכים מעשיים למשפחות קישורים פנימיים לתחומי ליווי והדרכה רלוונטיים הכוונה מתי כדאי לפנות לעזרה מאמרים קיימים בקטגוריה מאמרים מעמיקים יתווספו בשלב התוכן הבא. מאמרים קשורים בקרוב בשלב הבא נוסיף מאמרי עומק לקטגוריה זו.",
+      "contentHash": "59ed94bf94ae57e9e2bed2ac94af6e2ec60dc5e02008888062ba3a5739cedd93",
+      "safetyClassification": "high_safety_sensitive",
+      "responsePermission": "summarize_with_boundary_and_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 54,
+        "wordCountAfter2B3d": 52
+      }
+    },
+    {
+      "id": "knowledge-recovery",
+      "path": "/knowledge/recovery.html",
+      "relativeSourcePath": "knowledge/recovery.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/recovery.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/recovery.html",
+      "title": "החלמה ושיקום אמון בהתמכרויות | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "החלמה ושיקום אמון בהתמכרויות",
+      "description": "מרכז ידע על החלמה מהתמכרות: מה ההבדל בין הפסקת שימוש לבין החלמה, איך בונים יציבות ואמון, מה תפקיד המשפחה ומתי חשוב לפנות לגורם מוסמך.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "החלמה היא יותר מהפסקת שימוש",
+        "שלושה יסודות של החלמה יציבה",
+        "שגרה ותמיכה",
+        "אחריות ושקיפות",
+        "תוכנית לחזרה לסיכון",
+        "חזרה לשימוש: לא סוף הדרך, אבל כן סימן שצריך לעצור",
+        "שיקום אמון: מעשים קטנים לאורך זמן"
+      ],
+      "summary": "מרכז ידע על החלמה מהתמכרות: מה ההבדל בין הפסקת שימוש לבין החלמה, איך בונים יציבות ואמון, מה תפקיד המשפחה ומתי חשוב לפנות לגורם מוסמך.",
+      "approvedContent": "החלמה ושיקום אמון בהתמכרויות החלמה אינה רגע אחד שבו “הכול נגמר”. היא תהליך של יציבות, אחריות, תמיכה, מניעת חזרה לשימוש ובנייה מחדש של אמון — עם האדם עצמו, עם המשפחה ועם החיים. מה תמצאו כאן? הבחנה בין הפסקת שימוש לבין החלמה רחבה יותר. הסבר על יציבות, שגרה, תמיכה ואחריות אישית. התייחסות רגישה לחזרה לשימוש בלי להקל ראש בסיכון. עקרונות לשיקום אמון מול משפחה ובני זוג. מסלול קריאה למאמרים המרכזיים בנושא החלמה. מקורות מקצועיים וגבולות מידע ברורים. החלמה היא יותר מהפסקת שימוש הפסקת שימוש היא צעד חשוב מאוד, ולעיתים גם הצעד הדחוף ביותר. אבל החלמה יציבה בדרך כלל דורשת יותר מזה: זיהוי טריגרים, שינוי דפוסים יומיומיים, בניית מערכת תמיכה, התמודדות עם אשמה ובושה, טיפול בהשלכות שנוצרו ושיקום תפקוד בבית, בעבודה וביחסים. לפי NIDA, התמכרות היא מצב שניתן לטפל בו, אך טיפול אינו “ריפוי קסם” אלא דרך לנהל מצב מורכב ולחזור לשליטה טובה יותר בחיים. לכן חשוב להיזהר מהבטחות מהירות ולהתייחס להחלמה כתהליך מתמשך. נקודת מוצא בריאה לא שואלים רק “האם האדם הפסיק?”, אלא גם “מה עוזר לו להישאר יציב, אחראי ומחובר לחיים לאורך זמן?”. שלושה יסודות של החלמה יציבה שגרה ותמיכה שינה, סדר יום, אנשים תומכים, הימנעות מסביבות מסוכנות ופנייה לגורמים מתאימים כשיש החמרה. אחריות ושקיפות פחות הבטחות גדולות ויותר פעולות קטנות שחוזרות על עצמן: הגעה בזמן, אמירת אמת, תיקון נזקים ושמירה על גבולות. תוכנית לחזרה לסיכון החלמה טובה אינה מתעלמת מטריגרים. היא מכינה מראש מה עושים כשיש דחף, לחץ, בדידות, כעס או חשיפה לחומר/התנהגות. חזרה לשימוש: לא סוף הדרך, אבל כן סימן שצריך לעצור חזרה לשימוש אינה מוכיחה שאדם “אבוד” או שכל התהליך נכשל. עם זאת, היא גם אינה דבר שמתעלמים ממנו. היא סימן שיש צורך לבדוק מחדש את רמת התמיכה, רמת הסיכון, המסגרת המקצועית והתגובות של המשפחה. חשוב במיוחד לדעת: לאחר תקופה של הימנעות, חזרה לשימוש באותה כמות שהייתה בעבר יכולה להיות מסוכנת מאוד בחלק מהחומרים, בגלל ירידה בסבילות.",
+      "contentHash": "d3bd5b101b227ee11cf82218165cc3fd8e8e1c697d5e7084e18d57526548fe01",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 304,
+        "wordCountAfter2B3d": 300
+      }
+    },
+    {
+      "id": "knowledge-relapse-prevention",
+      "path": "/knowledge/relapse-prevention.html",
+      "relativeSourcePath": "knowledge/relapse-prevention.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/relapse-prevention.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/relapse-prevention.html",
+      "title": "מניעת חזרה לשימוש | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "מניעת חזרה לשימוש",
+      "description": "עמוד עוגן על מניעת חזרה לשימוש: זיהוי מצבי סיכון, סימני אזהרה, תוכנית פעולה, תפקיד המשפחה ומתי נדרשת פנייה לגורם מוסמך או חירום.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "מניעה אינה הבטחה — היא ניהול סיכון",
+        "מצבי סיכון שכדאי לזהות מראש",
+        "לחץ רגשי",
+        "חשיפה סביבתית",
+        "בדידות וסודיות",
+        "סימני אזהרה לפני חזרה לשימוש",
+        "תוכנית פעולה קצרה לזמן דחף"
+      ],
+      "summary": "עמוד עוגן על מניעת חזרה לשימוש: זיהוי מצבי סיכון, סימני אזהרה, תוכנית פעולה, תפקיד המשפחה ומתי נדרשת פנייה לגורם מוסמך או חירום.",
+      "approvedContent": "מניעת חזרה לשימוש חזרה לשימוש אינה מתחילה תמיד ברגע השימוש עצמו. לרוב יש לפניה סימני אזהרה, מצבי סיכון, דפוסים רגשיים או סביבתיים, ותחושת “אני מסתדר לבד”. העמוד הזה עוזר לזהות מוקדם, לעצור בזמן ולבנות תוכנית פעולה אחראית. מה תמצאו כאן? מהי מניעת חזרה לשימוש ומה היא אינה מבטיחה. מצבי סיכון נפוצים: לחץ, בדידות, חשיפה, כסף, סודות וקשרים ישנים. סימני אזהרה מוקדמים לפני שימוש בפועל. תוכנית פעולה קצרה לשעת דחף או משבר. תפקיד המשפחה בלי שליטה, מעקב אובססיבי או האשמה. מתי לא מסתפקים בליווי ופונים לגורם מוסמך או חירום. מניעה אינה הבטחה — היא ניהול סיכון חשוב לומר ביושר: אין תוכנית שמבטיחה שאדם לעולם לא יחזור לשימוש. מניעת חזרה לשימוש היא דרך להפחית סיכון, לזהות מוקדם, להגיב מהר יותר ולהקטין את הנזק אם מתרחשת החמרה. SAMHSA מתארת החלמה כתהליך שינוי שבו אנשים משפרים בריאות ורווחה, חיים חיים מכוונים יותר ושואפים למימוש הפוטנציאל שלהם. בתוך תהליך כזה, מניעת חזרה לשימוש אינה רק “לא להשתמש”, אלא לבנות חיים שבהם יש יותר תמיכה, שגרה, אחריות ואפשרויות תגובה. עיקרון עבודה לא מחכים לנפילה כדי לפעול. מחפשים את הסימנים הקטנים שמופיעים קודם — ושם מתערבים. מצבי סיכון שכדאי לזהות מראש לחץ רגשי כעס, אשמה, בושה, חרדה, עומס או תחושת כישלון יכולים להחזיר דפוס ישן של בריחה. חשיפה סביבתית מקומות, אנשים, שיחות, כסף זמין, שעות מסוימות או אירועים שמקושרים לשימוש. בדידות וסודיות התרחקות מאנשים תומכים, הסתרות קטנות, ביטול פגישות והרגשה שאפשר “להסתדר לבד”. סימני אזהרה לפני חזרה לשימוש חזרה לשימוש היא לפעמים אירוע חד, אבל פעמים רבות יש לפניה שינוי בהתנהגות, בשגרה ובאופן החשיבה. הסימנים אינם אבחון ואינם הוכחה, אבל הם כן סיבה לעצור ולבדוק מה קורה. ירידה בשינה, סדר יום או תפקוד בסיסי. ביטול פגישות תמיכה, הסתגרות או התרחקות ממשפחה. הצדקות כמו “רק פעם אחת”, “הפעם אני שולט בזה”, או “אף אחד לא יבין”. חזרה לקשרים, מקומות או פעולות שהיו קשורים לשימוש.",
+      "contentHash": "ce5ad7dde13be2f9e84610d3debdcf845ab1bad49e7371cc3dfe3fe3a1a70560",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 300,
+        "wordCountAfter2B3d": 296
+      }
+    },
+    {
+      "id": "knowledge-screens",
+      "path": "/knowledge/screens.html",
+      "relativeSourcePath": "knowledge/screens.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/screens.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/screens.html",
+      "title": "שימוש בעייתי במסכים וגיימינג | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "שימוש בעייתי במסכים וגיימינג",
+      "description": "עמוד עוגן על שימוש בעייתי במסכים, גיימינג ורשתות: הבחנה בין שימוש מוגבר לבין פגיעה בתפקוד, שינה, לימודים, יחסים, בני נוער ומתי לפנות לעזרה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "הרבה שעות מסך אינן אבחון",
+        "סימנים שמצדיקים עצירה ובדיקה",
+        "מה כדאי לבדוק לפני שמגדירים “בעיה”?",
+        "שינה וגוף",
+        "לימודים ותפקוד",
+        "יחסים ומצב רוח",
+        "הורים ובני נוער: איך לדבר בלי להפוך את זה לקרב?"
+      ],
+      "summary": "עמוד עוגן על שימוש בעייתי במסכים, גיימינג ורשתות: הבחנה בין שימוש מוגבר לבין פגיעה בתפקוד, שינה, לימודים, יחסים, בני נוער ומתי לפנות לעזרה.",
+      "approvedContent": "שימוש בעייתי במסכים וגיימינג מסכים הם חלק מהחיים, הלימודים והקשרים החברתיים. השאלה אינה רק “כמה שעות”, אלא האם השימוש דוחק שינה, לימודים, יחסים, פעילות, מצב רוח ויכולת לעצור. מה תמצאו כאן? הבחנה בין שימוש מוגבר במסכים לבין פגיעה בתפקוד. סימני אזהרה סביב שינה, לימודים, יחסים ומצב רוח. התייחסות רגועה לגיימינג, רשתות חברתיות ובני נוער. כלים ראשוניים להורים בלי מאבק כוח מיותר. מתי כדאי לפנות להכוונה או לגורם מקצועי. מסלול קריאה, FAQ ומקורות מקצועיים. הרבה שעות מסך אינן אבחון חשוב לא להפוך כל שימוש מוגבר במסכים ל”התמכרות”. בתקופות לימודים, חופשות, עבודה, קשרים חברתיים או משחקים, זמן המסך יכול לעלות. מה שמצריך תשומת לב הוא לא רק משך הזמן, אלא המחיר: האם המסך בא במקום שינה, תפקוד, קשרים, אחריות, פעילות או ויסות רגשי. WHO מתאר Gaming Disorder כדפוס גיימינג שמאופיין בפגיעה בשליטה, עדיפות גוברת למשחק על פני תחומי חיים אחרים והמשך למרות השלכות שליליות. גם שם מדובר באבחנה שנעשית על ידי גורם מוסמך, ולא לפי תחושת לחץ של ההורה בלבד. שאלה טובה יותר מ״כמה שעות?״ “מה המסך מחליף בחיים של הילד או המבוגר — והאם יש פגיעה שחוזרת לאורך זמן?”. סימנים שמצדיקים עצירה ובדיקה הסימנים הבאים אינם אבחון. הם כן יכולים להראות שכדאי לעשות סדר, ליצור גבולות ולשקול התייעצות. ירידה עקבית בשינה או קושי לקום בגלל שימוש לילי במסכים. פגיעה בלימודים, עבודה, הורות, מטלות או התחייבויות. הימנעות מפעילויות שפעם היו חשובות: חברים, תנועה, תחביבים או משפחה. כעס קיצוני, אי־שקט או מצוקה כאשר מנסים לעצור או להגביל. שימוש במסך כדי לברוח כמעט מכל רגש קשה, שעמום או קונפליקט. הסתרה, שקרים, עקיפת הגבלות או שימוש לילי בסתר. המשך שימוש למרות מחיר ברור בבית, בלימודים, בשינה או במצב הרוח. מה כדאי לבדוק לפני שמגדירים “בעיה”? שינה וגוף האם המסך דוחק שינה, תנועה, ארוחות, היגיינה או מנוחה אמיתית? לימודים ותפקוד האם יש ירידה מתמשכת בהגעה, ריכוז, שיעורי בית, עבודה או אחריות יומיומית?",
+      "contentHash": "03244c5d6190222da8560c3e408c9318ced82eedff6347fd8d7ffd149edc21cc",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 300,
+        "wordCountAfter2B3d": 296
+      }
+    },
+    {
+      "id": "knowledge-teens",
+      "path": "/knowledge/teens.html",
+      "relativeSourcePath": "knowledge/teens.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/teens.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/knowledge/teens.html",
+      "title": "הורים ובני נוער | מרכז ידע להתמכרויות | עמוס כלפון",
+      "h1": "הורים ובני נוער: איך מזהים שינוי ומתחילים שיחה?",
+      "description": "עמוד עוגן להורים ובני משפחה: איך לזהות שינויי התנהגות אצל מתבגרים, לנהל שיחה ראשונה, להציב גבולות ולדעת מתי נכון לפנות לעזרה.",
+      "category": "knowledge",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "מה תמצאו כאן?",
+        "לא כל שינוי הוא התמכרות",
+        "מה אופייני לגיל ההתבגרות — ומה מצדיק בירור?",
+        "יכול להיות אופייני",
+        "מצדיק תשומת לב",
+        "מצדיק עזרה מיידית יותר",
+        "סימנים שכדאי לעצור ולבדוק",
+        "איך לפתוח שיחה ראשונה בלי להפוך אותה לחקירה?"
+      ],
+      "summary": "עמוד עוגן להורים ובני משפחה: איך לזהות שינויי התנהגות אצל מתבגרים, לנהל שיחה ראשונה, להציב גבולות ולדעת מתי נכון לפנות לעזרה.",
+      "approvedContent": "הורים ובני נוער: איך מזהים שינוי ומתחילים שיחה? לא כל שינוי אצל מתבגר הוא סימן להתמכרות. המטרה היא לזהות דפוסים שמצדיקים בירור, לדבר בלי האשמה, להציב גבולות ברורים ולדעת מתי נכון לפנות לעזרה. מה תמצאו כאן? הבחנה בין התנהגות אופיינית לגיל ההתבגרות לבין סימנים שמצדיקים בירור. דרך רגועה לפתוח שיחה ראשונה עם מתבגר בלי תיוג או האשמה. עקרונות להצבת גבולות משפחתיים ברורים וישימים. חיבור לנושאים כמו מסכים, הימורים, משפחה ופנייה לעזרה. מתי כדאי לערב גורם מקצועי מתאים. FAQ, מקורות מקצועיים וקישורים פנימיים להמשך קריאה. לא כל שינוי הוא התמכרות גיל ההתבגרות כולל תנועה טבעית בין קרבה לריחוק, צורך בפרטיות, שינויים במצב רוח, רגישות לביקורת וחיפוש עצמאות. לכן חשוב לא למהר להדביק תווית כמו “מכור”, “בעייתי” או “אין עם מי לדבר”. הדבר שדורש תשומת לב הוא לא סימן יחיד, אלא דפוס שחוזר לאורך זמן ופוגע בתפקוד, ביחסים, בשינה, בלימודים, בבטיחות או ביכולת לקיים שגרה. גם אז — המטרה הראשונה היא בירור ושיחה, לא אבחון עצמי. שאלה שמורידה לחץ במקום “האם הוא מכור?”, כדאי לשאול: “מה השתנה, כמה זמן זה נמשך, ומה המחיר של זה בחיים שלו ובבית?”. מה אופייני לגיל ההתבגרות — ומה מצדיק בירור? יכול להיות אופייני יותר פרטיות, העדפה לחברים, ויכוחים סביב עצמאות, מצבי רוח משתנים או שעות מסך גבוהות בתקופות מסוימות. מצדיק תשומת לב ירידה מתמשכת בלימודים, שינה הפוכה, ניתוק מפעילויות, הסתגרות, הסתרה, מריבות חריפות או שינוי חד בהתנהגות. מצדיק עזרה מיידית יותר דיבור על פגיעה עצמית, אלימות, שימוש בחומרים מסוכנים, הימורים, היעדרות ממושכת או מצוקה נפשית משמעותית. סימנים שכדאי לעצור ולבדוק הסימנים הבאים אינם אבחון. הם כן יכולים לעזור להורה להבין מתי כדאי להפסיק “לחכות שזה יעבור” ולהתחיל בירור מסודר. שינוי חד או מתמשך בשינה, אכילה, היגיינה או אנרגיה. ירידה בתפקוד לימודי, היעדרויות או נטישה של תחומי עניין קודמים. הסתגרות ממושכת, ריחוק משפחתי חריג או אובדן קשרים חברתיים.",
+      "contentHash": "d15f3c1b072a72f8f95b3b82513f64a8354392d41457aea984697f80239b424d",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 295,
+        "wordCountAfter2B3d": 291
+      }
+    },
+    {
+      "id": "privacy",
+      "path": "/privacy.html",
+      "relativeSourcePath": "privacy.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/privacy.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/privacy.html",
+      "title": "מדיניות פרטיות | עמוס כלפון",
+      "h1": "מדיניות פרטיות",
+      "description": "מדיניות פרטיות מפורטת וברורה לאתר עמוס כלפון: איזה מידע נאסף, כיצד משתמשים בו, שמירת מידע, אבטחת מידע, זכויות פונים ויצירת קשר.",
+      "category": "trust-legal",
+      "audience": "trust_legal",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "בעמוד זה",
+        "על מה המדיניות חלה",
+        "איזה מידע עשוי להיאסף",
+        "לאילו מטרות נעשה שימוש במידע",
+        "מידע רגיש",
+        "שירותים חיצוניים",
+        "שמירה ואבטחת מידע",
+        "בקשות בנוגע למידע"
+      ],
+      "summary": "מדיניות פרטיות מפורטת וברורה לאתר עמוס כלפון: איזה מידע נאסף, כיצד משתמשים בו, שמירת מידע, אבטחת מידע, זכויות פונים ויצירת קשר.",
+      "approvedContent": "מדיניות הפרטיות מסבירה איזה מידע עשוי להיאסף באתר, כיצד נעשה בו שימוש, איך נשמרות פניות ומהן זכויות הפונה. המידע עשוי לכלול שם, טלפון, דוא״ל, תוכן הודעה ומידע טכני בסיסי הנדרש להפעלת האתר. המידע משמש למענה לפנייה, לתיאום שיחה, להבנת צורך ראשוני, לשיפור חוויית המשתמש ולניהול פניות נכנסות. לא נעשה שימוש במידע לצורך מכירה לצדדים שלישיים. מאחר שתחום ההתמכרויות רגיש, מומלץ למסור רק שם, דרך חזרה ותיאור כללי וקצר. ערוצי הקשר אינם שירות חירום ואינם מיועדים להעברת מידע במצב סכנה מיידית. אין מערכת דיגיטלית שמספקת הגנה מוחלטת, ולכן אין לשלוח מידע שאינך מעוניין שיעבור באמצעים מקוונים.",
+      "contentHash": "7ba4af9e9d0dbc9909bb3e5bfe21457921cdbb0e33b4a42789ccae5fce57bef0",
+      "safetyClassification": "high_safety_sensitive",
+      "responsePermission": "summarize_with_boundary_and_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום.",
+        "לשאלות פרטיות להפנות למדיניות ולא לבקש פרטים מזהים בצ׳אט."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 293,
+        "wordCountAfter2B3d": 95
+      }
+    },
+    {
+      "id": "questions-and-answers",
+      "path": "/questions-and-answers.html",
+      "relativeSourcePath": "questions-and-answers.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/questions-and-answers.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/questions-and-answers.html",
+      "title": "שאלות ותשובות על התמכרויות והחלמה | עמוס כלפון",
+      "h1": "שאלות ותשובות",
+      "description": "תשובות מקצועיות לשאלות נפוצות על התמכרות, החלמה, גבולות, בני משפחה, פנייה לעזרה וליווי בתהליך שינוי.",
+      "category": "navigation",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "יצירת קשר",
+        "גילוי נאות",
+        "קישורים פנימיים מומלצים"
+      ],
+      "summary": "תשובות מקצועיות לשאלות נפוצות על התמכרות, החלמה, גבולות, בני משפחה, פנייה לעזרה וליווי בתהליך שינוי.",
+      "approvedContent": "עמוד שאלות ותשובות מסביר שהתמכרות משפיעה גם על האדם וגם על בני המשפחה. הוא עונה על שאלות נפוצות: האם אפשר לעזור לאדם שאינו רוצה עזרה, איך מבחינים בין הרגל להתמכרות, מתי נכון לפנות לעזרה, ומה בני משפחה יכולים לעשות כאשר הם מרגישים חסרי אונים. הדף מדגיש שאי אפשר להכריח אדם להשתנות, אך בני משפחה יכולים ללמוד להציב גבולות, להפסיק לאפשר התנהגויות מזיקות, להגיב בעקביות ולקבל הכוונה. סימנים אפשריים להתמכרות כוללים אובדן שליטה, הסתרה, פגיעה בתפקוד, קשיים כלכליים ופגיעה במערכות יחסים. התוכן אינו אבחון ואינו מחליף גורם מקצועי מוסמך.",
+      "contentHash": "76ade2beb9b87d75c44d2b4e6cd04415d8d9775e88a28bd4a33b5551d6086fec",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 303,
+        "wordCountAfter2B3d": 88
+      }
+    },
+    {
+      "id": "resources",
+      "path": "/resources.html",
+      "relativeSourcePath": "resources.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/resources.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/resources.html",
+      "title": "כלים ומשאבים להתמודדות עם התמכרויות | עמוס כלפון",
+      "h1": "כלים, מדריכים ומשאבים למשפחות ולהחלמה",
+      "description": "אזור משאבים וכלים למשפחות ולהחלמה: מדריכים, צ׳קליסטים, שאלונים ודפי עבודה עתידיים.",
+      "category": "trust-legal",
+      "audience": "general_visitor",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "מדריכים להורדה",
+        "צ׳קליסטים מעשיים",
+        "שאלונים וכלי מיפוי",
+        "הערת אחריות"
+      ],
+      "summary": "אזור משאבים וכלים למשפחות ולהחלמה: מדריכים, צ׳קליסטים, שאלונים ודפי עבודה עתידיים.",
+      "approvedContent": "עמוד המשאבים מרכז קישורים פנימיים לתוכן מרכזי באתר: מרכז הידע, מאמרים, שאלות ותשובות, מדיניות פרטיות, תנאי שימוש, הצהרת אחריות, מקורות ומתודולוגיה ומרכז אמון. תפקידו הוא לעזור למבקר למצוא במהירות מידע אמין, מסמכי שקיפות ותוכן המשך רלוונטי.",
+      "contentHash": "bd7957c58d6c780b037cf1fa19efbb08b2c79923230652d4b164ab1c69b815ed",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 92,
+        "wordCountAfter2B3d": 36
+      }
+    },
+    {
+      "id": "services-treatment-guidance",
+      "path": "/services/treatment-guidance.html",
+      "relativeSourcePath": "services/treatment-guidance.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/services/treatment-guidance.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/services/treatment-guidance.html",
+      "title": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון",
+      "h1": "לא בטוחים איזו מסגרת טיפול מתאימה לכם?",
+      "description": "לא בטוחים איזו מסגרת טיפול מתאימה? עמוס כלפון מסייע להבין אפשרויות טיפול ושיקום בהתמכרויות, לשאול את השאלות הנכונות ולקבל החלטה אחראית ללא אבחון או הבטחות.",
+      "category": "service",
+      "audience": "prospective_client",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "למה קשה לבחור מסגרת טיפול?",
+        "למה כל כך קשה לבחור מסגרת טיפול?",
+        "תהליך ההכוונה שלי",
+        "איך נראה תהליך ההכוונה?",
+        "אילו מסלולי טיפול ושיקום כדאי להכיר?",
+        "למה לעבוד עם עמוס?",
+        "למה אני מלווה את התהליך הזה?",
+        "דוגמאות למצבים שונים"
+      ],
+      "summary": "לא בטוחים איזו מסגרת טיפול מתאימה? עמוס כלפון מסייע להבין אפשרויות טיפול ושיקום בהתמכרויות, לשאול את השאלות הנכונות ולקבל החלטה אחראית ללא אבחון או הבטחות.",
+      "approvedContent": "עמוד הכוונה לבחירת מסגרת טיפול מסביר שאנשים ומשפחות עשויים להרגיש מוצפים מול אפשרויות כמו טיפול בקהילה, טיפול אמבולטורי, טיפול יום, שיקום חוץ־ביתי, גמילה או שיקום סגור, מרכזי החלמה וקבוצות תמיכה. מטרת ההכוונה אינה לבחור במקום הפונה, אלא לעזור להבין את מפת האפשרויות, לזהות שאלות חשובות ולדעת מתי חובה לערב גורם רפואי, טיפולי או מוסמך. התהליך כולל בירור מצב נוכחי, רמת דחיפות, מי מעורב, מה נוסה בעבר, סוג ההתמכרות, משך ההתמודדות, דפוסים חוזרים, תמיכה משפחתית, גבולות וסיכונים בבית. השירות אינו אבחון ואינו קובע התאמה טיפולית מחייבת.",
+      "contentHash": "28be9b47ce6ccd5e148d45e3b1a09ef1250a122ebdc09408de869d540a062972",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 294,
+        "wordCountAfter2B3d": 85
+      }
+    },
+    {
+      "id": "sources",
+      "path": "/sources.html",
+      "relativeSourcePath": "sources.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/sources.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/sources.html",
+      "title": "מקורות ומתודולוגיה | מרכז הידע להתמכרויות",
+      "h1": "מקורות ומתודולוגיה",
+      "description": "המקורות המקצועיים והעקרונות המשמשים לבניית מרכז הידע להתמכרויות באתר עמוס כלפון, כולל גופי בריאות ומחקר רשמיים.",
+      "category": "trust-legal",
+      "audience": "general_visitor",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "היררכיית המקורות",
+        "מקורות ששימשו לשדרוג מאמרי המשפחה",
+        "מקורות ששימשו למאמרי הזיהוי",
+        "מקורות ששימשו לעמודי שקיפות ובחירת שירות",
+        "מה נבדק לפני פרסום"
+      ],
+      "summary": "המקורות המקצועיים והעקרונות המשמשים לבניית מרכז הידע להתמכרויות באתר עמוס כלפון, כולל גופי בריאות ומחקר רשמיים.",
+      "approvedContent": "מקורות ומתודולוגיה כיצד נבחרים מקורות, כיצד נבדק מידע ומהם גבולות השימוש בו באתר. היררכיית המקורות בעת כתיבה ועדכון נעדיף מקורות ראשוניים ורשמיים: גופי בריאות ציבוריים, משרדי ממשלה, מכוני מחקר מוכרים, הנחיות מקצועיות ומאמרי סקירה. מקור חיצוני אינו מחליף שיקול דעת מקצועי ואינו הופך את האתר לשירות רפואי. ארגון הבריאות העולמי (WHO) מידע ציבורי, נתונים והנחיות בנושאי אלכוהול, בריאות והתמכרויות. National Institute on Drug Abuse — NIDA מחקר ומידע מדעי על שימוש בחומרים, התמכרות, מוח, מניעה וטיפול. SAMHSA מידע למשפחות, שירותים, החלמה ובריאות נפשית ושימוש בחומרים. משרד הבריאות בישראל מידע רשמי, שירותי בריאות, זכויות והכוונה למערכות טיפול. PubMed / NCBI מאגר ספרות מדעית המשמש לאיתור מאמרי מחקר וסקירות. מקורות ששימשו לשדרוג מאמרי המשפחה SAMHSA TIP 39 — Substance Use Disorder Treatment and Family Therapy מדריך מקצועי מעודכן לעבודה עם משפחות, השפעת הפרעת שימוש על המערכת המשפחתית וגישות לתמיכה בהחלמה. SAMHSA TIP 35 — Motivational Interviewing as a Counseling Style עקרונות של שותפות, הקשבה, התמודדות עם אמביוולנטיות והימנעות ממאבק כוח סביב שינוי. NIDA — Treatment and Recovery עקרונות טיפול מותאם, החלמה, חזרה לשימוש והצורך להתייחס לצרכים רפואיים, נפשיים, חברתיים ומשפחתיים. משרד הרווחה והביטחון החברתי — מוקד 118 מידע רשמי על סיוע ראשוני בנושאי רווחה, אלימות במשפחה והתמכרויות, כולל אפשרות לפנייה שקטה. מקורות ששימשו למאמרי הזיהוי WHO — Alcohol Fact Sheet סיכונים בריאותיים וחברתיים, דפוסי שתייה וגורמי סיכון.",
+      "contentHash": "5b6b3bedb8d6a0248ce851f640b56da3ae8f6836422eb761b0cf298b838ea946",
+      "safetyClassification": "ymyl_sensitive",
+      "responsePermission": "summarize_with_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 264,
+        "wordCountAfter2B3d": 215
+      }
+    },
+    {
+      "id": "specialties",
+      "path": "/specialties.html",
+      "relativeSourcePath": "specialties.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/specialties.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/specialties.html",
+      "title": "תחומי ליווי והדרכה בהתמכרויות | עמוס כלפון",
+      "h1": "תחומי ליווי והדרכה",
+      "description": "ליווי והכוונה בהתמכרות להימורים, סמים, אלכוהול, תרופות, מסכים, פורנוגרפיה והתנהגויות ממכרות נוספות.",
+      "category": "service-trust",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "לא חייבים להתמודד לבד",
+        "יצירת קשר",
+        "גילוי נאות",
+        "קישורים פנימיים מומלצים"
+      ],
+      "summary": "ליווי והכוונה בהתמכרות להימורים, סמים, אלכוהול, תרופות, מסכים, פורנוגרפיה והתנהגויות ממכרות נוספות.",
+      "approvedContent": "עמוד תחומי הליווי מציג את ההתמודדויות המרכזיות שבהן האתר עוסק: הימורים, סמים, אלכוהול, תרופות, מסכים, פורנוגרפיה והתמכרויות התנהגותיות. מטרת העמוד היא להסביר אילו סוגי מצבים ניתן לברר במסגרת ייעוץ, הדרכה וליווי, ולחבר את המבקר למידע רלוונטי באתר. התוכן אינו אבחון ואינו קובע מסגרת טיפולית מתאימה; במצבים רפואיים, נפשיים או מסכני חיים יש לפנות לגורם מוסמך.",
+      "contentHash": "4044eddae75825f088d0848e03f1db6af979ff445841390c0f539ffce377a6d5",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 279,
+        "wordCountAfter2B3d": 55
+      }
+    },
+    {
+      "id": "terms",
+      "path": "/terms.html",
+      "relativeSourcePath": "terms.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/terms.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/terms.html",
+      "title": "תנאי שימוש | עמוס כלפון",
+      "h1": "תנאי שימוש",
+      "description": "תנאי השימוש באתר עמוס כלפון: שימוש מותר באתר, גבולות אחריות, קניין רוחני, הסתמכות על מידע, יצירת קשר וקישורים חיצוניים.",
+      "category": "trust-legal",
+      "audience": "trust_legal",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "בעמוד זה",
+        "מטרת האתר",
+        "שימוש מותר",
+        "גבולות השירות",
+        "דיוק ועדכניות מידע",
+        "קניין רוחני",
+        "קישורים חיצוניים",
+        "שינויים באתר ובתנאים"
+      ],
+      "summary": "תנאי השימוש באתר עמוס כלפון: שימוש מותר באתר, גבולות אחריות, קניין רוחני, הסתמכות על מידע, יצירת קשר וקישורים חיצוניים.",
+      "approvedContent": "תנאי השימוש מסבירים שהאתר נועד למידע ראשוני, קריאת מאמרים ומדריכים, היכרות עם תחומי הליווי ויצירת קשר. המידע באתר עוסק בהתמכרויות, החלמה, התמודדות משפחתית, ליווי והכוונה, ואינו מהווה ייעוץ משפטי, רפואי או טיפולי. השירות המוצג באתר הוא הדרכה, ליווי, ייעוץ והכוונה, ואינו טיפול של בעל מקצוע רפואי, פסיכולוגי או קליני מורשה. הוא אינו כולל אבחון, פסיכותרפיה, גמילה רפואית, טיפול חירום או ייעוץ משפטי. במצבי חירום או סכנת חיים יש לפנות מיד לגורמי חירום מוסמכים. אין להסתמך על תוכן האתר כהמלצה פרטנית או כהנחיה מחייבת לפעולה.",
+      "contentHash": "50eb2dbaf45a20377aeec3c16c31438d287fd69e3b570e21684f8a8ba0b37b26",
+      "safetyClassification": "high_safety_sensitive",
+      "responsePermission": "summarize_with_boundary_and_sources_only",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 286,
+        "wordCountAfter2B3d": 84
+      }
+    },
+    {
+      "id": "thank-you",
+      "path": "/thank-you.html",
+      "relativeSourcePath": "thank-you.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/thank-you.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/thank-you.html",
+      "title": "הפנייה התקבלה | עמוס כלפון",
+      "h1": "הפנייה התקבלה",
+      "description": "בקשתך התקבלה במערכת ונחזור אליך בהקדם האפשרי. – מידע, הכוונה וליווי מקצועי בנושא התמכרויות והחלמה עם עמוס כלפון.",
+      "category": "navigation",
+      "audience": "general_visitor",
+      "topics": [
+        "site_navigation",
+        "general_information"
+      ],
+      "aliases": [
+        "site_navigation",
+        "general_information"
+      ],
+      "headings": [
+        "בקשתך התקבלה במערכת"
+      ],
+      "summary": "בקשתך התקבלה במערכת ונחזור אליך בהקדם האפשרי. – מידע, הכוונה וליווי מקצועי בנושא התמכרויות והחלמה עם עמוס כלפון.",
+      "approvedContent": "דף תודה מאשר שפנייה נשלחה דרך האתר ומכוון את המשתמש להמשך ניווט באתר. רשומה זו מיועדת לניווט בלבד ואינה מקור לתשובה מקצועית או טיפולית.",
+      "contentHash": "5f382a917755ef0a64f7313f98d140aad647d1e0f2a183ac6de3b6374ae39331",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_only",
+      "restrictions": [],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 16,
+        "wordCountAfter2B3d": 24
+      }
+    },
+    {
+      "id": "trust-center",
+      "path": "/trust-center.html",
+      "relativeSourcePath": "trust-center.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/trust-center.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/trust-center.html",
+      "title": "מרכז אמון ושקיפות | עמוס כלפון - אמון, שקיפות ואחריות מקצועית",
+      "h1": "מרכז אמון ושקיפות",
+      "description": "Trust Center של עמוס כלפון: שקיפות מקצועית, פרטיות, אחריות, גבולות השירות ודרכי יצירת קשר בטלפון, ב־WhatsApp או בטופס האתר.",
+      "category": "trust-legal",
+      "audience": "general_visitor",
+      "topics": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "aliases": [
+        "trust",
+        "privacy",
+        "legal_boundaries"
+      ],
+      "headings": [
+        "שקיפות מקצועית",
+        "גבולות השירות",
+        "פרטיות ואבטחת מידע",
+        "יצירת קשר",
+        "מסמכי אמון ומדיניות",
+        "קישורי אמון, שקיפות ומדיניות",
+        "מחויבות לנגישות ושימוש ברור",
+        "עמוס כלפון"
+      ],
+      "summary": "Trust Center · אמון · שקיפות · אחריות מרכז אמון ושקיפות מרכז האמון של האתר נועד להסביר בצורה ברורה מי נותן את השירות, מה גבולותיו, כיצד מטופלות פניות ואילו ערוצי קשר זמינים. שקיפות מקצועית עמוס כלפון מציע שירותי הדרכה, ליווי, ייעוץ והכוונה בתחום ההתמכרויות, הנשענים על ניסיון אישי ומעשי ועל הרקע המפורט בעמוד אודות.",
+      "approvedContent": "מרכז האמון מסביר מי נותן את השירות, מה גבולותיו, כיצד מטופלות פניות ואילו מסמכי מדיניות זמינים באתר. השירות של עמוס כלפון מוצג כהדרכה, ליווי, ייעוץ והכוונה בתחום ההתמכרויות, הנשענים על ניסיון אישי ומעשי ועל הרקע המפורט בעמוד האודות. השירות אינו טיפול של בעל מקצוע רפואי, פסיכולוגי או קליני מורשה, ואינו כולל אבחון, פסיכותרפיה, גמילה רפואית או מענה חירום. פניות דרך האתר מיועדות ליצירת קשר ראשוני בלבד, ואין למסור מידע רפואי או אישי מפורט בערוצים דיגיטליים. במצב סיכון, מצוקה חריפה או סכנה מיידית יש לפנות לגורמי חירום או טיפול מוסמכים.",
+      "contentHash": "ba365386273b868f915782efddd5adbfad803fac55af033f540319a9c72a1968",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": true,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 243,
+        "wordCountAfter2B3d": 89
+      }
+    },
+    {
+      "id": "why-choose-me",
+      "path": "/why-choose-me.html",
+      "relativeSourcePath": "why-choose-me.html",
+      "publicUrl": "https://amos-kalfon-addiction-counselor.com/why-choose-me.html",
+      "sourceUrl": "https://amos-kalfon-addiction-counselor.com/why-choose-me.html",
+      "title": "למה לבחור בעמוס כלפון? | ליווי התמכרויות בגובה העיניים",
+      "h1": "למה לבחור בי?",
+      "description": "הסיבות לבחור בעמוס כלפון לליווי וייעוץ בהתמכרויות: ניסיון אישי בהחלמה, ניסיון מעשי, הקשבה, כבוד וליווי לא שיפוטי.",
+      "category": "service-trust",
+      "audience": "prospective_client",
+      "topics": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "aliases": [
+        "choosing_help",
+        "initial_guidance"
+      ],
+      "headings": [
+        "שילוב בין ניסיון אישי לניסיון מעשי",
+        "15 שנות החלמה אישית",
+        "לימודים וניסיון מעשי",
+        "ליווי גם לבני משפחה",
+        "שירות נגיש בכל הארץ",
+        "הגישה שלי",
+        "רוצים לבדוק אם הליווי מתאים לכם?",
+        "קישורים פנימיים מומלצים"
+      ],
+      "summary": "הסיבות לבחור בעמוס כלפון לליווי וייעוץ בהתמכרויות: ניסיון אישי בהחלמה, ניסיון מעשי, הקשבה, כבוד וליווי לא שיפוטי.",
+      "approvedContent": "עמוד למה לבחור בי מציג את גישת הליווי של עמוס כלפון: שילוב של ניסיון אישי בהחלמה, לימודים וניסיון מעשי בעבודה עם אנשים ובני משפחות במצבי חיים מורכבים. העמוד מדגיש שיחה מכבדת, בלי שיפוטיות ובלי הבטחות קסם, עם ניסיון בהחלמה, תואר ראשון במדעי החברה, הכשרה בקרימינולוגיה, עבודה בתחום הרווחה וליווי בני משפחה. מטרת הליווי היא להבין את המצב, לזהות דפוסים, להציב גבולות בריאים ולבנות צעדים מעשיים שמתאימים לאדם ולמשפחה, בלי להציג אבחון או טיפול רפואי.",
+      "contentHash": "00dd28f3adc07d2533320888bcdacf63d65841e57466962324cb71cb7b093752",
+      "safetyClassification": "low_safety_sensitive",
+      "responsePermission": "navigation_and_summary_allowed",
+      "restrictions": [
+        "להציג בזהירות: לא לתת אבחון, טיפול, המלצה רפואית, מינונים, הבטחת תוצאה או מענה חירום."
+      ],
+      "approvalStatus": "pending_amos_approval",
+      "reviewed": true,
+      "contentQa": {
+        "promotionalCleanupApplied": false,
+        "requiresAmosApproval": true,
+        "optimizedInSprint": "2B.3d",
+        "wordCountBefore2B3d": 196,
+        "wordCountAfter2B3d": 74
+      }
+    }
+  ]
+}

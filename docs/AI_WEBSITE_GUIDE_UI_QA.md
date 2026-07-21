@@ -504,3 +504,71 @@ Status: implemented locally and awaiting final visual approval.
 
 - None found in the local QA run.
 
+
+## Sprint 2B.3 - Grounded AI Integration QA
+
+- No visual CSS changes were made to the approved launcher or panel styling.
+- Static QA confirmed 49 HTML pages include the AI guide CSS and JS assets.
+- Static asset QA found 0 missing local assets in the scanned HTML pages.
+- Function QA passed for normal fallback, safety boundary, medical boundary and rate limiting.
+- Live OpenAI smoke test reached the API but returned an account quota/billing error, so the function safely returned fallback source navigation.
+- Automated screenshot capture could not be completed in this environment because the bundled Playwright package is missing `playwright-core`. Existing Sprint 2B.2.1b visual screenshots remain the latest visual reference because this sprint did not change the AI guide CSS.
+
+## Sprint 2B.3a - Mock Frontend QA
+
+Mocked model responses — not a live OpenAI API test.
+
+Fresh screenshots were captured in:
+
+- `docs/qa-screenshots/ai-guide-2b3-mock-qa/`
+
+Covered states:
+
+1. Grounded answer with valid source.
+2. Family answer.
+3. Professional answer.
+4. Questionnaire answer.
+5. Insufficient-information response.
+6. Medical-boundary response.
+7. Emergency response.
+8. Rate-limit response.
+9. Timeout fallback/unavailable-style response.
+10. AI disabled response.
+11. Mobile answer with sources.
+12. Zoom/responsive stress screenshot.
+13. WhatsApp/launcher separation.
+14. Rejected external source scenario.
+
+QA result: one guide and one launcher were present in each screenshot state. No duplicate guide was detected. Source cards rendered with no external URL.
+
+## Sprint 2B.3f - Final UAT Fix QA
+
+Mocked model responses only - no live OpenAI API request.
+
+Defects fixed:
+
+1. Unknown-question relevance threshold:
+   - A stricter pre-model relevance gate now requires a strong retrieved score and at least one non-generic matched topic token before grounded-answer generation.
+   - Unsupported topics such as shopping addiction, food addiction, work addiction and online shopping addiction return `insufficient_information`.
+   - Broad pages about choosing help are no longer used to imply an answer when no approved source exists for the specific topic.
+
+2. Prompt-injection refusal:
+   - Requests to reveal hidden instructions, prompts, API keys, `.env` files, environment variables or internal files now receive a concise Hebrew refusal before any model call.
+   - The refusal has no source card and exposes no technical secret.
+
+3. Hebrew follow-up encoding:
+   - Corrupted `????` strings were replaced in remote answer follow-up chips, loading text, rate-limit text, announcement text and unavailable server text.
+   - Static scan confirmed no remaining `????` or replacement-character strings in the AI guide frontend/core/mock files.
+
+Regression result:
+
+- Mock integration tests passed.
+- Prompt-injection tests passed.
+- Gambling, family, professional, emergency and medical-boundary flows were retested.
+- Browser storage remained unused.
+- Desktop and mobile visual QA screenshots were captured in `docs/qa-screenshots/ai-guide-2b3f-uat-fixes/`.
+
+Pending:
+
+- Live OpenAI smoke testing remains pending explicit approval.
+- No paid OpenAI API request, commit, push, deploy or ZIP was performed.

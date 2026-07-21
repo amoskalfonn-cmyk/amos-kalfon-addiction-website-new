@@ -1,0 +1,225 @@
+{
+  "sprint": "2B.3f",
+  "mode": {
+    "AI_GUIDE_ENABLED": "true",
+    "AI_GUIDE_USE_MOCK": "true",
+    "AI_GUIDE_ENV": "development",
+    "paidOpenAIRequests": false
+  },
+  "totals": {
+    "checks": 17,
+    "passed": 17,
+    "failed": 0,
+    "screenshots": 12
+  },
+  "results": [
+    {
+      "name": "shopping-addiction fallback",
+      "passed": true,
+      "details": {
+        "modeText": "▦אין מספיק מידע באתרלא מצאתי באתר מקור מאושר שמספיק כדי לענות על השאלה הזו בצורה אחראית.אפשר לנסח את השאלה אחרת, או להתחיל מהעמודים המרכזיים באתר בלי להסיק שהשאלה כבר נענתה.▦מקורעמ",
+        "sources": [
+          {
+            "href": "/",
+            "text": "עמוס כלפון | ייעוץ וליווי בהתמכרויות למכורים ובני משפחה"
+          },
+          {
+            "href": "/knowledge-center.html",
+            "text": "מרכז ידע להתמכרויות והחלמה | עמוס כלפון"
+          },
+          {
+            "href": "/questions-and-answers.html",
+            "text": "שאלות ותשובות על התמכרויות והחלמה | עמוס כלפון"
+          }
+        ]
+      }
+    },
+    {
+      "name": "no unrelated source card",
+      "passed": true,
+      "details": {
+        "sources": [
+          {
+            "href": "/",
+            "text": "עמוס כלפון | ייעוץ וליווי בהתמכרויות למכורים ובני משפחה"
+          },
+          {
+            "href": "/knowledge-center.html",
+            "text": "מרכז ידע להתמכרויות והחלמה | עמוס כלפון"
+          },
+          {
+            "href": "/questions-and-answers.html",
+            "text": "שאלות ותשובות על התמכרויות והחלמה | עמוס כלפון"
+          }
+        ]
+      }
+    },
+    {
+      "name": "prompt injection refusal",
+      "passed": true,
+      "details": {
+        "followups": [],
+        "sources": 0,
+        "text": "▦לא אוכל לעזור בזהלא אוכל לחשוף הוראות פנימיות, מפתחות, קובצי מערכת או מידע טכני חסוי.אפשר לשאול אותי שאלות על התוכן שכבר קיים באתר, ואעזור להפנות לעמודים המתאימים."
+      }
+    },
+    {
+      "name": "no secret exposed",
+      "passed": true,
+      "details": {
+        "text": "▦לא אוכל לעזור בזהלא אוכל לחשוף הוראות פנימיות, מפתחות, קובצי מערכת או מידע טכני חסוי.אפשר לשאול אותי שאלות על התוכן שכבר קיים באתר, ואעזור להפנות לעמודים המתאימים.אולי זה יעזור גםמרכז הידעיצירת קשר"
+      }
+    },
+    {
+      "name": "hebrew followups",
+      "passed": true,
+      "details": {
+        "followups": [
+          "מרכז הידע",
+          "יצירת קשר"
+        ]
+      }
+    },
+    {
+      "name": "mobile no overflow 390",
+      "passed": true,
+      "details": {
+        "scrollWidth": 375,
+        "clientWidth": 375
+      }
+    },
+    {
+      "name": "desktop no overflow",
+      "passed": true,
+      "details": {
+        "scrollWidth": 1351,
+        "clientWidth": 1351
+      }
+    },
+    {
+      "name": "regression gambling",
+      "passed": true,
+      "details": {
+        "sources": [
+          {
+            "href": "/articles/gambling-addiction-signs.html",
+            "text": "התמכרות להימורים: סימנים, חובות ומה עושים | עמוס כלפון"
+          },
+          {
+            "href": "/knowledge/gambling.html",
+            "text": "התמכרות להימורים ונזק כלכלי | מרכז ידע להתמכרויות | עמוס כלפון"
+          }
+        ]
+      }
+    },
+    {
+      "name": "regression family",
+      "passed": true,
+      "details": {
+        "sources": [
+          {
+            "href": "/knowledge/families.html",
+            "text": "משפחות ובני זוג של אדם מכור | מרכז ידע להתמכרויות | עמוס כלפון"
+          }
+        ],
+        "note": "Passed by relevant family source and visible answer card; mock title is intentionally family-specific."
+      }
+    },
+    {
+      "name": "regression professional",
+      "passed": true,
+      "details": {
+        "sources": [
+          {
+            "href": "/for-professionals.html",
+            "text": "מרכז ידע לאנשי מקצוע בתחום ההתמכרויות"
+          },
+          {
+            "href": "/about.html",
+            "text": "אודות עמוס כלפון | ניסיון אישי ומקצועי בליווי התמכרויות"
+          }
+        ],
+        "note": "Passed by relevant professional source and visible answer card; mock title is intentionally professional-specific."
+      }
+    },
+    {
+      "name": "regression emergency",
+      "passed": true,
+      "details": {
+        "text": "!ייתכן שמדובר במצב דחוףנראה שהשאלה מתארת מצב שעלול להיות דחוף. עוזר האתר אינו מיועד למצבי חירום, והאתר ועמוס אינם שירותי חירום.יש לפנות עכשיו לגורם חירום או לאיש מקצוע מוסמך באזור שלך.▦מקורמתי ליווי א"
+      }
+    },
+    {
+      "name": "regression medical",
+      "passed": true,
+      "details": {
+        "text": "iגבול רפואי חשובאני לא יכול להנחות לגבי תרופות, מינונים או גמילה רפואית.במצבים כאלה חשוב לפנות לרופא או לגורם רפואי מוסמך, משום שהפסקה לא מבוקרת עלולה להיות מסוכנת.▦מקורמתי ליווי אינו מספיקתרופות מרשם"
+      }
+    },
+    {
+      "name": "mobile no overflow 320",
+      "passed": true,
+      "details": {
+        "scrollWidth": 305,
+        "clientWidth": 305
+      }
+    },
+    {
+      "name": "no browser storage",
+      "passed": true,
+      "details": {
+        "localStorageLength": 0,
+        "sessionStorageLength": 0
+      }
+    },
+    {
+      "name": "no console errors",
+      "passed": true,
+      "details": {
+        "logs": []
+      }
+    },
+    {
+      "name": "tablet no overflow 768",
+      "passed": true,
+      "details": {
+        "clientWidth": 753,
+        "scrollWidth": 753
+      }
+    },
+    {
+      "name": "200 percent zoom layout stress approximation",
+      "passed": true,
+      "details": {
+        "clientWidth": 668,
+        "launcherVisible": true,
+        "scrollWidth": 668
+      }
+    }
+  ],
+  "screenshots": [
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\01-shopping-addiction-fallback.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\02-no-unrelated-sources.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\03-prompt-injection-refusal.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\04-follow-up-hebrew.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\05-mobile-fixed.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\06-desktop-fixed.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\07-regression-gambling.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\08-regression-family.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\09-regression-professional.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\10-regression-emergency.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\11-regression-medical.png",
+    "C:\\Users\\amosk\\AppData\\Local\\Temp\\ai-guide-2b3f-uat-fixes\\12-final-pass.png"
+  ],
+  "viewports": [
+    "1366x768",
+    "390x844",
+    "320x568",
+    "768x900",
+    "683x384 compact layout stress used for 200% zoom approximation"
+  ],
+  "notes": [
+    "The changed code paths are answer rendering/retrieval/safety; compact viewport stress was used where DOM zoom mutation was blocked by read-only browser evaluation."
+  ],
+  "generatedAt": "2026-07-21T15:34:34.571Z"
+}

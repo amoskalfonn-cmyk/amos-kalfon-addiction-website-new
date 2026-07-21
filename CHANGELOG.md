@@ -1,5 +1,50 @@
 # Changelog
 
+## Sprint 2B.3f - Final UAT Defect Fixes Before Intermediate Release
+
+### Fixed
+- Added a stricter relevance gate before grounded-answer generation so unsupported addiction topics now return `insufficient_information` instead of a broad generic treatment answer.
+- Added deterministic prompt-injection refusal for requests to reveal internal instructions, prompts, API keys, `.env` files, environment variables or internal files.
+- Repaired corrupted Hebrew strings in AI guide remote answer follow-up chips, loading text, rate-limit text and unavailable server text.
+
+### QA
+- Mock integration tests passed in development mock mode.
+- Prompt-injection tests passed without exposing secrets or internal implementation details.
+- Unsupported questions about shopping, food, work and online shopping addiction now fail safely.
+- Existing gambling, family, professional, emergency and medical-boundary flows were retested in mock mode.
+
+### Not Included
+- Live OpenAI smoke testing is still pending explicit approval.
+- No paid OpenAI API request, commit, push, deploy or ZIP was performed.
+
+## Sprint 2B.3d - Knowledge Optimization Before Final Approval
+
+### Changed
+- Reduced unnecessary `approvedContent` length across the AI guide knowledge candidate.
+- Removed reading-time and update metadata from approved answer content.
+- Removed previous/next article labels, page-navigation labels, repeated link labels and decorative UI fragments.
+- Preserved factual meaning, safety boundaries, source URLs and `approvalStatus: "pending_amos_approval"` for all records.
+- Updated the knowledge builder to preserve manually reviewed `approvedContent`, permissions, classifications and approval status on future builds.
+
+### Not Included
+- No HTML, CSS, browser JavaScript, Netlify Function, prompt, retrieval, safety logic, medical-boundary logic, API request, commit, push, deploy, or ZIP was performed.
+
+## Sprint 2B.3c - Repair AI Knowledge Candidate for Approval
+
+### Added
+- Added explicit `approvedContent` to all 49 AI guide knowledge records.
+- Added `publicUrl`, `relativeSourcePath`, and `contentHash` review fields to the generated knowledge candidate.
+- Added updated content approval and knowledge review documentation for Amos review.
+
+### Changed
+- Removed promotional/contact CTA wording from general knowledge content.
+- Restricted `/404.html` to `navigation_only` with neutral recovery-navigation content.
+- Preserved `approvalStatus: "pending_amos_approval"` for every record.
+- Updated the knowledge builder so future generated candidates preserve the corrected schema.
+
+### Not Included
+- No HTML, CSS, browser JavaScript, Netlify Function, prompt, retrieval, safety, medical-boundary, rate-limit, production activation, OpenAI request, commit, push, deploy, or ZIP was performed.
+
 ## v5.29.0 - 2026-07-20
 
 ### Added
@@ -134,3 +179,28 @@
 - Preserved predefined local responses, safety wording, privacy behavior, medical boundaries, emergency behavior, and in-memory-only state.
 - No AI API, API key, Netlify Function, package, external icon library, analytics, storage, deployment, commit, push, or ZIP was added.
 
+
+## Sprint 2B.3 - Grounded AI Website Guide Integration
+
+- Added a server-side Netlify Function at `netlify/functions/ai-guide.mjs` so the browser never calls OpenAI directly.
+- Added shared AI guide server logic with input limits, rate limiting, emergency/medical boundaries, approved-source retrieval, structured JSON output and safe fallback handling.
+- Generated `data/ai-guide-approved-knowledge.json` from 49 approved HTML pages using `scripts/build-ai-guide-knowledge.mjs`.
+- Updated the existing AI website guide frontend to call `/.netlify/functions/ai-guide` for free-text questions while preserving local safety and medical boundary behavior.
+- Added `.env.example` and protected local env files through `.gitignore`; the local API key is stored only in ignored `.env.local`.
+- Added AI disclosure language to privacy, terms, disclaimer, cookies and editorial policy pages.
+- Added technical, knowledge-review, security and cost-control documentation in `docs/`.
+- QA: local function tests passed for normal fallback, safety boundary, medical boundary and rate limit. Live OpenAI smoke test reached the API but returned quota/billing error, so production AI answers require project quota/billing before activation.
+- No commit, push, deploy or ZIP was created.
+
+## Sprint 2B.3a - Complete Grounded AI QA Without Paid API Usage
+
+- Added development-only mock Responses API adapter at `netlify/lib/ai-guide-mock.mjs`.
+- Kept the OpenAI Responses API integration and server-side Netlify Function architecture intact.
+- Hardened output validation so external or unretrieved source paths fall back safely and never render to visitors.
+- Added `AI_GUIDE_USE_MOCK=false` to `.env.example` and documented production-safe defaults.
+- Expanded safety and medical-boundary pattern coverage for English prompt-injection attempts.
+- Updated approved knowledge generation with audience, topics, aliases, safety classification, response permission and `pending_amos_approval` status.
+- Added automated knowledge review, mock integration tests, prompt-injection tests and static QA scripts.
+- Captured 14 mock frontend QA screenshots in `docs/qa-screenshots/ai-guide-2b3-mock-qa/`.
+- Added legal/privacy review checklist and mock QA summary documentation.
+- No paid OpenAI request, commit, push, deploy or ZIP was performed.

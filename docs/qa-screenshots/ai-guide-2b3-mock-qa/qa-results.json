@@ -1,0 +1,544 @@
+{
+  "note": "Mocked model responses — not a live OpenAI API test.",
+  "createdAt": "2026-07-21T07:23:17.002Z",
+  "results": [
+    {
+      "name": "01-grounded-answer-valid-source",
+      "question": "איך לבחור עזרה בהתמכרות?",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\01-grounded-answer-valid-source.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/articles/how-to-choose-addiction-help.html",
+            "text": "איך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפון"
+          },
+          {
+            "href": "/services/treatment-guidance.html",
+            "text": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון"
+          }
+        ],
+        "text": "▦מה מצאתי באתרמצאתי באתר מידע שמסביר איך להתחיל בבירור אחראי של אפשרויות עזרה בהתמכרות.העוזר יכול להפנות למידע קיים באתר, אך אינו מחליף אבחון, טיפול, ייעוץ רפואי או החלטה מקצועית.▦מקוראיך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפוןהכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מה מצאתי באתר",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "02-family-answer",
+      "question": "family משפחה גבולות מסרב לעזרה",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\02-family-answer.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 1,
+        "sources": [
+          {
+            "href": "/knowledge/families.html",
+            "text": "משפחות ובני זוג של אדם מכור | מרכז ידע להתמכרויות | עמוס כלפון"
+          }
+        ],
+        "text": "▦מידע למשפחה מתוך האתרלפי המידע באתר, למשפחה אין שליטה מלאה על הבחירות של האדם המתמודד, אבל יש לה השפעה על אופן השיחה, הגבולות והפנייה לעזרה.חשוב לשמור על שיחה רגועה, להימנע מכפייה, ולבדוק מצבי סיכון שבהם נדרש גורם מוסמך.▦מקורמשפחות ובני זוג של אדם מכור | מרכז ידע להתמכרויות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מידע למשפחה מתוך האתר",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "03-professional-answer",
+      "question": "professional אנשי מקצוע גבולות השירות",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\03-professional-answer.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/for-professionals.html",
+            "text": "מרכז ידע לאנשי מקצוע בתחום ההתמכרויות"
+          },
+          {
+            "href": "/trust-center.html",
+            "text": "מרכז אמון ושקיפות | עמוס כלפון - אמון, שקיפות ואחריות מקצועית"
+          }
+        ],
+        "text": "▦מידע לאנשי מקצועהאתר כולל עמוד ייעודי לאנשי מקצוע, עם גבולות שירות והבהרה שהליווי אינו אבחון או טיפול קליני.במקרים שבהם נדרשת הערכה רפואית, פסיכיאטרית או טיפולית, יש להפנות לגורם מוסמך.▦מקורמרכז ידע לאנשי מקצוע בתחום ההתמכרויותמרכז אמון ושקיפות | עמוס כלפון - אמון, שקיפות ואחריות מקצועיתלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מידע לאנשי מקצוע",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "04-questionnaire-answer",
+      "question": "questionnaire שאלון ההכוונה הראשוני",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\04-questionnaire-answer.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 1,
+        "sources": [
+          {
+            "href": "/services/treatment-guidance.html",
+            "text": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון"
+          }
+        ],
+        "text": "▦שאלון ההכוונה הראשוניהשאלון באתר נועד לעזור לעשות סדר לפני שיחת הכוונה, ולא לקבוע אבחנה או מסגרת טיפול.לאחר מילוי השאלון אפשר להשאיר פרטים כדי שהפנייה תגיע בצורה מסודרת יותר.▦מקורהכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦שאלון ההכוונה הראשוני",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "05-insufficient-information",
+      "question": "insufficient אין מידע באתר על זה",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\05-insufficient-information.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 1,
+        "sources": [
+          {
+            "href": "/articles/questions-before-starting-help.html",
+            "text": "שאלות שכדאי לשאול לפני שמתחילים ליווי או טיפול בהתמכרות | עמוס כלפון"
+          }
+        ],
+        "text": "▦אין מספיק מידע באתרלא מצאתי באתר מקור מאושר שמספיק כדי לענות על השאלה הזו בצורה אחראית.אפשר לנסח את השאלה אחרת או להתחיל מהעמודים המרכזיים של מרכז הידע והשאלות הנפוצות.▦מקורשאלות שכדאי לשאול לפני שמתחילים ליווי או טיפול בהתמכרות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦אין מספיק מידע באתר",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "06-medical-boundary",
+      "question": "Give medication dosage instructions",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\06-medical-boundary.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/disclaimer.html",
+            "text": "הצהרת אחריות"
+          },
+          {
+            "href": "/articles/when-guidance-is-not-enough.html",
+            "text": "מתי ליווי אינו מספיק?"
+          }
+        ],
+        "text": "▦גבול רפואי חשובאני לא יכול לתת הנחיות לגבי תרופות, מינונים, אבחון, גמילה רפואית או טיפול קליני.במצבים כאלה חשוב לפנות לרופא, פסיכיאטר, מסגרת טיפולית או גורם רפואי מוסמך. המידע באתר יכול לעזור בהתמצאות בלבד, לא בהחלטה רפואית.▦מקורהצהרת אחריותמתי ליווי אינו מספיק?לקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦גבול רפואי חשוב",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "07-emergency-response",
+      "question": "יש סכנה מיידית ומנת יתר מה עושים",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\07-emergency-response.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/articles/when-guidance-is-not-enough.html",
+            "text": "מתי ליווי אינו מספיק"
+          },
+          {
+            "href": "/disclaimer.html",
+            "text": "הצהרת אחריות"
+          }
+        ],
+        "text": "!ייתכן שמדובר במצב דחוףנראה שהשאלה מתארת מצב שעלול להיות דחוף. עוזר האתר אינו מיועד למצבי חירום, והאתר ועמוס אינם שירותי חירום.יש לפנות עכשיו לגורם חירום או לאיש מקצוע מוסמך באזור שלך.▦מקורמתי ליווי אינו מספיקהצהרת אחריותלקריאת העמוד המלא",
+        "title": "!ייתכן שמדובר במצב דחוף",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "08-rate-limit-response",
+      "question": "model_rate_limit בדיקה",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\08-rate-limit-response.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/knowledge-center.html",
+            "text": "מרכז הידע"
+          },
+          {
+            "href": "/questions-and-answers.html",
+            "text": "שאלות ותשובות"
+          }
+        ],
+        "text": "▦????? ???? ???? ??? ????? ???????? ?????? ??? ?????? ???, ?? ?????? ??? ???? ???? ???????? ???????? ????.▦מקורמרכז הידעשאלות ותשובותלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦????? ???? ???? ??? ????? ????",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "09-timeout-unavailable-response",
+      "question": "timeout בדיקה",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\09-timeout-unavailable-response.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 3,
+        "sources": [
+          {
+            "href": "/articles/addict-refuses-help.html",
+            "text": "איך לעזור לאדם עם התמכרות שמסרב לקבל עזרה? | עמוס כלפון"
+          },
+          {
+            "href": "/articles/alcohol-addiction.html",
+            "text": "התמכרות לאלכוהול: סימנים, סיכון וגמילה בטוחה | עמוס כלפון"
+          },
+          {
+            "href": "/articles/drug-addiction-signs.html",
+            "text": "סימנים להתמכרות לסמים: מה בודקים ומתי פונים לעזרה | עמוס כלפון"
+          }
+        ],
+        "text": "▦מה מצאתי באתרלא מצאתי באתר תשובה מלאה ובטוחה לשאלה הזו.אפשר לנסח את השאלה אחרת, או להתחיל מהעמודים המרכזיים שמרכזים מידע על הכוונה, מרכז הידע ושאלות נפוצות.▦מקוראיך לעזור לאדם עם התמכרות שמסרב לקבל עזרה? | עמוס כלפוןהתמכרות לאלכוהול: סימנים, סיכון וגמילה בטוחה | עמוס כלפוןסימנים להתמכרות לסמים: מה בודקים ומתי פונים לעזרה | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מה מצאתי באתר",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "10-ai-disabled-response",
+      "question": "ai_disabled איך לבחור עזרה?",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\10-ai-disabled-response.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 3,
+        "sources": [
+          {
+            "href": "/articles/how-to-choose-addiction-help.html",
+            "text": "איך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפון"
+          },
+          {
+            "href": "/services/treatment-guidance.html",
+            "text": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון"
+          },
+          {
+            "href": "/articles/addict-refuses-help.html",
+            "text": "איך לעזור לאדם עם התמכרות שמסרב לקבל עזרה? | עמוס כלפון"
+          }
+        ],
+        "text": "▦???? AI ???????? ???? ???? ???? ????????? ???? ???? ????. ???? ?????? ?????? ???? ??? ???? ????, ????? ??????? ?? ???? ???????.?? ????? ???? ???? ?? ?????, ??? ?????? ?? ???? ??? ????? ????? ?????.▦מקוראיך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפוןהכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפוןאיך לעזור לאדם עם התמכרות שמסרב לקבל עזרה? | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦???? AI ???????? ???? ???? ???? ????",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "11-mobile-answer-with-sources",
+      "question": "איך לבחור עזרה בהתמכרות?",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\11-mobile-answer-with-sources.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 676,
+          "width": 358.3999938964844,
+          "x": 0.800000011920929,
+          "y": 4
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/articles/how-to-choose-addiction-help.html",
+            "text": "איך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפון"
+          },
+          {
+            "href": "/services/treatment-guidance.html",
+            "text": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון"
+          }
+        ],
+        "text": "▦מה מצאתי באתרמצאתי באתר מידע שמסביר איך להתחיל בבירור אחראי של אפשרויות עזרה בהתמכרות.העוזר יכול להפנות למידע קיים באתר, אך אינו מחליף אבחון, טיפול, ייעוץ רפואי או החלטה מקצועית.▦מקוראיך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפוןהכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מה מצאתי באתר",
+        "whatsappBox": {
+          "height": 52,
+          "width": 206.7624969482422,
+          "x": 98.2249984741211,
+          "y": 320.8000183105469
+        }
+      },
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "12-zoom-200",
+      "question": "איך לבחור עזרה בהתמכרות?",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\12-zoom-200.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 516,
+          "width": 410,
+          "x": 454.8000183105469,
+          "y": 8
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/articles/how-to-choose-addiction-help.html",
+            "text": "איך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפון"
+          },
+          {
+            "href": "/services/treatment-guidance.html",
+            "text": "הכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפון"
+          }
+        ],
+        "text": "▦מה מצאתי באתרמצאתי באתר מידע שמסביר איך להתחיל בבירור אחראי של אפשרויות עזרה בהתמכרות.העוזר יכול להפנות למידע קיים באתר, אך אינו מחליף אבחון, טיפול, ייעוץ רפואי או החלטה מקצועית.▦מקוראיך לבחור עזרה בהתמכרות? איש מקצוע, ליווי או מסגרת טיפול | עמוס כלפוןהכוונה לבחירת מסגרת טיפול בהתמכרות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מה מצאתי באתר",
+        "whatsappBox": {
+          "height": 52,
+          "width": 206.7624969482422,
+          "x": 452.13751220703125,
+          "y": 262.1125183105469
+        }
+      },
+      "viewport": {
+        "width": 900,
+        "height": 700
+      },
+      "zoom": "browser zoom keypress attempted"
+    },
+    {
+      "name": "13-whatsapp-launcher-separation",
+      "question": "family משפחה",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\13-whatsapp-launcher-separation.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 676,
+          "width": 358.3999938964844,
+          "x": 0.800000011920929,
+          "y": 4
+        },
+        "sourceCount": 1,
+        "sources": [
+          {
+            "href": "/knowledge/families.html",
+            "text": "משפחות ובני זוג של אדם מכור | מרכז ידע להתמכרויות | עמוס כלפון"
+          }
+        ],
+        "text": "▦מידע למשפחה מתוך האתרלפי המידע באתר, למשפחה אין שליטה מלאה על הבחירות של האדם המתמודד, אבל יש לה השפעה על אופן השיחה, הגבולות והפנייה לעזרה.חשוב לשמור על שיחה רגועה, להימנע מכפייה, ולבדוק מצבי סיכון שבהם נדרש גורם מוסמך.▦מקורמשפחות ובני זוג של אדם מכור | מרכז ידע להתמכרויות | עמוס כלפוןלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦מידע למשפחה מתוך האתר",
+        "whatsappBox": {
+          "height": 65.20000457763672,
+          "width": 303.6000061035156,
+          "x": 49.79999923706055,
+          "y": 853.1375122070312
+        }
+      },
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "zoom": "100%"
+    },
+    {
+      "name": "14-rejected-external-source",
+      "question": "external source test",
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\ai-guide-2b3-mock-qa\\14-rejected-external-source.png",
+      "state": {
+        "duplicateGuides": 1,
+        "duplicateLaunchers": 1,
+        "guideBox": {
+          "height": 660,
+          "width": 410,
+          "x": 921.2000122070312,
+          "y": 64
+        },
+        "sourceCount": 2,
+        "sources": [
+          {
+            "href": "/knowledge-center.html",
+            "text": "מרכז הידע"
+          },
+          {
+            "href": "/questions-and-answers.html",
+            "text": "שאלות ותשובות"
+          }
+        ],
+        "text": "▦????? ???? ???? ??? ????? ???????? ?????? ??? ?????? ???, ?? ?????? ??? ???? ???? ???????? ???????? ????.▦מקורמרכז הידעשאלות ותשובותלקריאת העמוד המלאאולי זה יעזור גם???? ????????? ???",
+        "title": "▦????? ???? ???? ??? ????? ????",
+        "whatsappBox": {
+          "height": 52,
+          "width": 219.47500610351562,
+          "x": 669.4375,
+          "y": 469.6125183105469
+        }
+      },
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "zoom": "100%"
+    }
+  ]
+}

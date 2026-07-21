@@ -1,0 +1,17 @@
+{
+  "reviewedAt": "2026-07-21T14:10:56.566Z",
+  "recordCount": 49,
+  "approvalStatus": "pending_amos_approval",
+  "checks": {
+    "correctPageTitle": true,
+    "correctPublicUrl": true,
+    "audiencePresent": true,
+    "topicsAndAliasesPresent": true,
+    "cleanApprovedContent": true,
+    "safetyClassificationPresent": true,
+    "responsePermissionPresent": true,
+    "noDuplicatePathsOrUrls": true,
+    "noSecretsOrSubmittedData": true
+  },
+  "issues": []
+}

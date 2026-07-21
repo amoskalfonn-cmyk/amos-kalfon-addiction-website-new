@@ -100,3 +100,48 @@ Status: implemented locally and awaiting final visual approval.
 
 Next: final visual approval before any future grounded AI/server integration.
 
+
+## Sprint 2B.3a - Mock QA Completion
+
+Completed non-paid QA for the grounded AI guide while OpenAI billing quota is unavailable.
+
+- Kept OpenAI Responses API architecture.
+- Added development-only mock adapter.
+- Completed deterministic integration, source allowlisting, safety, medical-boundary and prompt-injection tests.
+- Captured mock frontend QA screenshots.
+- Production remains disabled until live paid smoke test passes.
+- Knowledge approval remains pending Amos approval.
+
+## Sprint 2B.3c - Knowledge Candidate Repair
+
+Status: completed locally and pending Amos human approval.
+
+- Repaired the AI guide knowledge candidate with explicit `approvedContent` for all 49 records.
+- Kept all records at `approvalStatus: "pending_amos_approval"`.
+- Removed promotional/contact CTA wording from general answer content and documented the 9 cleaned records.
+- Restricted `/404.html` to `navigation_only` with neutral page-not-found content.
+- Added `publicUrl`, `relativeSourcePath`, and `contentHash` review fields for approval QA.
+- Production activation remains blocked until Amos approves the knowledge base and the remaining live OpenAI smoke tests are explicitly approved.
+- No production activation, OpenAI request, commit, push, deploy, or ZIP was performed.
+
+## Sprint 2B.3d - Knowledge Optimization Before Final Approval
+
+Status: completed locally and pending Amos final approval.
+
+- Optimized the 49-record AI guide knowledge candidate to reduce unnecessary `approvedContent` length.
+- Removed reading-time/update metadata, previous/next article navigation, page-navigation labels, repeated link labels and decorative UI fragments from retrieval content.
+- Preserved factual meaning, source URLs, safety boundaries, medical boundaries and all `approvalStatus: "pending_amos_approval"` values.
+- Updated the builder to preserve manually reviewed knowledge fields on future deterministic builds.
+- No runtime code, production activation, OpenAI request, commit, push, deploy, or ZIP was performed.
+
+## Sprint 2B.3f - Final UAT Defect Fixes Before Intermediate Release
+
+Status: implemented locally and awaiting Amos review.
+
+- Added a stricter grounded-answer relevance threshold before both mock and production model paths.
+- Unsupported topics without approved website knowledge, including shopping, food, work and online-shopping addiction, now return an explicit insufficient-information state.
+- Added deterministic prompt-injection refusal before any model call for requests involving hidden instructions, prompts, API keys, `.env` files, environment variables or internal files.
+- Fixed corrupted Hebrew follow-up/loading/rate-limit labels in the AI guide frontend.
+- Mock regression testing passed for gambling, family, professional, emergency and medical-boundary flows.
+- Live OpenAI smoke testing remains pending explicit approval and must not run until Amos approves it.
+- No paid OpenAI request, commit, push, deploy or ZIP was performed.

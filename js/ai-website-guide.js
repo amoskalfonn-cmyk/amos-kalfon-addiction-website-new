@@ -937,7 +937,7 @@
 
 
 
-  function renderQuestionResult(value) {
+  async function renderQuestionResult(value) {
 
     const normalized = value.replace(/\s+/g, ' ');
 
@@ -952,6 +952,16 @@
     if (matchesAny(normalized, medicalPatterns)) {
 
       renderMedicalBoundary();
+
+      return;
+
+    }
+
+    const serverAnswer = await requestGroundedAnswer(normalized);
+
+    if (serverAnswer) {
+
+      renderRemoteAnswer(serverAnswer);
 
       return;
 
@@ -978,6 +988,97 @@
       renderFallback();
 
     }
+
+  }
+
+
+
+  async function requestGroundedAnswer(question) {
+
+    if (!window.fetch) return null;
+
+    try {
+
+      const response = await fetch('/.netlify/functions/ai-guide', {
+
+        method: 'POST',
+
+        headers: { 'Content-Type': 'application/json' },
+
+        body: JSON.stringify({ question, path: window.location.pathname })
+
+      });
+
+      if (response.status === 429) {
+
+        return {
+
+          mode: 'unavailable',
+
+          title: 'העוזר קיבל יותר מדי פניות כרגע',
+
+          paragraphs: ['כדאי להמתין רגע ולנסות שוב. בינתיים אפשר לעיין במרכז הידע או בשאלות הנפוצות באתר.'],
+
+          sources: [{ title: sourceLinks.knowledge.title, href: sourceLinks.knowledge.href }, { title: sourceLinks.faq.title, href: sourceLinks.faq.href }]
+
+        };
+
+      }
+
+      if (!response.ok) return null;
+
+      const data = await response.json();
+
+      if (!data || !Array.isArray(data.paragraphs) || !data.paragraphs.length) return null;
+
+      return data;
+
+    } catch (error) {
+
+      return null;
+
+    }
+
+  }
+
+
+
+  function renderRemoteAnswer(item) {
+
+    const cardType = item.mode === 'safety' ? 'safety' : item.mode === 'medical-boundary' ? 'medical' : 'answer';
+    const followups = item.mode === 'refusal' ? [] : [
+
+        { label: 'שאלה נוספת קצרה', next: 'ask' },
+
+        { label: 'מרכז הידע', href: sourceLinks.knowledge.href },
+
+        { label: 'יצירת קשר', href: '/contact.html' }
+
+      ];
+
+    context.lastTopic = 'groundedAI';
+
+    context.lastAnswer = 'groundedAI';
+
+    pushMessage({
+
+      kind: 'answerCustom',
+
+      cardType,
+
+      title: item.title || 'מה מצאתי באתר',
+
+      paragraphs: item.paragraphs,
+
+      sourceItems: Array.isArray(item.sources) ? item.sources : [],
+
+      followups
+
+    });
+
+    setActions(defaultActions());
+
+    announce('מוצגת תשובה מתוך מידע באתר');
 
   }
 
@@ -1115,31 +1216,37 @@
 
     askForm.hidden = true;
 
-    pushMessage({ kind: 'loading', paragraphs: ['כותב...'] });
+    pushMessage({ kind: 'loading', paragraphs: ['בודק...'] });
 
     actions.innerHTML = '';
 
     actions.className = 'ai-website-guide__actions';
 
-    announce('כותב תשובה');
+    announce('בודק תשובה');
+
+    const complete = () => {
+
+      removeLoading();
+
+      Promise.resolve(callback()).catch(() => {
+
+        removeLoading();
+
+        renderFallback();
+
+      });
+
+    };
 
     const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     if (reduceMotion) {
 
-      removeLoading();
-
-      callback();
+      complete();
 
     } else {
 
-      loadingTimer = window.setTimeout(() => {
-
-        removeLoading();
-
-        callback();
-
-      }, LOADING_MS);
+      loadingTimer = window.setTimeout(complete, LOADING_MS);
 
     }
 
@@ -1343,7 +1450,9 @@
 
     article.appendChild(text);
 
-    if (item.sources && item.sources.length) article.appendChild(createSourceBox(item.sources));
+    if (item.sourceItems && item.sourceItems.length) article.appendChild(createSourceBox(item.sourceItems));
+
+    else if (item.sources && item.sources.length) article.appendChild(createSourceBox(item.sources));
 
     if (item.followups && item.followups.length) article.appendChild(createFollowups(item.followups));
 
@@ -1367,7 +1476,7 @@
 
     sourceKeys.slice(0, 3).forEach((key) => {
 
-      const source = sourceLinks[key];
+      const source = typeof key === 'string' ? sourceLinks[key] : key;
 
       if (!source) return;
 
@@ -1383,7 +1492,7 @@
 
     box.appendChild(list);
 
-    const first = sourceLinks[sourceKeys[0]];
+    const first = typeof sourceKeys[0] === 'string' ? sourceLinks[sourceKeys[0]] : sourceKeys[0];
 
     if (first) {
 
