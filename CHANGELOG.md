@@ -124,3 +124,13 @@
 - Renamed the assistant to `עוזר AI להתמצאות באתר`.
 - Updated related RTL and accessibility labels.
 - No AI API, API key, Netlify Function, package, analytics, storage, deployment, commit, push, or ZIP was added.
+
+## 2026-07-20 - Sprint 2B.2.1b: AI launcher redesign and site-wide local guide integration
+
+- Redesigned the floating launcher as an AI navigation-assistant button with a local inline SVG symbol, two-line label, hover/focus/open states, and accessible naming.
+- Added the local AI website guide assets to all 49 public HTML pages using root-relative CSS and JavaScript references.
+- Preserved the shared JS-injected widget model so the guide markup, behavior, and styling remain single-source.
+- Verified root and nested page asset paths, duplicate-widget prevention, keyboard behavior, mobile positioning, and no overlap with WhatsApp/contact controls.
+- Preserved predefined local responses, safety wording, privacy behavior, medical boundaries, emergency behavior, and in-memory-only state.
+- No AI API, API key, Netlify Function, package, external icon library, analytics, storage, deployment, commit, push, or ZIP was added.
+

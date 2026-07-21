@@ -1,0 +1,1824 @@
+{
+  "totalPages": 49,
+  "includedPages": [
+    "404.html",
+    "about.html",
+    "articles.html",
+    "articles/addict-refuses-help.html",
+    "articles/alcohol-addiction.html",
+    "articles/boundaries.html",
+    "articles/drug-addiction-signs.html",
+    "articles/family-impact.html",
+    "articles/gambling-addiction-signs.html",
+    "articles/guidance-vs-treatment.html",
+    "articles/how-to-choose-addiction-help.html",
+    "articles/partner-addicted.html",
+    "articles/pornography-addiction.html",
+    "articles/questions-before-starting-help.html",
+    "articles/real-recovery.html",
+    "articles/rebuilding-trust.html",
+    "articles/relapse-prevention.html",
+    "articles/screen-addiction-teens.html",
+    "articles/talk-to-addicted-family-member.html",
+    "articles/when-guidance-is-not-enough.html",
+    "articles/when-to-seek-help.html",
+    "contact.html",
+    "cookies.html",
+    "copyright.html",
+    "disclaimer.html",
+    "editorial-policy.html",
+    "for-professionals.html",
+    "index.html",
+    "knowledge-center.html",
+    "knowledge/alcohol.html",
+    "knowledge/drugs.html",
+    "knowledge/families.html",
+    "knowledge/gambling.html",
+    "knowledge/pornography.html",
+    "knowledge/prescription-drugs.html",
+    "knowledge/recovery.html",
+    "knowledge/relapse-prevention.html",
+    "knowledge/screens.html",
+    "knowledge/teens.html",
+    "privacy.html",
+    "questions-and-answers.html",
+    "resources.html",
+    "services/treatment-guidance.html",
+    "sources.html",
+    "specialties.html",
+    "terms.html",
+    "thank-you.html",
+    "trust-center.html",
+    "why-choose-me.html"
+  ],
+  "excludedPages": [],
+  "regressionChecks": 160,
+  "failures": [],
+  "consoleErrors": [],
+  "externalRequests": [],
+  "assetFailures": [],
+  "representative": [
+    {
+      "label": "index.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "index.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "index.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "index.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "index.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "index.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "about.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "about.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "about.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "about.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "about.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "about.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "contact.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "contact.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "contact.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "contact.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "contact.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "contact.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "services/treatment-guidance.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "services/treatment-guidance.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "services/treatment-guidance.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "services/treatment-guidance.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "services/treatment-guidance.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "services/treatment-guidance.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge-center.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge-center.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge-center.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge-center.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge-center.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge-center.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "for-professionals.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "for-professionals.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "for-professionals.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "for-professionals.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "for-professionals.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "for-professionals.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "questions-and-answers.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "questions-and-answers.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "questions-and-answers.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "questions-and-answers.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "questions-and-answers.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "questions-and-answers.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "articles/when-to-seek-help.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "articles/when-to-seek-help.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "articles/when-to-seek-help.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "articles/when-to-seek-help.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "articles/when-to-seek-help.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "articles/when-to-seek-help.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge/families.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge/families.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge/families.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge/families.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge/families.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "knowledge/families.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "privacy.html @ 320x568",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "privacy.html @ 375x667",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "privacy.html @ 390x844",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "privacy.html @ 768x900",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "privacy.html @ 1024x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    },
+    {
+      "label": "privacy.html @ 1366x768",
+      "closed": {
+        "launcherCount": 1,
+        "dialogCount": 1,
+        "text": "עוזר AI\nהתמצאות באתר",
+        "ariaLabel": "פתיחת עוזר AI להתמצאות באתר",
+        "ariaExpanded": "false",
+        "ariaControls": "aiWebsiteGuideDialog",
+        "hasIcon": true,
+        "minTarget": true,
+        "noHorizontalOverflow": true,
+        "launcherOverlapsFloat": false
+      },
+      "opened": {
+        "visible": true,
+        "expanded": "true",
+        "openClass": true,
+        "title": "איך אפשר לעזור לך?",
+        "subtitle": "עוזר AI להתמצאות באתר",
+        "dialogInsideViewport": true
+      },
+      "escaped": {
+        "hidden": true,
+        "focusReturns": true,
+        "expanded": "false"
+      },
+      "ok": true
+    }
+  ],
+  "technical": {
+    "noFetch": true,
+    "noXMLHttpRequest": true,
+    "noSendBeacon": true,
+    "noWebSocket": true,
+    "noLocalStorage": true,
+    "noSessionStorage": true,
+    "noIndexedDB": true,
+    "noCookieWrites": true
+  },
+  "screenshots": [
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\home-desktop-launcher-closed.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\home-mobile-launcher-closed.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\home-desktop-open.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\home-mobile-open.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\contact-mobile-controls-separation.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\article-desktop-launcher.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\privacy-desktop-launcher.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\treatment-guidance-questionnaire-launcher.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\home-mobile-zoom-200.png",
+    "C:\\Users\\amosk\\Documents\\Codex\\2026-07-15\\new-chat\\work\\qa-output\\ai-guide-2b2-1b-sitewide\\knowledge-nested-mobile-launcher.png"
+  ]
+}

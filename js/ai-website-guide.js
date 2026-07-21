@@ -566,9 +566,24 @@
 
     launcher.setAttribute('aria-expanded', 'false');
 
+    launcher.classList.remove('is-open');
+
     launcher.setAttribute('aria-controls', 'aiWebsiteGuideDialog');
 
-    launcher.textContent = 'עזרה בהתמצאות באתר';
+    launcher.setAttribute('aria-label', 'פתיחת עוזר AI להתמצאות באתר');
+
+    launcher.innerHTML = `
+      <span class="ai-website-guide-launcher__mark" aria-hidden="true">
+        <svg class="ai-website-guide-launcher__icon" viewBox="0 0 24 24" focusable="false" aria-hidden="true">
+          <path d="M12 3.5l1.35 4.05 4.15 1.45-4.15 1.45L12 14.5l-1.35-4.05L6.5 9l4.15-1.45L12 3.5Z"></path>
+          <path d="M18.25 13.25l.72 2.15 2.03.72-2.03.71-.72 2.17-.72-2.17-2.03-.71 2.03-.72.72-2.15Z"></path>
+          <path d="M6.2 15.1l.52 1.55 1.58.55-1.58.54-.52 1.56-.53-1.56-1.57-.54 1.57-.55.53-1.55Z"></path>
+        </svg>
+      </span>
+      <span class="ai-website-guide-launcher__copy">
+        <span class="ai-website-guide-launcher__primary">עוזר <bdi>AI</bdi></span>
+        <span class="ai-website-guide-launcher__secondary">התמצאות באתר</span>
+      </span>`;
 
 
 
@@ -700,6 +715,8 @@
 
     launcher.setAttribute('aria-expanded', 'true');
 
+    launcher.classList.add('is-open');
+
     setTimeout(() => closeButton.focus(), 0);
 
   }
@@ -711,6 +728,8 @@
     dialog.hidden = true;
 
     launcher.setAttribute('aria-expanded', 'false');
+
+    launcher.classList.remove('is-open');
 
     clearLoading();
 

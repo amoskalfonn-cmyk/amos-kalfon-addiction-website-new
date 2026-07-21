@@ -87,3 +87,16 @@ Status: implemented locally and awaiting final visual approval.
 - Renamed the assistant to `עוזר AI להתמצאות באתר`.
 - Kept the prototype local-only with predefined responses.
 - No AI integration, API, storage, analytics, deployment, commit, push, or ZIP was added.
+
+## Sprint 2B.2.1b - AI Launcher Redesign and Site-Wide Local Prototype Integration
+
+Status: implemented locally and awaiting final visual approval.
+
+- Redesigned the launcher as a restrained AI navigation-assistant entry point with `עוזר AI` and `התמצאות באתר` labels.
+- Integrated the local guide across all 49 public HTML pages using shared root-relative CSS and JS assets.
+- Kept one source of truth in `css/ai-website-guide.css` and `js/ai-website-guide.js`.
+- Preserved predefined local responses only; no AI connection was added.
+- No API, API key, Netlify Function, package, analytics, storage, deployment, commit, push, or ZIP was added.
+
+Next: final visual approval before any future grounded AI/server integration.
+
