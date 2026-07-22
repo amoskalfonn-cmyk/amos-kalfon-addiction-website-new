@@ -1,4 +1,13 @@
 # Changelog
+## Sprint 3.4 - Sports gambling guide and self-reflection questionnaire (2026-07-22)
+- Created `knowledge/sports-gambling-addiction-guide.html`, a Hebrew gambling-cluster article about sports betting, live betting, betting apps, perceived control, chasing losses, peer-group influence, warning signs and when to pause.
+- Added a 14-question client-side self-reflection questionnaire titled `האם דפוס ההימורים שלי מצדיק פנייה לייעוץ?`.
+- Kept questionnaire output educational and non-diagnostic: no addiction label, no medical claim, no treatment promise and no replacement for professional assessment.
+- Preserved privacy by keeping all questionnaire state in browser memory only, with no cookies, storage, analytics event, WhatsApp trigger or network request.
+- Added Article, BreadcrumbList and FAQPage schema with a self-referencing canonical URL, Open Graph and Twitter metadata.
+- Connected the page from the gambling pillar, warning-signs article, debt guide, Knowledge Center and `sitemap.xml`.
+- Updated the roadmap for Amos review. Commit, push, deploy, ZIP creation and Google indexing remain pending approval.
+
 ## Sprint 3.2.3 - Netlify AI function runtime path repair (2026-07-22)
 - Fixed the Netlify AI function startup failure caused by `fileURLToPath(import.meta.url)` receiving an undefined bundled runtime URL.
 - Replaced the brittle module-load-time knowledge path with guarded module path resolution plus current-working-directory fallback candidates.

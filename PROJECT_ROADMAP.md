@@ -1,4 +1,12 @@
 # Project Roadmap
+## Sprint 3.4 - Sports Gambling Guide and Self-Reflection Questionnaire (2026-07-22)
+- Added the next gambling authority-cluster asset: `knowledge/sports-gambling-addiction-guide.html`.
+- Covered sports betting, live betting, apps, perceived control, chasing losses, 24/7 availability, peer influence, warning signs and safe first steps.
+- Added a 14-question educational self-reflection questionnaire that does not diagnose, label the visitor as addicted or replace professional assessment.
+- Kept questionnaire privacy strict: no cookies, storage, network requests, analytics events or WhatsApp triggers.
+- Connected the page from the gambling pillar, warning-signs article, debt guide, Knowledge Center and sitemap.
+- Pending: Amos review, then commit, push, deployment and production QA. No Google indexing request should be made until explicitly approved.
+
 ## Sprint 3.2.3 - Netlify AI Function Runtime Repair (2026-07-22)
 - Repaired the production Netlify AI function startup path error by guarding `import.meta.url` usage and resolving the approved knowledge file through Netlify-compatible bundled file candidates.
 - Added `netlify.toml` function file inclusion for `data/ai-guide-approved-knowledge.json`.
