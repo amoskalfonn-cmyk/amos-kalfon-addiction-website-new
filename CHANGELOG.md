@@ -265,3 +265,19 @@
 - Captured 14 mock frontend QA screenshots in `docs/qa-screenshots/ai-guide-2b3-mock-qa/`.
 - Added legal/privacy review checklist and mock QA summary documentation.
 - No paid OpenAI request, commit, push, deploy or ZIP was performed.
+# 2026-07-22 - Sprint 3.3: Gambling debt guidance and cost-awareness calculator
+
+## Added
+- Added `knowledge/gambling-debt-recovery-guide.html`, a new Hebrew YMYL-safe article about exiting gambling-related debt cycles.
+- Added a client-side-only educational `מחשבון עלות ההימורים` inside the article with no storage, no cookies, no network calls and no lead capture.
+- Added Article, BreadcrumbList and visible-FAQ-aligned FAQPage structured data for the new page.
+- Added the new canonical URL to `sitemap.xml`.
+
+## Changed
+- Added the new debt/cost article to the gambling pillar related-reading cluster.
+- Added the new article to the Knowledge Center pillar/resources area.
+
+## QA
+- Validated calculator input handling for empty values, decimals, zero, negative values, invalid text and oversized values.
+- Planned desktop, tablet, mobile and 320px visual QA artifacts under `docs/qa-screenshots/sprint-3-3-gambling-debt-calculator/`.
+- No AI activation, paid OpenAI request, commit, push, deploy or ZIP was performed.

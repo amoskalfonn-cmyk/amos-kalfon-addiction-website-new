@@ -185,3 +185,15 @@ Status: implemented locally and awaiting Amos review.
 - Mock regression testing passed for gambling, family, professional, emergency and medical-boundary flows.
 - Live OpenAI smoke testing remains pending explicit approval and must not run until Amos approves it.
 - No paid OpenAI request, commit, push, deploy or ZIP was performed.
+# Sprint 3.3 - Gambling Debt Guidance and Cost Awareness Calculator
+
+Status: implemented locally and awaiting Amos review.
+
+- Added the new article `knowledge/gambling-debt-recovery-guide.html` for the gambling authority cluster.
+- Added a privacy-safe educational calculator that estimates gambling spend by frequency and period, plus optional borrowing and fee estimates shown separately.
+- Kept the calculator deterministic and browser-only: no storage, no cookies, no network requests, no lead form and no automatic WhatsApp/contact trigger.
+- Connected the page from the gambling pillar and Knowledge Center and added the canonical URL to the sitemap.
+- Preserved YMYL boundaries: no diagnosis, no treatment promise, no legal/financial advice and clear emergency/safety wording.
+- No AI activation, paid OpenAI request, commit, push, deploy or ZIP was performed.
+
+Next: Sprint 3.4 should expand the gambling cluster with a family-focused page on what to do when a parent or partner discovers hidden gambling debt.

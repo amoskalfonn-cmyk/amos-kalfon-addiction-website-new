@@ -1,0 +1,279 @@
+{
+  "base": "http://127.0.0.1:55005",
+  "screenshots": [
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\01-article-desktop.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\02-article-mobile.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\03-calculator-empty.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\04-calculator-result-daily.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\05-calculator-result-weekly.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\06-calculator-result-monthly.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\07-calculator-validation.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\08-calculator-reset.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\09-calculator-320px.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\10-calculator-tablet.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\11-pillar-link.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\12-knowledge-center-card.png",
+    "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-3-3-gambling-debt-calculator\\13-final-regression.png"
+  ],
+  "pagesChecked": 53,
+  "consoleErrors": [],
+  "pageErrors": [],
+  "calculator": {
+    "dailyResultContainsCurrency": true,
+    "validationShowsErrors": true,
+    "resultHiddenAfterReset": true,
+    "dailyText": "תוצאה משוערת\nעלות הימורים בתקופה\n‏45,656 ‏₪\nממוצע חודשי\n‏7,609 ‏₪\nמקבילה שנתית\n‏91,250 ‏₪\nהלוואות ועלויות נלוות\n‏3,450 ‏₪\n\nהמספרים כאן הם נקודת פתיחה לשיחה רגועה, לא אבחון ולא תוכנית החזר. אם יש חובות, לחץ או הסתרה, חשוב לעצור הרחבת נזק ולפנות לגורם מתאים לפי הצורך.",
+    "validationText": "מחשבון עלות ההימורים\n\nהמחשבון נותן המחשה חינוכית בלבד לפי הנתונים שתזינו. הוא אינו שומר מידע, אינו שולח מידע, אינו מחובר לחשבונות ואינו מחליף בדיקה כלכלית, משפטית או טיפולית.\n\nסכום הימור ממוצע\n\nהזינו סכום בשקלים לפי תדירות ההימורים שתבחרו.\n\nאפשר להזין ספרות ונקודה עשרונית בלבד.\n\nתדירות ההימורים\nיומי\nשבועי\nחודשי\n\nמשך התקופה\n\nכמה שבועות, חודשים או שנים נמשך הדפוס שאתם רוצים לבדוק.\n\nאפשר להזין ספרות ונקודה עשרונית בלבד.\n\nיחידת זמן\nשבועות\nחודשים\nשנים\n\nסכום הלוואות או כסף שנלקח, אם ידוע\n\nאפשר להשאיר ריק. הסכום יוצג בנפרד מהוצאות ההימורים.\n\nעמלות, ריביות או עלויות נלוות משוערות\n\nזו הערכה בלבד, לא חישוב ריבית אמיתי.\n\nחשב עלות משוערת\nנקה נתונים"
+  },
+  "allHtmlRender": {
+    "404.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "about.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/addict-refuses-help.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/alcohol-addiction.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/boundaries.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/drug-addiction-signs.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/family-impact.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/gambling-addiction-signs.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/guidance-vs-treatment.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/how-to-choose-addiction-help.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/partner-addicted.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/pornography-addiction.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/questions-before-starting-help.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/real-recovery.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/rebuilding-trust.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/relapse-prevention.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/screen-addiction-teens.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/talk-to-addicted-family-member.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/when-guidance-is-not-enough.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles/when-to-seek-help.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "articles.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "contact.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "cookies.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "copyright.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "disclaimer.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "editorial-policy.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "for-professionals.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "index.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/alcohol.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/drugs.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/families.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/gambling-addiction-guide.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/gambling-addiction-warning-signs.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/gambling-debt-recovery-guide.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/gambling.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/pornography.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/prescription-drugs.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/recovery.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/relapse-prevention.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/screens.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/talking-to-family-about-gambling-addiction.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge/teens.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "knowledge-center.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "privacy.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "questions-and-answers.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "resources.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "services/treatment-guidance.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "sources.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "specialties.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "terms.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "thank-you.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "trust-center.html": {
+      "mobileHorizontalOverflow": false
+    },
+    "why-choose-me.html": {
+      "mobileHorizontalOverflow": false
+    }
+  },
+  "viewports": [
+    "1366x900",
+    "390x844",
+    "900x900",
+    "320x568",
+    "768x1024",
+    "1366x900",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844",
+    "390x844"
+  ],
+  "brokenInternalLinks": [],
+  "linkChecks": {
+    "whatsappHrefUnchanged": true,
+    "noStorageOrNetwork": true,
+    "noBrokenInternalLinks": true
+  },
+  "note": "QA via Edge headless CDP; calculator has no storage/network.",
+  "sourceStatuses": {
+    "WHO": 200,
+    "NHS": 200,
+    "NCBI": 200,
+    "KolZchut": 200
+  },
+  "finalChecks": {
+    "wordCount": 2060,
+    "singleH1": true,
+    "singleTitle": true,
+    "singleMetaDescription": true,
+    "jsonLdTypes": [
+      "Article",
+      "BreadcrumbList",
+      "FAQPage"
+    ],
+    "noSecretsFound": true,
+    "noStorageOrNetworkInCalculator": true,
+    "tempEdgeProfilesRemaining": 0,
+    "edgeProcessesRemaining": 0
+  }
+}
