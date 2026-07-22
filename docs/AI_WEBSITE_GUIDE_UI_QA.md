@@ -572,3 +572,28 @@ Pending:
 
 - Live OpenAI smoke testing remains pending explicit approval.
 - No paid OpenAI API request, commit, push, deploy or ZIP was performed.
+
+## Sprint 3.2.3 - Runtime Path Repair Frontend Regression QA
+
+Scope:
+
+- No AI guide HTML, CSS or visible UI redesign was performed.
+- No browser storage code was added.
+- No production mock mode or live OpenAI mode was enabled.
+
+Frontend result:
+
+- The server-side disabled state continues to return the existing `mode: "unavailable"` JSON shape that the frontend already knows how to render.
+- Unsupported HTTP methods and malformed request bodies return controlled JSON errors instead of raw stack traces.
+- Missing knowledge file simulation returns controlled unavailable JSON and does not expose internal file paths.
+- The frontend fetch code was not changed; existing behavior still falls back to the local unavailable UI when a non-OK response occurs.
+
+Validation:
+
+- `localStorage`, `sessionStorage`, `indexedDB`, `document.cookie`, `sendBeacon` and `XMLHttpRequest` scan across the AI guide frontend and function files returned no matches.
+- Existing mock integration and prompt-injection tests passed.
+- No paid OpenAI API request was made.
+
+Pending:
+
+- Production browser verification after Amos approves commit, push and deployment.

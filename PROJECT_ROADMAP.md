@@ -1,4 +1,11 @@
 # Project Roadmap
+## Sprint 3.2.3 - Netlify AI Function Runtime Repair (2026-07-22)
+- Repaired the production Netlify AI function startup path error by guarding `import.meta.url` usage and resolving the approved knowledge file through Netlify-compatible bundled file candidates.
+- Added `netlify.toml` function file inclusion for `data/ai-guide-approved-knowledge.json`.
+- Kept production-safe AI defaults: disabled mode returns a controlled unavailable response and does not call OpenAI or require an API key.
+- Completed local runtime, mock, safety, prompt-injection, missing-knowledge, bundle-path, storage and secret-scan QA.
+- Pending: Amos approval, then commit, push, deploy and production verification of the repaired function.
+
 ## Sprint 3.2.2 - Home Page SEO Metadata (2026-07-22)
 - Completed a focused homepage `<head>` audit covering title, description, robots, canonical, Open Graph, Twitter, favicon references, structured data, sitemap and robots.txt.
 - Repaired the homepage metadata issue by replacing the short meta description with a fuller Hebrew description and aligning the Open Graph and Twitter descriptions.

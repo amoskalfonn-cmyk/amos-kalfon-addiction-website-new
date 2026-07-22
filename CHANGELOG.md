@@ -1,4 +1,13 @@
 # Changelog
+## Sprint 3.2.3 - Netlify AI function runtime path repair (2026-07-22)
+- Fixed the Netlify AI function startup failure caused by `fileURLToPath(import.meta.url)` receiving an undefined bundled runtime URL.
+- Replaced the brittle module-load-time knowledge path with guarded module path resolution plus current-working-directory fallback candidates.
+- Added `netlify.toml` function `included_files` configuration so `data/ai-guide-approved-knowledge.json` is bundled with the function deployment.
+- Preserved safe disabled behavior: when `AI_GUIDE_ENABLED` is not explicitly `true`, the function returns the existing controlled unavailable JSON response and does not call OpenAI.
+- Added controlled handling for missing or unreadable knowledge files without exposing stack traces, local paths or environment values to visitors.
+- Completed local function, mock, prompt-injection, disabled-state, missing-knowledge, static bundle-path, storage and secret scans without any paid OpenAI API request.
+- Production deployment and production verification remain pending Amos approval.
+
 ## Sprint 3.2.2 - Home page SEO metadata validation and repair (2026-07-22)
 - Audited the homepage `<head>` metadata, indexability signals, structured data, favicons, Open Graph and Twitter metadata.
 - Confirmed the homepage meta description was present but too short for a valid production SEO check and inconsistent with the shorter social descriptions.

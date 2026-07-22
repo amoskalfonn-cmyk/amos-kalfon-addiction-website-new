@@ -3,15 +3,12 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { callMockResponsesApi, isMockEnabled } from './ai-guide-mock.mjs';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const repoRoot = path.resolve(__dirname, '..', '..');
-const knowledgePath = path.join(repoRoot, 'data', 'ai-guide-approved-knowledge.json');
-
 const MAX_QUESTION_LENGTH = 360;
 const MAX_CONTEXT_PAGES = 5;
 const WINDOW_MS = 60000;
 const MAX_REQUESTS_PER_WINDOW = 12;
 const buckets = new Map();
+const KNOWLEDGE_FILE = 'ai-guide-approved-knowledge.json';
 
 const SAFETY_PATTERNS = [
   /overdose|self-harm|suicide|violence|weapon|emergency/i,
@@ -64,8 +61,42 @@ const GENERIC_RETRIEVAL_TOKENS = new Set([
 
 const MIN_RELEVANCE_SCORE = 7;
 
+function getModuleDir() {
+  const moduleUrl = import.meta?.url;
+  if (typeof moduleUrl !== 'string' || !moduleUrl) return null;
+  try {
+    return path.dirname(fileURLToPath(moduleUrl));
+  } catch (error) {
+    console.error('[ai-guide] module path resolution failed:', error.message);
+    return null;
+  }
+}
+
+function getKnowledgePathCandidates() {
+  const moduleDir = getModuleDir();
+  const candidates = [];
+  if (moduleDir) {
+    candidates.push(path.resolve(moduleDir, '..', '..', 'data', KNOWLEDGE_FILE));
+    candidates.push(path.resolve(moduleDir, '..', 'data', KNOWLEDGE_FILE));
+  }
+  candidates.push(path.resolve(process.cwd(), 'data', KNOWLEDGE_FILE));
+  candidates.push(path.resolve(process.cwd(), '..', 'data', KNOWLEDGE_FILE));
+  return [...new Set(candidates)];
+}
+
 function loadKnowledge() {
-  return JSON.parse(fs.readFileSync(knowledgePath, 'utf8'));
+  const candidates = getKnowledgePathCandidates();
+  for (const candidate of candidates) {
+    try {
+      if (!fs.existsSync(candidate)) continue;
+      return JSON.parse(fs.readFileSync(candidate, 'utf8'));
+    } catch (error) {
+      console.error('[ai-guide] knowledge load failed:', error.message);
+      return null;
+    }
+  }
+  console.error('[ai-guide] knowledge file not found in bundled function');
+  return null;
 }
 
 function normalize(value) {
@@ -359,12 +390,17 @@ export async function handleAiGuide(event) {
   if (matchesAny(question, MEDICAL_PATTERNS)) return json(200, makeBoundary('medical'));
 
   const knowledge = loadKnowledge();
-  const retrieval = retrieve(question, knowledge);
-  const sources = retrieval.pages;
   if (process.env.AI_GUIDE_ENABLED !== 'true') {
-    return json(200, unavailableAnswer(sources));
+    const disabledSources = knowledge ? getGeneralNavigationSources(knowledge) : [];
+    return json(200, unavailableAnswer(disabledSources));
   }
 
+  if (!knowledge) {
+    return json(200, unavailableAnswer([]));
+  }
+
+  const retrieval = retrieve(question, knowledge);
+  const sources = retrieval.pages;
   if (!isMockEnabled() && !process.env.OPENAI_API_KEY) {
     return json(200, unavailableAnswer(sources));
   }

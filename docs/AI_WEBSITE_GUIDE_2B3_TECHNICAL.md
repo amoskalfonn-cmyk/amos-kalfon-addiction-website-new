@@ -76,3 +76,46 @@ Production defaults remain disabled:
 - `AI_GUIDE_USE_MOCK=false`
 
 The remaining paid live smoke test is documented in `docs/AI_WEBSITE_GUIDE_2B3A_MOCK_QA_SUMMARY.md`.
+
+## Sprint 3.2.3 Runtime Path Repair Addendum
+
+The production Netlify function previously failed before request handling with:
+
+`TypeError: The "path" argument must be of type string or an instance of URL. Received undefined.`
+
+Confirmed failing line:
+
+- `netlify/lib/ai-guide-core.mjs`, previous line 6:
+  `const __dirname = path.dirname(fileURLToPath(import.meta.url));`
+
+Root cause:
+
+- Netlify bundled the function into a runtime where `import.meta.url` was undefined at module startup.
+- Calling `fileURLToPath(undefined)` threw before disabled-mode, method, JSON, safety or mock checks could run.
+
+Repair:
+
+- Module directory resolution is now guarded and returns `null` when `import.meta.url` is unavailable.
+- Knowledge loading checks multiple Netlify-compatible candidates relative to the module directory and `process.cwd()`.
+- `loadKnowledge()` returns `null` on missing/unreadable/invalid knowledge instead of throwing a raw startup exception.
+- `netlify.toml` includes `data/ai-guide-approved-knowledge.json` in the function bundle.
+
+Safe disabled behavior:
+
+- When `AI_GUIDE_ENABLED` is not explicitly `true`, the function returns the existing JSON `unavailable` response with status `200`.
+- Disabled mode does not require `OPENAI_API_KEY` and does not call `fetch` or OpenAI.
+- Missing knowledge in disabled mode returns the same controlled unavailable response without exposing local paths or stack traces.
+
+Validation:
+
+- Local function import passed.
+- Disabled/no-key behavior passed.
+- Missing-knowledge simulation passed.
+- Existing function, mock integration and prompt-injection tests passed.
+- Static bundle path scan found no embedded local Windows or Netlify runtime paths in function/config/data files.
+- Secret scan found no real OpenAI key pattern.
+
+Limitations:
+
+- Netlify CLI is not available locally, so a full Netlify bundle artifact inspection was not performed.
+- Production deployment and verification remain pending Amos approval.
