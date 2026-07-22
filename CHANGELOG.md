@@ -1,4 +1,10 @@
 # Changelog
+## Sprint 3.2.1 - Trust Center footer text visibility fix (2026-07-22)
+- Fixed low-contrast body text in two Trust Center footer cards: `עמוס כלפון` and `השאירו פנייה`.
+- Preserved the existing footer structure, links, button styling, hover behavior, layout, branding and colours outside the affected body text.
+- Improved desktop, tablet and mobile readability without changing unrelated pages or global footer styling.
+- Commit, push, deploy and ZIP creation remain pending Amos approval.
+
 ## Sprint 3.2 - Gambling content cluster, part 1 (2026-07-22)
 - Created two Hebrew supporting articles in the knowledge section: `knowledge/gambling-addiction-warning-signs.html` and `knowledge/talking-to-family-about-gambling-addiction.html`.
 - Linked both articles back to the gambling pillar page and updated the pillar related-reading section so the new articles are live cluster assets, not future topics.

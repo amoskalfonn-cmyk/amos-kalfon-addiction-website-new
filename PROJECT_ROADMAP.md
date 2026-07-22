@@ -1,4 +1,9 @@
 # Project Roadmap
+## Sprint 3.2.1 - Trust Center Footer Readability (2026-07-22)
+- Fixed the Trust Center footer readability regression where two body-text blocks used a light colour on the internal-page footer's light background.
+- Kept the existing premium footer design, link behavior, button styling, layout and responsive behavior unchanged.
+- Completed desktop, tablet, mobile and small-mobile QA for contrast, overflow, console errors and link/action readability.
+
 ## Sprint 3.2 - Gambling Cluster Part 1 (2026-07-22)
 - Added the first two supporting articles for the gambling authority cluster: warning signs and family conversation guidance.
 - Kept `knowledge/gambling-addiction-guide.html` as the central authority pillar and added contextual links in both directions.
