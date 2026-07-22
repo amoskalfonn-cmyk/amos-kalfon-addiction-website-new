@@ -2,6 +2,20 @@
 
 ## Completed
 
+### Sprint 3.1a - Final URL, Sources and Release Validation
+- Validated the gambling pillar page public URL against current knowledge-page conventions, sitemap usage, canonical usage and Netlify clean URL behavior.
+- Kept the preferred canonical URL as `https://amos-kalfon-addiction-counselor.com/knowledge/gambling-addiction-guide.html` to match existing knowledge-page canonical and sitemap patterns.
+- Validated professional sources and replaced redirected or outdated source URLs with cleaner current destinations.
+- Aligned FAQPage schema with the visible FAQ content and completed safety, SEO, responsive and regression QA.
+- No redesign, deployment, ZIP, commit or push was performed.
+
+### Sprint 3.1 - Authority SEO Foundation Pillar Page: Gambling Addiction
+- Created the first long-form authority SEO pillar page: `knowledge/gambling-addiction-guide.html`.
+- Covered gambling addiction definition, development, risk factors, warning signs, financial and family impact, safety language, help options in Israel, choosing help, FAQ, sources and complementary reading.
+- Added Article, BreadcrumbList and FAQPage schema, a canonical URL, Open Graph/Twitter metadata, internal anchors and a sitemap entry.
+- Linked the new pillar from `knowledge-center.html` without changing global navigation, CSS or JavaScript.
+- Preserved YMYL boundaries: no diagnosis, no treatment promise, no recovery guarantee and no emergency-service claim.
+
 ### Sprint 2B.1 - Grounded AI Website Guide Specification
 - Created a complete planning specification for a future safe, grounded AI website guide.
 - Defined approved website sources, allowed and forbidden behavior, emergency policy, privacy requirements, technical architecture, UI/accessibility requirements and a 60-prompt test matrix.
@@ -39,15 +53,15 @@
 
 ## Recommended Next Sprints
 
-1. Expand service-level internal linking from relevant knowledge pages such as families, recovery, alcohol, drugs and gambling.
-2. Add a short decision checklist section to `articles/how-to-choose-addiction-help` that links naturally to the new service page.
-3. Build a trust-focused referral explainer for families: what to ask a treatment provider before enrolling.
-4. Add conversion measurement QA for contact-form submissions and WhatsApp click events if analytics is configured.
-5. Consider adding a future short checklist PDF or printable guide for families comparing treatment options, only after content approval.
-6. Consider future analytics review of the treatment-guidance page after real traffic data is available; do not add tracking changes without approval.
-7. Consider future usage review before adding answer transfer, analytics events, or prefilled WhatsApp summaries; do not implement without approval.
-8. Sprint 2B.2 - Local UI prototype without AI API.
-9. Sprint 2B.3 - Grounded AI and Netlify Function integration.
+1. Sprint 3.2 - Build the gambling support cluster: debt from gambling, spouse/family conversation, sports betting, rebuilding trust, and what not to do when discovering hidden debt.
+2. Add contextual links from related family and gambling articles into the new gambling pillar after content QA approval.
+3. Expand service-level internal linking from relevant knowledge pages such as families, recovery, alcohol, drugs and gambling.
+4. Add a short decision checklist section to `articles/how-to-choose-addiction-help` that links naturally to the treatment-guidance service page.
+5. Build a trust-focused referral explainer for families: what to ask a treatment provider before enrolling.
+6. Add conversion measurement QA for contact-form submissions and WhatsApp click events if analytics is configured.
+7. Consider adding a future short checklist PDF or printable guide for families comparing treatment options, only after content approval.
+8. Consider future analytics review of the treatment-guidance page after real traffic data is available; do not add tracking changes without approval.
+9. Consider future usage review before adding answer transfer, analytics events, or prefilled WhatsApp summaries; do not implement without approval.
 10. Sprint 2B.4 - Safety, accessibility, privacy, and production QA.
 
 ## Sprint 2B.2 - Local AI Website Guide UI Prototype

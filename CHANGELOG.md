@@ -1,5 +1,34 @@
 # Changelog
 
+## Sprint 3.1a - Final URL, Sources and Release Validation
+
+### Fixed
+- Aligned the gambling pillar FAQPage schema with the visible FAQ questions and answers.
+- Replaced the NCPG source with the publicly accessible NHS gambling addiction source for pre-release source validation.
+- Replaced the redirected NCBI Books source URL with its final canonical destination.
+- Replaced the older gov.il 118 source URL with the current government department page for the Ministry of Welfare and Social Affairs 118 hotline.
+
+### Verified
+- Confirmed the preferred public URL follows the current knowledge-page canonical convention: `https://amos-kalfon-addiction-counselor.com/knowledge/gambling-addiction-guide.html`.
+- Completed source, safety, SEO, internal-link, sitemap, responsive and console-error validation for the new gambling pillar page.
+
+### Not Included
+- No redesign, full article rewrite, unrelated page changes, deployment, ZIP, commit or push was performed.
+
+## Sprint 3.1 - Authority SEO Foundation Pillar Page: Gambling Addiction
+
+### Added
+- Created `knowledge/gambling-addiction-guide.html` as a long-form Hebrew authority pillar page for gambling addiction.
+- Added Article, BreadcrumbList and FAQPage structured data for the new pillar page.
+- Added a natural internal entry point from `knowledge-center.html` to the new guide.
+- Added the new canonical URL to `sitemap.xml`.
+
+### Changed
+- Updated `PROJECT_ROADMAP.md` with the completed Sprint 3.1 SEO foundation work and next-cluster recommendations.
+
+### Not Included
+- No CSS, JavaScript, global navigation, existing schema, deployment, ZIP, commit or push was performed.
+
 ## Sprint 2B.3f - Final UAT Defect Fixes Before Intermediate Release
 
 ### Fixed
