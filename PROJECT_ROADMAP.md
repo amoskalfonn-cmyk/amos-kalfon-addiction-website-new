@@ -1,4 +1,12 @@
 # Project Roadmap
+## Sprint 3.2 - Gambling Cluster Part 1 (2026-07-22)
+- Added the first two supporting articles for the gambling authority cluster: warning signs and family conversation guidance.
+- Kept `knowledge/gambling-addiction-guide.html` as the central authority pillar and added contextual links in both directions.
+- Updated Knowledge Center and sitemap with only preferred canonical `.html` URLs.
+- Completed source, safety, accessibility and mobile QA; artifacts are stored in `docs/qa-screenshots/sprint-3-2-gambling-cluster-part-1/`.
+- Pending indexing list: `knowledge/gambling-addiction-guide.html`, `knowledge/gambling-addiction-warning-signs.html`, `knowledge/talking-to-family-about-gambling-addiction.html`.
+- Next cluster topics remain future work and require separate approval.
+
 
 ## Completed
 

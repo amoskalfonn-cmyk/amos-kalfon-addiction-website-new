@@ -1,4 +1,14 @@
 # Changelog
+## Sprint 3.2 - Gambling content cluster, part 1 (2026-07-22)
+- Created two Hebrew supporting articles in the knowledge section: `knowledge/gambling-addiction-warning-signs.html` and `knowledge/talking-to-family-about-gambling-addiction.html`.
+- Linked both articles back to the gambling pillar page and updated the pillar related-reading section so the new articles are live cluster assets, not future topics.
+- Added both articles to `knowledge-center.html` using the existing resource-card structure without changing global layout or CSS.
+- Added the two preferred `.html` canonical URLs to `sitemap.xml`.
+- Added Article, BreadcrumbList and FAQPage schema for both articles, with visible FAQ questions matching the schema.
+- Reviewed source support, YMYL safety wording, service-boundary language, accessibility and mobile readability.
+- Created QA artifacts under `docs/qa-screenshots/sprint-3-2-gambling-cluster-part-1/`.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
+
 
 ## Sprint 3.1a - Final URL, Sources and Release Validation
 

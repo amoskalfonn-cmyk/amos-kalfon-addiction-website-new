@@ -1,0 +1,223 @@
+{
+  "generatedAt": "2026-07-22T08:48:08.626Z",
+  "qa": [
+    {
+      "rel": "knowledge/gambling-addiction-warning-signs.html",
+      "viewport": "1366x900",
+      "metrics": {
+        "clientWidth": 1351,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 900,
+        "innerWidth": 1366,
+        "lang": "he",
+        "menuVisible": false,
+        "scrollWidth": 1351,
+        "title": "10 סימנים להתמכרות להימורים | איך מזהים דפוס מדאיג | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/gambling-addiction-warning-signs.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "article-1-desktop.png"
+    },
+    {
+      "rel": "knowledge/gambling-addiction-warning-signs.html",
+      "viewport": "390x844",
+      "metrics": {
+        "clientWidth": 375,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 844,
+        "innerWidth": 390,
+        "lang": "he",
+        "menuVisible": true,
+        "scrollWidth": 375,
+        "title": "10 סימנים להתמכרות להימורים | איך מזהים דפוס מדאיג | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/gambling-addiction-warning-signs.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "article-1-mobile.png"
+    },
+    {
+      "rel": "knowledge/talking-to-family-about-gambling-addiction.html",
+      "viewport": "1366x900",
+      "metrics": {
+        "clientWidth": 1351,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 900,
+        "innerWidth": 1366,
+        "lang": "he",
+        "menuVisible": false,
+        "scrollWidth": 1351,
+        "title": "איך לדבר עם בן משפחה על התמכרות להימורים | מדריך רגוע למשפחה | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/talking-to-family-about-gambling-addiction.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "article-2-desktop.png"
+    },
+    {
+      "rel": "knowledge/talking-to-family-about-gambling-addiction.html",
+      "viewport": "390x844",
+      "metrics": {
+        "clientWidth": 375,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 844,
+        "innerWidth": 390,
+        "lang": "he",
+        "menuVisible": true,
+        "scrollWidth": 375,
+        "title": "איך לדבר עם בן משפחה על התמכרות להימורים | מדריך רגוע למשפחה | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/talking-to-family-about-gambling-addiction.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "article-2-mobile.png"
+    },
+    {
+      "rel": "knowledge/gambling-addiction-guide.html#related",
+      "viewport": "1366x900",
+      "metrics": {
+        "clientWidth": 1351,
+        "details": 6,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 900,
+        "innerWidth": 1366,
+        "lang": "he",
+        "menuVisible": false,
+        "scrollWidth": 1351,
+        "title": "המדריך המקיף להתמכרות להימורים | סימנים, חובות ועזרה בישראל | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/gambling-addiction-guide.html#related",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "pillar-related-links.png"
+    },
+    {
+      "rel": "knowledge-center.html",
+      "viewport": "1366x900",
+      "metrics": {
+        "clientWidth": 1351,
+        "details": 0,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 900,
+        "innerWidth": 1366,
+        "lang": "he",
+        "menuVisible": false,
+        "scrollWidth": 1351,
+        "title": "מרכז ידע להתמכרויות והחלמה | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge-center.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "knowledge-center-entries.png"
+    },
+    {
+      "rel": "knowledge/gambling-addiction-warning-signs.html#faq",
+      "viewport": "768x1024",
+      "metrics": {
+        "clientWidth": 753,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 1024,
+        "innerWidth": 768,
+        "lang": "he",
+        "menuVisible": true,
+        "scrollWidth": 753,
+        "title": "10 סימנים להתמכרות להימורים | איך מזהים דפוס מדאיג | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/gambling-addiction-warning-signs.html#faq",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "faq-component.png"
+    },
+    {
+      "rel": "knowledge/talking-to-family-about-gambling-addiction.html",
+      "viewport": "320x568",
+      "metrics": {
+        "clientWidth": 305,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 568,
+        "innerWidth": 320,
+        "lang": "he",
+        "menuVisible": true,
+        "scrollWidth": 305,
+        "title": "איך לדבר עם בן משפחה על התמכרות להימורים | מדריך רגוע למשפחה | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/talking-to-family-about-gambling-addiction.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "layout-320px.png"
+    },
+    {
+      "rel": "knowledge/gambling-addiction-warning-signs.html",
+      "viewport": "768x1024",
+      "metrics": {
+        "clientWidth": 753,
+        "details": 5,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 1024,
+        "innerWidth": 768,
+        "lang": "he",
+        "menuVisible": true,
+        "scrollWidth": 753,
+        "title": "10 סימנים להתמכרות להימורים | איך מזהים דפוס מדאיג | עמוס כלפון",
+        "url": "http://127.0.0.1:8788/knowledge/gambling-addiction-warning-signs.html",
+        "whatsappLinks": 2
+      },
+      "consoleErrors": [],
+      "screenshot": "tablet-layout.png"
+    },
+    {
+      "rel": "index.html",
+      "viewport": "1366x900",
+      "metrics": {
+        "clientWidth": 1351,
+        "details": 0,
+        "dir": "rtl",
+        "h1": 1,
+        "horizontalOverflow": false,
+        "innerHeight": 900,
+        "innerWidth": 1366,
+        "lang": "he",
+        "menuVisible": false,
+        "scrollWidth": 1351,
+        "title": "עמוס כלפון | ייעוץ וליווי בהתמכרויות למכורים ובני משפחה",
+        "url": "http://127.0.0.1:8788/index.html",
+        "whatsappLinks": 4
+      },
+      "consoleErrors": [],
+      "screenshot": "final-regression-home.png"
+    }
+  ],
+  "mobileNav": {
+    "menuCount": 1,
+    "navAfter": {
+      "expanded": "true",
+      "navClass": "is-open",
+      "navVisible": true
+    }
+  }
+}
