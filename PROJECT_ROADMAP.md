@@ -1,4 +1,10 @@
 # Project Roadmap
+## Sprint 3.2.2 - Home Page SEO Metadata (2026-07-22)
+- Completed a focused homepage `<head>` audit covering title, description, robots, canonical, Open Graph, Twitter, favicon references, structured data, sitemap and robots.txt.
+- Repaired the homepage metadata issue by replacing the short meta description with a fuller Hebrew description and aligning the Open Graph and Twitter descriptions.
+- Confirmed local/source SEO validation: one title, one meta description, self-referencing canonical, indexable robots directive, valid JSON-LD syntax, one H1 and no staging or localhost metadata.
+- Production verification remains pending after the next approved release; no deploy, push, commit, ZIP or indexing request was performed.
+
 ## Sprint 3.2.1 - Trust Center Footer Readability (2026-07-22)
 - Fixed the Trust Center footer readability regression where two body-text blocks used a light colour on the internal-page footer's light background.
 - Kept the existing premium footer design, link behavior, button styling, layout and responsive behavior unchanged.

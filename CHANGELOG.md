@@ -1,4 +1,11 @@
 # Changelog
+## Sprint 3.2.2 - Home page SEO metadata validation and repair (2026-07-22)
+- Audited the homepage `<head>` metadata, indexability signals, structured data, favicons, Open Graph and Twitter metadata.
+- Confirmed the homepage meta description was present but too short for a valid production SEO check and inconsistent with the shorter social descriptions.
+- Replaced the homepage meta description with a fuller 145-character Hebrew description and aligned the Open Graph and Twitter descriptions to the same copy.
+- Verified the homepage title, canonical URL, robots directive, sitemap homepage URL, structured data JSON-LD syntax, favicon references and H1 count locally.
+- Production validation remains pending the next approved release because no deploy was performed.
+
 ## Sprint 3.2.1 - Trust Center footer text visibility fix (2026-07-22)
 - Fixed low-contrast body text in two Trust Center footer cards: `עמוס כלפון` and `השאירו פנייה`.
 - Preserved the existing footer structure, links, button styling, hover behavior, layout, branding and colours outside the affected body text.
