@@ -1,4 +1,15 @@
 # Changelog
+## Sprint 3.5 - Rebuilding trust after gambling harm and family PDF guide (2026-07-24)
+- Created `knowledge/rebuilding-trust-after-gambling-harm.html`, a Hebrew supporting article for families and partners about rebuilding trust after gambling-related secrecy, debt or broken promises.
+- Added the printable family guide PDF at `downloads/family-first-steps-gambling-harm-guide-he.pdf` with 12 pages, checkboxes, note areas, safety wording, service-boundary wording and no JavaScript.
+- Added one calm direct download section in the article; the PDF opens as a normal file link without a form, email gate, WhatsApp trigger, third-party service or tracking link.
+- Added Article, BreadcrumbList and FAQPage schema; the visible FAQ and FAQ schema both contain 4 matching questions.
+- Updated internal links from the gambling pillar, Knowledge Center, family conversation article, debt guide and sports gambling guide.
+- Updated `sitemap.xml` with the preferred canonical article URL only; the PDF was intentionally not added to the sitemap because it supports the indexable HTML article.
+- Validated source URLs from WHO, NHS and SAMHSA/NCBI, and kept claims educational, non-diagnostic and non-promissory.
+- Completed local desktop, tablet, mobile, 320px, PDF, link, metadata, schema, privacy and secret-scan QA. Artifacts are stored in `docs/qa-screenshots/sprint-3-5-trust-family-guide/`.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
+
 ## Sprint 3.4 - Sports gambling guide and self-reflection questionnaire (2026-07-22)
 - Created `knowledge/sports-gambling-addiction-guide.html`, a Hebrew gambling-cluster article about sports betting, live betting, betting apps, perceived control, chasing losses, peer-group influence, warning signs and when to pause.
 - Added a 14-question client-side self-reflection questionnaire titled `האם דפוס ההימורים שלי מצדיק פנייה לייעוץ?`.

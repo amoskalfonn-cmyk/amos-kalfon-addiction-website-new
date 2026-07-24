@@ -1,0 +1,46 @@
+{
+  "article_word_count": 1841,
+  "h1_count": 1,
+  "meta_description_count": 1,
+  "canonical_count": 1,
+  "og_description_count": 1,
+  "twitter_description_count": 1,
+  "jsonld_types": [
+    "Article",
+    "BreadcrumbList",
+    "FAQPage"
+  ],
+  "jsonld_errors": [],
+  "visible_faq_count": 4,
+  "faq_schema_count": 4,
+  "local_links_checked": 228,
+  "broken_local_links": [],
+  "pdf_exists": true,
+  "pdf_page_count": 12,
+  "pdf_size_bytes": 126782,
+  "pdf_has_javascript": false,
+  "pdf_text_has_hebrew": true,
+  "pdf_text_has_question_mark_leak": false,
+  "privacy_hits_new_article": [],
+  "forbidden_hits": [
+    "חייבים לסלוח"
+  ],
+  "screenshots": {
+    "01-article-desktop.png": 274561,
+    "02-article-mobile.png": 107661,
+    "03-article-320px.png": 71977,
+    "04-download-section.png": 139379,
+    "05-pdf-cover.png": 35477,
+    "06-pdf-checklist-page.png": 26214,
+    "07-pdf-notes-page.png": 20809,
+    "08-pdf-safety-page.png": 30178,
+    "09-pillar-link.png": 274734,
+    "10-knowledge-center-card.png": 258150,
+    "11-faq.png": 178319,
+    "12-tablet.png": 188710,
+    "13-final-regression.png": 196502
+  },
+  "sitemap_has_article": true,
+  "sitemap_has_pdf": false,
+  "download_meta_mentions_size": true
+}

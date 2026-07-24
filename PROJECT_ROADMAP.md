@@ -1,4 +1,15 @@
 # Project Roadmap
+## Sprint 3.5 - Rebuilding Trust After Gambling Harm + Family PDF Guide (2026-07-24)
+- Added the next gambling authority-cluster asset: `knowledge/rebuilding-trust-after-gambling-harm.html`.
+- Covered why trust is damaged after gambling-related secrecy, the difference between forgiveness and trust repair, gradual transparency, family and financial boundaries, children, setbacks, safety and when to involve professional, legal or financial help.
+- Added the printable family PDF guide at `downloads/family-first-steps-gambling-harm-guide-he.pdf`; the guide has 12 pages, checkboxes, note space and a clear disclaimer.
+- Kept the download behavior simple and privacy-friendly: direct PDF link only, no lead form, no WhatsApp trigger, no third-party service and no tracking link.
+- Connected the article from the gambling pillar, Knowledge Center, family conversation article, gambling debt guide, sports gambling article and sitemap.
+- Sitemap decision: only the canonical article URL was added; the PDF remains a supporting downloadable asset and was not added to `sitemap.xml`.
+- Validated source URLs from WHO, NHS and SAMHSA/NCBI and kept the content within YMYL safety boundaries: no diagnosis, no promise of reconciliation or recovery, no pressure to forgive and no legal or financial advice.
+- QA artifacts are stored in `docs/qa-screenshots/sprint-3-5-trust-family-guide/`.
+- Pending: Amos review, then commit, push, deployment, production QA and optional addition to the existing indexing queue. No Google indexing request should be made until explicitly approved.
+
 ## Sprint 3.4 - Sports Gambling Guide and Self-Reflection Questionnaire (2026-07-22)
 - Added the next gambling authority-cluster asset: `knowledge/sports-gambling-addiction-guide.html`.
 - Covered sports betting, live betting, apps, perceived control, chasing losses, 24/7 availability, peer influence, warning signs and safe first steps.
