@@ -1,4 +1,12 @@
 # Project Roadmap
+## Sprint 3.6 - Gambling Cluster Audit and Optimization (2026-07-24)
+- Completed a quality audit of the gambling authority cluster after Sprint 3.5.
+- Confirmed unique metadata, canonicals and schema across the main cluster, with no broken local links found in the reviewed pages.
+- Strengthened routing from the gambling topic hub and legacy short article into the current authority pages.
+- Preserved existing design, branding, AI state, URLs and page structure.
+- Remaining strategic decision: monitor old `/articles/gambling-addiction-signs` against the newer warning-signs page before deciding whether to expand, canonicalize or noindex.
+- Pending: Amos review, then optional commit, push, deployment and production QA if approved. No Google indexing request should be made until explicitly approved.
+
 ## Sprint 3.5 - Rebuilding Trust After Gambling Harm + Family PDF Guide (2026-07-24)
 - Added the next gambling authority-cluster asset: `knowledge/rebuilding-trust-after-gambling-harm.html`.
 - Covered why trust is damaged after gambling-related secrecy, the difference between forgiveness and trust repair, gradual transparency, family and financial boundaries, children, setbacks, safety and when to involve professional, legal or financial help.

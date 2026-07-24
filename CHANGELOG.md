@@ -1,4 +1,12 @@
 # Changelog
+## Sprint 3.6 - Gambling cluster audit and optimization (2026-07-24)
+- Audited the full gambling authority cluster for metadata uniqueness, canonicals, schema, FAQ consistency, broken links, duplicate content, internal linking, navigation, accessibility and technical risks.
+- Improved `knowledge/gambling.html` so the gambling topic hub routes visitors into the current authority cluster instead of relying on the older short article.
+- Added bridge links from `articles/gambling-addiction-signs.html` to the current gambling pillar and warning-signs article to reduce cannibalization risk.
+- Updated sitemap lastmod values for the two touched pages.
+- Created `docs/GAMBLING_CLUSTER_AUDIT_REPORT.md`.
+- No new content pages, PDFs, AI changes, deployment, ZIP, commit, push or indexing request was performed.
+
 ## Sprint 3.5 - Rebuilding trust after gambling harm and family PDF guide (2026-07-24)
 - Created `knowledge/rebuilding-trust-after-gambling-harm.html`, a Hebrew supporting article for families and partners about rebuilding trust after gambling-related secrecy, debt or broken promises.
 - Added the printable family guide PDF at `downloads/family-first-steps-gambling-harm-guide-he.pdf` with 12 pages, checkboxes, note areas, safety wording, service-boundary wording and no JavaScript.
