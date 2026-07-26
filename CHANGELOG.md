@@ -1,4 +1,14 @@
 # Changelog
+## Sprint 4.2 - Alcohol warning signs journey and conversion path (2026-07-26)
+- Created `knowledge/alcohol-warning-signs.html`, a focused Hebrew supporting article for visitors asking whether they may be drinking too much.
+- Built the article around a single user journey: initial concern, practical warning signs, safety boundaries and four calm next-step paths.
+- Added Article, BreadcrumbList and FAQPage schema with visible FAQ content matching the schema.
+- Connected the article from the alcohol pillar page, Knowledge Center and `sitemap.xml` using the preferred `.html` canonical URL.
+- Improved the Knowledge Center alcohol cluster entry so it now starts with the alcohol pillar and the warning-signs article instead of a single isolated card.
+- Documented the permanent questionnaire design rule in `docs/QUESTIONNAIRE_DESIGN_STANDARD.md`: future questionnaires must use the existing Treatment Guidance questionnaire pattern.
+- Preserved global design, CSS, JavaScript, AI state, WhatsApp links, contact links and service boundaries.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
+
 ## Sprint 4.1 - Alcohol cluster foundation pillar page (2026-07-26)
 - Created `knowledge/problematic-alcohol-use-guide.html` as the flagship Hebrew pillar page for the alcohol authority cluster.
 - Covered problematic drinking, alcohol addiction/dependence, early and advanced warning signs, family impact, work and sleep, treatment options, community support and careful help selection.

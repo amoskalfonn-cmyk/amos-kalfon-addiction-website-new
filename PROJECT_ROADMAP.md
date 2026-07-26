@@ -1,4 +1,13 @@
 # Project Roadmap
+## Sprint 4.2 - Alcohol Warning Signs Journey (2026-07-26)
+- Added `knowledge/alcohol-warning-signs.html` as the first supporting article in the alcohol authority cluster.
+- Focused the page on one visitor question: "Maybe I drink too much?" and routed the reader toward learning, family support, treatment guidance or contact without pressure.
+- Strengthened conversion by replacing a generic CTA with a four-path next-step section matched to intent.
+- Strengthened future AI grounding by creating a short, intent-specific source for alcohol warning signs, safety boundaries and next-step routing.
+- Updated Knowledge Center so the alcohol cluster begins to show a logical journey rather than a standalone pillar card.
+- Documented the permanent questionnaire design standard: all future questionnaires must reuse the Treatment Guidance questionnaire design language.
+- Pending: Amos review, then optional commit, push, deployment, production QA and indexing only after explicit approval.
+
 ## Sprint 4.1 - Alcohol Authority Cluster Foundation (2026-07-26)
 - Started the alcohol authority cluster with `knowledge/problematic-alcohol-use-guide.html` as the central pillar page.
 - Positioned the page around respectful language: problematic drinking, drinking pattern, dependence and alcohol-related harm, without relying on stigmatizing labels.
