@@ -1,4 +1,15 @@
 ﻿# Changelog
+## Sprint 4.4 - Alcohol family conversation journey (2026-07-26)
+- Created `knowledge/talking-to-family-about-alcohol.html`, a Hebrew family-journey article for spouses, parents, adult children, siblings and close family members worried about a person who drinks too much.
+- Added calm, practical guidance for preparing a first conversation, choosing time and place, opening without accusation, handling denial or anger, setting boundaries and knowing when to stop the conversation.
+- Added a two-column "מה אפשר להגיד?" comparison block using existing card components, with less-helpful phrases and calmer alternatives.
+- Preserved YMYL safety boundaries: no diagnosis, no detox instructions, no medication guidance, no legal or financial advice and clear emergency wording for violence, self-harm risk, children at risk and medical emergencies.
+- Added one restrained four-path next-step section to the alcohol pillar, alcohol warning signs, Treatment Guidance and Contact.
+- Linked the new page from Knowledge Center, the alcohol pillar, alcohol warning signs and Treatment Guidance, and added the canonical URL to `sitemap.xml`.
+- Added Article, BreadcrumbList and FAQPage schema with visible FAQ content matching the schema.
+- Reused existing CSS, JavaScript, article layout, cards, FAQ, footer and WhatsApp functionality; no new assets or libraries were added.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
+
 ## Sprint 4.3 - Professional choice guide and trust conversion path (2026-07-26)
 - Created `knowledge/how-to-choose-addiction-professional.html`, a focused Hebrew trust page for visitors comparing professionals, private support, public services and treatment options.
 - Differentiated the new page from the existing `articles/how-to-choose-addiction-help` article: the new page focuses on professional selection, role clarity, boundaries, first-call expectations, private/public comparison and provider red flags.

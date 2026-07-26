@@ -1,4 +1,14 @@
 ﻿# Project Roadmap
+## Sprint 4.4 - Family Journey Foundation: Talking About Alcohol (2026-07-26)
+- Added `knowledge/talking-to-family-about-alcohol.html` as the first dedicated family journey inside the alcohol cluster.
+- The page answers the family-intent question: how to talk with a spouse, parent, adult child, sibling or close family member who drinks too much.
+- Strengthened the alcohol journey by connecting self-education, warning signs, family conversation, treatment guidance and contact into one calm route.
+- Added practical family guidance around timing, place, opening language, boundaries, denial, anger, stopping a conversation and safety escalation.
+- Kept the page non-diagnostic and non-medical: no detox advice, no medication instructions, no recovery promises, no legal or financial advice and no emergency-service substitution.
+- Reused existing article, card, FAQ, footer, WhatsApp and mobile patterns with no new assets, libraries or global styling.
+- Future AI grounding benefit: creates a clear approved source for family questions about alcohol-related concern, conversation preparation, boundaries and safety.
+- Pending: Amos review, then optional commit, push, deployment, production QA and indexing only after explicit approval.
+
 ## Sprint 4.3 - Professional Choice Guide + Trust Conversion Optimization (2026-07-26)
 - Added `knowledge/how-to-choose-addiction-professional.html` as a trust and decision-support page for visitors comparing providers, private support, public services, medical care, rehabilitation programs, family guidance and community support.
 - Positioned the page as a professional-choice guide rather than another general addiction article, with clear sections on defining the need, role boundaries, medical/psychiatric review, private/public comparison, provider red flags, first-call expectations and fit checking.
