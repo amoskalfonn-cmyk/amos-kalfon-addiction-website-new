@@ -1,0 +1,313 @@
+{
+  "createdAt": "2026-07-26T13:12:10.470Z",
+  "base": "http://127.0.0.1:8783",
+  "results": [
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\01-page-desktop.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\02-page-mobile.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\03-page-320px.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html",
+      "viewport": "320x568",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\04-choice-criteria.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html#credentials",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\05-private-public-comparison.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html#private-public",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\06-provider-red-flags.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html#red-flags",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\07-first-conversation.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html#first-call",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\08-conversion-section.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html#conversion",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\09-faq.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html#faq",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\10-knowledge-center-entry.png",
+      "url": "/knowledge-center.html",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\11-tablet.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html",
+      "viewport": "768x1024",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\12-final-regression-home.png",
+      "url": "/",
+      "viewport": "1366x900",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\13-final-regression-treatment-guidance.png",
+      "url": "/services/treatment-guidance.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\14-about-regression.png",
+      "url": "/about.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\15-trust-center-regression.png",
+      "url": "/trust-center.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\16-contact-regression.png",
+      "url": "/contact.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\17-for-professionals-regression.png",
+      "url": "/for-professionals.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\18-qa-regression.png",
+      "url": "/questions-and-answers.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\19-alcohol-pillar-regression.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "viewport": "390x844",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    },
+    {
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-3-professional-choice-trust\\20-zoom-200-compact.png",
+      "url": "/knowledge/how-to-choose-addiction-professional.html",
+      "viewport": "683x450",
+      "consoleErrors": [],
+      "failedResponses": [],
+      "horizontalOverflow": false,
+      "h1Count": 1,
+      "whatsAppLinks": [
+        "https://wa.me/972546330009",
+        "https://wa.me/972546330009"
+      ],
+      "aiLauncherCount": 0
+    }
+  ],
+  "staticValidation": {
+    "visibleHebrewWordCount": 2305,
+    "titleCount": 1,
+    "metaDescriptionCount": 1,
+    "h1Count": 1,
+    "faqVisibleCount": 4,
+    "faqSchemaCount": 4,
+    "sitemapOccurrences": 1,
+    "storageAndSecretScanExit": 1,
+    "sourceStatusCodes": {
+      "NIAAA recommended questions": 200,
+      "NIAAA navigator": 200,
+      "SAMHSA FindTreatment": 200,
+      "SAMHSA TIP 39 via NCBI": 200,
+      "NHS getting help": 200
+    },
+    "mobileNav": {
+      "afterClickExpanded": "true",
+      "afterEscapeExpanded": "false"
+    },
+    "cssChanged": false,
+    "newJsDependencies": 0,
+    "newHeavyMedia": 0
+  }
+}

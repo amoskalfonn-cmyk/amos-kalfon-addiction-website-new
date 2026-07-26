@@ -1,4 +1,16 @@
-# Changelog
+﻿# Changelog
+## Sprint 4.3 - Professional choice guide and trust conversion path (2026-07-26)
+- Created `knowledge/how-to-choose-addiction-professional.html`, a focused Hebrew trust page for visitors comparing professionals, private support, public services and treatment options.
+- Differentiated the new page from the existing `articles/how-to-choose-addiction-help` article: the new page focuses on professional selection, role clarity, boundaries, first-call expectations, private/public comparison and provider red flags.
+- Added balanced private/public-care guidance without presenting private care as automatically better or public care as inferior.
+- Preserved Amos's approved role boundaries: guidance, consulting, accompaniment and referral orientation only; no diagnosis, medical treatment, psychotherapy, psychiatric care, medical detox, legal advice, financial advice or emergency service.
+- Added one restrained conversion section near the end with three calm routes: Treatment Guidance, About and Contact.
+- Added internal links from Knowledge Center, Treatment Guidance, the alcohol pillar and the gambling pillar, and added the preferred canonical URL to `sitemap.xml`.
+- Validated claims against NIAAA, SAMHSA/NCBI, FindTreatment.gov and NHS sources; softened wording where it could imply treatment selection, diagnosis or guaranteed outcomes.
+- Preserved existing design, CSS, JavaScript, AI state, WhatsApp links, contact links and global navigation.
+- Added the strategic planning rule: after every two major content sprints, schedule one UX, trust, navigation or conversion-focused sprint before continuing high-volume content expansion.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
+
 ## Sprint 4.2 - Alcohol warning signs journey and conversion path (2026-07-26)
 - Created `knowledge/alcohol-warning-signs.html`, a focused Hebrew supporting article for visitors asking whether they may be drinking too much.
 - Built the article around a single user journey: initial concern, practical warning signs, safety boundaries and four calm next-step paths.

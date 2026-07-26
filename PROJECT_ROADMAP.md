@@ -1,4 +1,14 @@
-# Project Roadmap
+﻿# Project Roadmap
+## Sprint 4.3 - Professional Choice Guide + Trust Conversion Optimization (2026-07-26)
+- Added `knowledge/how-to-choose-addiction-professional.html` as a trust and decision-support page for visitors comparing providers, private support, public services, medical care, rehabilitation programs, family guidance and community support.
+- Positioned the page as a professional-choice guide rather than another general addiction article, with clear sections on defining the need, role boundaries, medical/psychiatric review, private/public comparison, provider red flags, first-call expectations and fit checking.
+- Added one restrained conversion section that routes visitors to Treatment Guidance, About or Contact without pressure, promises or a lead form inside the article.
+- Connected the page from Knowledge Center, Treatment Guidance, the alcohol pillar and the gambling pillar, and added the canonical URL to `sitemap.xml`.
+- Preserved service boundaries, YMYL safety language, existing design patterns, AI-disabled state, WhatsApp functionality and global navigation.
+- Source validation used NIAAA, SAMHSA/NCBI, FindTreatment.gov and NHS resources; no commercial provider pages were used as evidence for provider selection.
+- Strategic rule added: after every two major content sprints, schedule one UX, trust, navigation or conversion-focused sprint before continuing high-volume content expansion.
+- Pending: Amos review, then optional commit, push, deployment, production QA and indexing only after explicit approval.
+
 ## Sprint 4.2 - Alcohol Warning Signs Journey (2026-07-26)
 - Added `knowledge/alcohol-warning-signs.html` as the first supporting article in the alcohol authority cluster.
 - Focused the page on one visitor question: "Maybe I drink too much?" and routed the reader toward learning, family support, treatment guidance or contact without pressure.
