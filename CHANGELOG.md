@@ -1,4 +1,14 @@
-﻿# Changelog
+# Changelog
+## Sprint 4.5 - Where Do I Start guided entry page (2026-07-26)
+- Created `start-here.html` as a site-wide guided entry page for visitors who are unsure where to begin.
+- Added four visible route cards near the top: self-concern, family concern, professional referral and learning before deciding.
+- Routed each audience to only existing live pages, including the gambling pillar, alcohol pillar, warning-sign pages, family pages, Treatment Guidance, Knowledge Center, Trust Center and Contact.
+- Added one restrained safety note and one restrained contact section near the end, without diagnosis, medical advice, emergency-service claims or pressure.
+- Added a small homepage entry point and a Knowledge Center orientation block; the main navigation was intentionally left unchanged to avoid overload.
+- Added a Treatment Guidance bridge card for visitors who need route selection before a guidance call.
+- Added WebPage and BreadcrumbList schema, a self-referencing canonical URL, Open Graph and Twitter metadata, and the preferred URL in `sitemap.xml`.
+- Documented the future content-cluster structure around personal, family and treatment-decision journeys.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
 ## Sprint 4.4 - Alcohol family conversation journey (2026-07-26)
 - Created `knowledge/talking-to-family-about-alcohol.html`, a Hebrew family-journey article for spouses, parents, adult children, siblings and close family members worried about a person who drinks too much.
 - Added calm, practical guidance for preparing a first conversation, choosing time and place, opening without accusation, handling denial or anger, setting boundaries and knowing when to stop the conversation.

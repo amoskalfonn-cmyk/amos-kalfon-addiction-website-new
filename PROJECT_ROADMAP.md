@@ -1,4 +1,12 @@
-﻿# Project Roadmap
+# Project Roadmap
+## Sprint 4.5 - Where Do I Start Guided Entry Page (2026-07-26)
+- Added `start-here.html` as the central site-wide entry point for visitors who do not yet know whether they need education, family guidance, professional referral context or direct contact.
+- Kept the page intentionally navigational rather than article-like: four audience route cards, short explanations, existing live destinations only and one restrained contact section.
+- Connected the page from the homepage, Knowledge Center and Treatment Guidance without adding it to the main navigation, so the global menu remains focused and uncluttered.
+- Strengthened user-journey clarity before future content expansion by separating three durable route families: personal concern, family concern and treatment-decision support.
+- Future content-cluster structure: personal pages should answer "what is happening to me and when should I pause?"; family pages should answer "what can I do safely without coercion?"; treatment-decision pages should answer "how do I choose the right kind of help?".
+- Future AI grounding benefit: the page can become a high-confidence routing source for the AI guide because it maps visitor intent to approved canonical pages without making diagnosis or treatment claims.
+- Pending: Amos review, then optional commit, push, deployment, production QA and indexing only after explicit approval.
 ## Sprint 4.4 - Family Journey Foundation: Talking About Alcohol (2026-07-26)
 - Added `knowledge/talking-to-family-about-alcohol.html` as the first dedicated family journey inside the alcohol cluster.
 - The page answers the family-intent question: how to talk with a spouse, parent, adult child, sibling or close family member who drinks too much.

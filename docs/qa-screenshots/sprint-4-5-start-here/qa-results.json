@@ -1,0 +1,181 @@
+{
+  "generatedAt": "2026-07-26T14:44:33.385Z",
+  "base": "http://127.0.0.1:61140",
+  "visibleHebrewWords": 900,
+  "metadata": {
+    "titleCount": 1,
+    "metaDescriptionCount": 1,
+    "h1Count": 1,
+    "canonicalCount": 1,
+    "jsonLdCount": 2,
+    "jsonLdValid": true
+  },
+  "routeCards": [
+    {
+      "text": "אני מתמודד בעצמיסימני אזהרה, דפוסי שתייה או הימורים, והבנה רגועה של הצעד הבא.",
+      "href": "#self-route"
+    },
+    {
+      "text": "אני מודאג מבן משפחהאיך לדבר, מה לא בשליטתכם, גבולות, בטיחות ושיחה בלי כפייה.",
+      "href": "#family-route"
+    },
+    {
+      "text": "אני איש מקצועשקיפות גבולות השירות, הפניה אחראית, אמון ומידע מקצועי לקריאה.",
+      "href": "#professional-route"
+    },
+    {
+      "text": "אני רוצה להבין לפני שאני מחליטמרכז ידע, שאלות נפוצות, עמודי יסוד ובדיקת אמינות לפני פנייה.",
+      "href": "#information-route"
+    }
+  ],
+  "screenshots": [
+    {
+      "name": "01-page-desktop.png",
+      "url": "/start-here.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "overflow": false
+    },
+    {
+      "name": "02-page-mobile.png",
+      "url": "/start-here.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "overflow": false
+    },
+    {
+      "name": "03-page-320px.png",
+      "url": "/start-here.html",
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "selector": null,
+      "overflow": false
+    },
+    {
+      "name": "04-primary-route-cards.png",
+      "url": "/start-here.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#routes",
+      "overflow": false
+    },
+    {
+      "name": "05-self-route.png",
+      "url": "/start-here.html#self-route",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#self-route",
+      "overflow": false
+    },
+    {
+      "name": "06-family-route.png",
+      "url": "/start-here.html#family-route",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#family-route",
+      "overflow": false
+    },
+    {
+      "name": "07-professional-route.png",
+      "url": "/start-here.html#professional-route",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#professional-route",
+      "overflow": false
+    },
+    {
+      "name": "08-information-route.png",
+      "url": "/start-here.html#information-route",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#information-route",
+      "overflow": false
+    },
+    {
+      "name": "09-safety-note.png",
+      "url": "/start-here.html#safety-note",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#safety-note",
+      "overflow": false
+    },
+    {
+      "name": "10-contact-section.png",
+      "url": "/start-here.html#contact-start",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#contact-start",
+      "overflow": false
+    },
+    {
+      "name": "11-homepage-entry.png",
+      "url": "/index.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": ".first-step",
+      "overflow": false
+    },
+    {
+      "name": "12-knowledge-center-entry.png",
+      "url": "/knowledge-center.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#start-here-kc",
+      "overflow": false
+    },
+    {
+      "name": "13-tablet.png",
+      "url": "/start-here.html",
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "selector": null,
+      "overflow": false
+    },
+    {
+      "name": "14-final-regression.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "overflow": false
+    }
+  ],
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenInternalLinks": [],
+  "mobileNavOpened": true,
+  "startUsesStorage": [],
+  "overflowFailures": [],
+  "aiGuideScriptPresent": true,
+  "paidApiRequestsPerformed": false
+}
