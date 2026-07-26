@@ -1,0 +1,211 @@
+{
+  "wordCount": 4500,
+  "shots": [
+    {
+      "fileName": "01-article-desktop.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\01-article-desktop.png"
+    },
+    {
+      "fileName": "02-article-mobile.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\02-article-mobile.png"
+    },
+    {
+      "fileName": "03-article-320px.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "selector": null,
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\03-article-320px.png"
+    },
+    {
+      "fileName": "04-route-map-desktop.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#route-map",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\04-route-map-desktop.png"
+    },
+    {
+      "fileName": "05-route-map-mobile.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": "#route-map",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\05-route-map-mobile.png"
+    },
+    {
+      "fileName": "06-table-of-contents.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": ".article-toc",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\06-table-of-contents.png"
+    },
+    {
+      "fileName": "07-medical-safety-callout.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#withdrawal-safety",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\07-medical-safety-callout.png"
+    },
+    {
+      "fileName": "08-faq.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#faq",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\08-faq.png"
+    },
+    {
+      "fileName": "09-knowledge-center-card.png",
+      "url": "/knowledge-center.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "a[href=\"knowledge/problematic-alcohol-use-guide.html\"]",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\09-knowledge-center-card.png"
+    },
+    {
+      "fileName": "10-tablet.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "selector": null,
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\10-tablet.png"
+    },
+    {
+      "fileName": "11-related-reading.png",
+      "url": "/knowledge/problematic-alcohol-use-guide.html",
+      "status": 200,
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#related",
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\11-related-reading.png"
+    },
+    {
+      "fileName": "12-final-regression-home.png",
+      "url": "/index.html",
+      "status": 200,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\12-final-regression-home.png"
+    },
+    {
+      "fileName": "13-final-regression-knowledge-center.png",
+      "url": "/knowledge-center.html",
+      "status": 200,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "h1": 1,
+      "overflow": false,
+      "consoleErrors": [],
+      "screenshot": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-1-alcohol-pillar\\13-final-regression-knowledge-center.png"
+    }
+  ],
+  "passed": true,
+  "wordCountUpdatedAfterFinalCopy": true,
+  "screenshots": [
+    "01-article-desktop.png",
+    "02-article-mobile.png",
+    "03-article-320px.png",
+    "04-route-map-desktop.png",
+    "05-route-map-mobile.png",
+    "06-table-of-contents.png",
+    "07-medical-safety-callout.png",
+    "08-faq.png",
+    "09-knowledge-center-card.png",
+    "10-tablet.png",
+    "11-related-reading.png",
+    "12-final-regression-home.png",
+    "13-final-regression-knowledge-center.png"
+  ],
+  "screenshotCount": 13,
+  "viewportsTested": [
+    "1366x900",
+    "768x1024",
+    "390x844",
+    "320x568"
+  ]
+}

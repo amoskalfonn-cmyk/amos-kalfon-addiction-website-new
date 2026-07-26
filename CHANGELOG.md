@@ -1,4 +1,13 @@
 # Changelog
+## Sprint 4.1 - Alcohol cluster foundation pillar page (2026-07-26)
+- Created `knowledge/problematic-alcohol-use-guide.html` as the flagship Hebrew pillar page for the alcohol authority cluster.
+- Covered problematic drinking, alcohol addiction/dependence, early and advanced warning signs, family impact, work and sleep, treatment options, community support and careful help selection.
+- Added a prominent audience route map and internal table of contents using existing article and related-card components.
+- Added clear medical-safety boundaries around alcohol withdrawal: no abrupt-stop instruction, no tapering schedule, no medication guidance and proportionate urgent warning signs.
+- Added Article, BreadcrumbList and FAQPage schema, with visible FAQ matching the schema.
+- Added the new pillar page to `knowledge-center.html` and `sitemap.xml` using the preferred `.html` canonical URL only.
+- Validated claims against WHO, NIAAA, NHS, CDC and Israeli Ministry of Health/public-health sources.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
 ## Sprint 3.6 - Gambling cluster audit and optimization (2026-07-24)
 - Audited the full gambling authority cluster for metadata uniqueness, canonicals, schema, FAQ consistency, broken links, duplicate content, internal linking, navigation, accessibility and technical risks.
 - Improved `knowledge/gambling.html` so the gambling topic hub routes visitors into the current authority cluster instead of relying on the older short article.
@@ -20,7 +29,7 @@
 
 ## Sprint 3.4 - Sports gambling guide and self-reflection questionnaire (2026-07-22)
 - Created `knowledge/sports-gambling-addiction-guide.html`, a Hebrew gambling-cluster article about sports betting, live betting, betting apps, perceived control, chasing losses, peer-group influence, warning signs and when to pause.
-- Added a 14-question client-side self-reflection questionnaire titled `האם דפוס ההימורים שלי מצדיק פנייה לייעוץ?`.
+- Added a 14-question client-side self-reflection questionnaire titled `׳”׳׳ ׳“׳₪׳•׳¡ ׳”׳”׳™׳׳•׳¨׳™׳ ׳©׳׳™ ׳׳¦׳“׳™׳§ ׳₪׳ ׳™׳™׳” ׳׳™׳™׳¢׳•׳¥?`.
 - Kept questionnaire output educational and non-diagnostic: no addiction label, no medical claim, no treatment promise and no replacement for professional assessment.
 - Preserved privacy by keeping all questionnaire state in browser memory only, with no cookies, storage, analytics event, WhatsApp trigger or network request.
 - Added Article, BreadcrumbList and FAQPage schema with a self-referencing canonical URL, Open Graph and Twitter metadata.
@@ -44,7 +53,7 @@
 - Production validation remains pending the next approved release because no deploy was performed.
 
 ## Sprint 3.2.1 - Trust Center footer text visibility fix (2026-07-22)
-- Fixed low-contrast body text in two Trust Center footer cards: `עמוס כלפון` and `השאירו פנייה`.
+- Fixed low-contrast body text in two Trust Center footer cards: `׳¢׳׳•׳¡ ׳›׳׳₪׳•׳` and `׳”׳©׳׳™׳¨׳• ׳₪׳ ׳™׳™׳”`.
 - Preserved the existing footer structure, links, button styling, hover behavior, layout, branding and colours outside the affected body text.
 - Improved desktop, tablet and mobile readability without changing unrelated pages or global footer styling.
 - Commit, push, deploy and ZIP creation remain pending Amos approval.
@@ -231,7 +240,7 @@
 
 ## 2026-07-20 - Sprint 2B.2: Local website guide UI prototype
 
-- Added a local-only UI prototype for `עוזר ההתמצאות באתר` on the approved QA pages.
+- Added a local-only UI prototype for `׳¢׳•׳–׳¨ ׳”׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨` on the approved QA pages.
 - Added predefined audience routes, source-linked answers, unknown fallback, safety escalation, medical refusal, loading, unavailable, error, reset, and close states.
 - Added privacy-safe client behavior with no API, no network chat calls, no storage, no analytics, no Netlify Function, and no external dependencies.
 - Added dedicated UI QA documentation at `docs/AI_WEBSITE_GUIDE_UI_QA.md`.
@@ -240,11 +249,11 @@
 
 ## 2026-07-20 - Sprint 2B.2.1: Polish local website guide UX
 
-- Redesigned the opening experience for `עוזר AI להתמצאות באתר`.
+- Redesigned the opening experience for `׳¢׳•׳–׳¨ AI ׳׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨`.
 - Added four primary audience cards for self, family, professionals, and free questions.
 - Rewrote predefined local responses into more natural, human-readable answer cards.
 - Added source-card presentation, full-page links, and related follow-up suggestions.
-- Added a local `כותב...` loading state and subtle reduced-motion-safe transitions.
+- Added a local `׳›׳•׳×׳‘...` loading state and subtle reduced-motion-safe transitions.
 - Added limited in-memory context for current-session route/topic follow-ups.
 - Improved emergency and medical-boundary presentation with dedicated cards.
 - Reduced the launcher size while preserving accessibility and mobile usability.
@@ -255,7 +264,7 @@
 
 - Improved opening and privacy text contrast so the copy reads clearly and no longer appears disabled.
 - Fixed mobile footer/content separation with independent dialog scrolling and compact-height spacing.
-- Renamed the assistant to `עוזר AI להתמצאות באתר`.
+- Renamed the assistant to `׳¢׳•׳–׳¨ AI ׳׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨`.
 - Updated related RTL and accessibility labels.
 - No AI API, API key, Netlify Function, package, analytics, storage, deployment, commit, push, or ZIP was added.
 
@@ -297,7 +306,7 @@
 
 ## Added
 - Added `knowledge/gambling-debt-recovery-guide.html`, a new Hebrew YMYL-safe article about exiting gambling-related debt cycles.
-- Added a client-side-only educational `מחשבון עלות ההימורים` inside the article with no storage, no cookies, no network calls and no lead capture.
+- Added a client-side-only educational `׳׳—׳©׳‘׳•׳ ׳¢׳׳•׳× ׳”׳”׳™׳׳•׳¨׳™׳` inside the article with no storage, no cookies, no network calls and no lead capture.
 - Added Article, BreadcrumbList and visible-FAQ-aligned FAQPage structured data for the new page.
 - Added the new canonical URL to `sitemap.xml`.
 

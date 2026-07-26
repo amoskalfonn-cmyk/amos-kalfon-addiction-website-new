@@ -1,4 +1,11 @@
 # Project Roadmap
+## Sprint 4.1 - Alcohol Authority Cluster Foundation (2026-07-26)
+- Started the alcohol authority cluster with `knowledge/problematic-alcohol-use-guide.html` as the central pillar page.
+- Positioned the page around respectful language: problematic drinking, drinking pattern, dependence and alcohol-related harm, without relying on stigmatizing labels.
+- Added an audience route map for self-concern, family concern, treatment options and general learning.
+- Preserved medical safety boundaries around alcohol withdrawal and emphasized medical assessment when dependence or withdrawal risk may exist.
+- Connected the page from Knowledge Center and sitemap while preserving existing design, navigation, AI state and service boundaries.
+- Pending: Amos review, then commit, push, deployment, production QA and optional indexing queue update only after explicit approval.
 ## Sprint 3.6 - Gambling Cluster Audit and Optimization (2026-07-24)
 - Completed a quality audit of the gambling authority cluster after Sprint 3.5.
 - Confirmed unique metadata, canonicals and schema across the main cluster, with no broken local links found in the reviewed pages.
@@ -121,7 +128,7 @@
 
 Status: implemented locally for limited QA pages only.
 
-- Added the restrained floating entry point `עזרה בהתמצאות באתר`.
+- Added the restrained floating entry point `׳¢׳–׳¨׳” ׳‘׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨`.
 - Implemented predefined local flows for visitors, family members, professionals, and keyword-based questions.
 - Implemented visible safety, medical refusal, unknown fallback, loading, local error, unavailable demo, reset, and close states.
 - Added source links to existing website pages for every substantive answer.
@@ -135,7 +142,7 @@ Next: Sprint 2B.3 may connect a server-side grounded AI flow only after explicit
 
 Status: implemented locally and awaiting visual approval.
 
-- Polished the existing local-only prototype for `עוזר AI להתמצאות באתר`.
+- Polished the existing local-only prototype for `׳¢׳•׳–׳¨ AI ׳׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨`.
 - Added a warmer opening experience, four audience cards, structured answer cards, source areas, full-page links, and follow-up suggestions.
 - Added local typing/loading feedback, reduced-motion-safe transitions, improved fallback, safety, and medical-boundary cards.
 - Added limited in-memory context for predefined navigation topics only.
@@ -151,7 +158,7 @@ Status: implemented locally and awaiting final visual approval.
 
 - Improved opening and privacy text readability.
 - Fixed mobile content/footer separation and internal scrolling behavior.
-- Renamed the assistant to `עוזר AI להתמצאות באתר`.
+- Renamed the assistant to `׳¢׳•׳–׳¨ AI ׳׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨`.
 - Kept the prototype local-only with predefined responses.
 - No AI integration, API, storage, analytics, deployment, commit, push, or ZIP was added.
 
@@ -159,7 +166,7 @@ Status: implemented locally and awaiting final visual approval.
 
 Status: implemented locally and awaiting final visual approval.
 
-- Redesigned the launcher as a restrained AI navigation-assistant entry point with `עוזר AI` and `התמצאות באתר` labels.
+- Redesigned the launcher as a restrained AI navigation-assistant entry point with `׳¢׳•׳–׳¨ AI` and `׳”׳×׳׳¦׳׳•׳× ׳‘׳׳×׳¨` labels.
 - Integrated the local guide across all 49 public HTML pages using shared root-relative CSS and JS assets.
 - Kept one source of truth in `css/ai-website-guide.css` and `js/ai-website-guide.js`.
 - Preserved predefined local responses only; no AI connection was added.
