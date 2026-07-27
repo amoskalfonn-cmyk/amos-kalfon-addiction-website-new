@@ -1,4 +1,16 @@
 # Changelog
+## Sprint 4.6 - Conversion and navigation optimization (2026-07-27)
+- Audited the highest-value conversion entry points: Home, Start Here, Treatment Guidance, Contact, About, Trust Center, Knowledge Center, For Professionals, the alcohol and gambling pillars, alcohol warning signs, alcohol family journey and the professional choice guide.
+- Strengthened the homepage first-step line so unsure visitors can choose either `start-here.html` or `services/treatment-guidance.html`.
+- Re-routed one early Knowledge Center generic contact path to Treatment Guidance so visitors can understand options before direct contact.
+- Refined the Start Here final CTA from a generic details request to a calmer first-call action.
+- Added a concise "לפני שפונים" section to `contact.html` with three self-qualification routes: Start Here, Treatment Guidance and For Professionals.
+- Clarified Contact page WhatsApp and form submit wording to support qualified initial enquiries without requesting sensitive detail.
+- Added a restrained professional contact path to `for-professionals.html` with Trust Center as the secondary route.
+- Created `docs/CTA_AND_CONVERSION_STANDARD.md` and `docs/CONVERSION_AUDIT_REPORT.md`.
+- Preserved existing branding, navigation structure, WhatsApp links, AI-disabled state, forms, JavaScript, schema and canonical URLs.
+- Commit, push, deploy, ZIP creation and Google indexing remain pending Amos approval.
+
 ## Sprint 4.5 - Where Do I Start guided entry page (2026-07-26)
 - Created `start-here.html` as a site-wide guided entry page for visitors who are unsure where to begin.
 - Added four visible route cards near the top: self-concern, family concern, professional referral and learning before deciding.

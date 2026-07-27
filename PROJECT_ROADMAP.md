@@ -1,4 +1,13 @@
 # Project Roadmap
+## Sprint 4.6 - Conversion and Navigation Optimization (2026-07-27)
+- Audited the site's main qualified-enquiry routes across the homepage, Start Here, Treatment Guidance, Contact, About, Trust Center, Knowledge Center, For Professionals and the active alcohol/gambling journey pages.
+- Strengthened the three durable visitor journeys: personal concern, family concern and professional referral, without adding pressure, diagnosis, promises or dark-pattern CTAs.
+- Improved the homepage first-step route, Knowledge Center early orientation, Start Here final CTA, Contact page pre-contact routing and For Professionals enquiry path.
+- Added a documented CTA and conversion standard so future pages use consistent, ethical routing language and preserve Amos's service boundaries.
+- Preserved existing branding, layouts, navigation, forms, WhatsApp links, AI-disabled state, schema, canonicals and page performance assumptions.
+- Future optimization: after production data is reviewed, evaluate whether Start Here should become a more prominent navigation item or remain a contextual route.
+- Pending: Amos review, then optional commit, push, deployment and production QA. No Google indexing request should be made until explicitly approved.
+
 ## Sprint 4.5 - Where Do I Start Guided Entry Page (2026-07-26)
 - Added `start-here.html` as the central site-wide entry point for visitors who do not yet know whether they need education, family guidance, professional referral context or direct contact.
 - Kept the page intentionally navigational rather than article-like: four audience route cards, short explanations, existing live destinations only and one restrained contact section.

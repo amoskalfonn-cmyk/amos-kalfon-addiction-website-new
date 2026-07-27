@@ -1,0 +1,311 @@
+{
+  "generatedAt": "2026-07-27T07:19:50.915Z",
+  "base": "http://127.0.0.1:61372/",
+  "pages": {
+    "home": {
+      "rel": "index.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 1,
+      "jsonLdErrors": []
+    },
+    "start": {
+      "rel": "start-here.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 2,
+      "jsonLdErrors": []
+    },
+    "guidance": {
+      "rel": "services/treatment-guidance.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 3,
+      "jsonLdErrors": []
+    },
+    "contact": {
+      "rel": "contact.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 2,
+      "jsonLdErrors": []
+    },
+    "knowledge": {
+      "rel": "knowledge-center.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 2,
+      "jsonLdErrors": []
+    },
+    "about": {
+      "rel": "about.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 2,
+      "jsonLdErrors": []
+    },
+    "trust": {
+      "rel": "trust-center.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 2,
+      "jsonLdErrors": []
+    },
+    "pros": {
+      "rel": "for-professionals.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 2,
+      "jsonLdErrors": []
+    },
+    "alcoholPillar": {
+      "rel": "knowledge/problematic-alcohol-use-guide.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 3,
+      "jsonLdErrors": []
+    },
+    "gamblingPillar": {
+      "rel": "knowledge/gambling.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 3,
+      "jsonLdErrors": []
+    },
+    "alcoholWarning": {
+      "rel": "knowledge/alcohol-warning-signs.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 3,
+      "jsonLdErrors": []
+    },
+    "alcoholFamily": {
+      "rel": "knowledge/talking-to-family-about-alcohol.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 3,
+      "jsonLdErrors": []
+    },
+    "professionalChoice": {
+      "rel": "knowledge/how-to-choose-addiction-professional.html",
+      "exists": true,
+      "titleCount": 1,
+      "descCount": 1,
+      "h1Count": 1,
+      "jsonLdBlocks": 3,
+      "jsonLdErrors": []
+    }
+  },
+  "screenshots": [
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\02-home-desktop.png",
+      "rel": "index.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\03-home-mobile.png",
+      "rel": "index.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\04-start-here-desktop.png",
+      "rel": "start-here.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\05-start-here-mobile.png",
+      "rel": "start-here.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\06-treatment-guidance.png",
+      "rel": "services/treatment-guidance.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\07-contact-desktop.png",
+      "rel": "contact.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\08-contact-mobile.png",
+      "rel": "contact.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\09-trust-path.png",
+      "rel": "trust-center.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\10-professional-path.png",
+      "rel": "for-professionals.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#professional-contact-path",
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\11-family-path.png",
+      "rel": "start-here.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#family-route",
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\12-self-path.png",
+      "rel": "start-here.html",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "selector": "#self-route",
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\13-320px.png",
+      "rel": "start-here.html",
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    },
+    {
+      "file": "C:\\Users\\amosk\\OneDrive\\Desktop\\Amos-Addiction-Website\\amos-kalfon-addiction-website\\docs\\qa-screenshots\\sprint-4-6-conversion-optimization\\14-final-regression.png",
+      "rel": "knowledge-center.html",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "selector": null,
+      "consoleErrors": [],
+      "failedRequests": [],
+      "horizontalOverflow": false
+    }
+  ],
+  "linkChecks": {
+    "index.html": [],
+    "start-here.html": [],
+    "services/treatment-guidance.html": [],
+    "contact.html": [],
+    "knowledge-center.html": [],
+    "about.html": [],
+    "trust-center.html": [],
+    "for-professionals.html": [],
+    "knowledge/problematic-alcohol-use-guide.html": [],
+    "knowledge/gambling.html": [],
+    "knowledge/alcohol-warning-signs.html": [],
+    "knowledge/talking-to-family-about-alcohol.html": [],
+    "knowledge/how-to-choose-addiction-professional.html": []
+  },
+  "whatsapp": {
+    "homeHrefs": [
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009",
+      "https://wa.me/972546330009"
+    ]
+  },
+  "ai": {
+    "enabledChanged": false,
+    "paidApiCalled": false
+  },
+  "nav": {
+    "mobileButtonSeen": true
+  }
+}
