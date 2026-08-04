@@ -388,3 +388,10 @@
 - Validated calculator input handling for empty values, decimals, zero, negative values, invalid text and oversized values.
 - Planned desktop, tablet, mobile and 320px visual QA artifacts under `docs/qa-screenshots/sprint-3-3-gambling-debt-calculator/`.
 - No AI activation, paid OpenAI request, commit, push, deploy or ZIP was performed.
+
+## Sprint 5.3 - Pornography Addiction Supporting Article
+- Added the Hebrew article `איך יודעים אם צפייה בפורנו הפכה להתמכרות?` at `/articles/how-to-know-pornography-addiction`.
+- Added SEO metadata, canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 8-question FAQ schema.
+- Added contextual inbound links from the Articles index, Pornography Knowledge category and Pornography Addiction pillar page.
+- Added sitemap and clean-URL redirect coverage for the new article.
+- Preserved the existing design system, JavaScript, navigation, WhatsApp links and sitewide functionality.

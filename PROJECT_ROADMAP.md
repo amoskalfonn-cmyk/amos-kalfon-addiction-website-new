@@ -291,3 +291,9 @@ Status: implemented locally and awaiting Amos review.
 - No AI activation, paid OpenAI request, commit, push, deploy or ZIP was performed.
 
 Next: Sprint 3.4 should expand the gambling cluster with a family-focused page on what to do when a parent or partner discovers hidden gambling debt.
+
+## Sprint 5.3 - Pornography Addiction Topic Cluster Article
+- Created the first supporting article for the `/pornography-addiction/` pillar: `/articles/how-to-know-pornography-addiction`.
+- Strengthened the pornography addiction topical cluster with natural links from the pillar, category and articles index.
+- Included 8 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
+- Status: implemented and ready for QA/release validation.
