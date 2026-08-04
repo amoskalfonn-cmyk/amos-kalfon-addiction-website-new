@@ -1,4 +1,11 @@
 # Project Roadmap
+## Sprint 5.2 - Clean URL Canonicalization (2026-08-04)
+- Standardized the website on clean canonical URLs without `.html`.
+- Added page-level 301 redirect coverage for deprecated `.html` routes, including `/index.html` and `/pornography-addiction/index.html`.
+- Normalized internal links, canonical metadata, Open Graph URLs, structured-data URLs and sitemap entries to the selected clean URL policy.
+- Kept content, layout, branding, robots.txt, AI state and existing functionality unchanged.
+- Pending: production redirect validation after automatic Netlify deployment.
+
 ## Sprint 5.0 - Pornography Addiction Pillar Page (2026-08-04)
 - Added `/pornography-addiction/` as a high-authority Hebrew pillar page for pornography addiction search intent.
 - Positioned the page as a deeper authority asset than the existing short article and category page, with CBT, treatment process, relationship impact, FAQ and clear service boundaries.

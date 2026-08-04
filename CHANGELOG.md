@@ -1,4 +1,12 @@
 # Changelog
+## Sprint 5.2 - Sitewide clean URL canonicalization (2026-08-04)
+- Selected clean URLs without `.html` as the sitewide canonical URL policy.
+- Added explicit Netlify 301 redirects from deprecated `.html` URLs to clean canonical URLs.
+- Normalized public-page canonicals, Open Graph URLs, structured-data URL references and internal page links to clean URLs.
+- Updated `sitemap.xml` to list clean canonical URLs only.
+- Preserved page content, design, JavaScript behavior, robots.txt and existing production functionality.
+- Deployment status: pending automatic Netlify deployment after commit and push.
+
 ## Sprint 5.0 - Pornography addiction SEO pillar page (2026-08-04)
 - Created `/pornography-addiction/` as a Hebrew SEO pillar page with 3,078 visible Hebrew words.
 - Added SEO metadata, canonical URL, Open Graph, Twitter tags, Article schema, BreadcrumbList schema and FAQPage schema.
