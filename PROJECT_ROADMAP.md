@@ -1,4 +1,11 @@
 # Project Roadmap
+## Sprint 5.0 - Pornography Addiction Pillar Page (2026-08-04)
+- Added `/pornography-addiction/` as a high-authority Hebrew pillar page for pornography addiction search intent.
+- Positioned the page as a deeper authority asset than the existing short article and category page, with CBT, treatment process, relationship impact, FAQ and clear service boundaries.
+- Integrated discoverability through `sitemap.xml` and a small set of contextual inbound links from existing relevant pages only.
+- Preserved existing design, navigation, JavaScript, AI state, forms, WhatsApp behavior and site-wide layout.
+- Pending: commit, push and production validation; deployment should only be reported after it actually occurs.
+
 ## Sprint 4.6 - Conversion and Navigation Optimization (2026-07-27)
 - Audited the site's main qualified-enquiry routes across the homepage, Start Here, Treatment Guidance, Contact, About, Trust Center, Knowledge Center, For Professionals and the active alcohol/gambling journey pages.
 - Strengthened the three durable visitor journeys: personal concern, family concern and professional referral, without adding pressure, diagnosis, promises or dark-pattern CTAs.

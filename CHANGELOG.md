@@ -1,4 +1,11 @@
 # Changelog
+## Sprint 5.0 - Pornography addiction SEO pillar page (2026-08-04)
+- Created `/pornography-addiction/` as a Hebrew SEO pillar page with 3,078 visible Hebrew words.
+- Added SEO metadata, canonical URL, Open Graph, Twitter tags, Article schema, BreadcrumbList schema and FAQPage schema.
+- Added the page to `sitemap.xml` and connected contextual inbound links from the pornography category, the short pornography article and the specialties page.
+- Reused existing layout, CSS, JavaScript, assets, footer, WhatsApp controls and accessibility patterns without redesigning existing pages.
+- Completed responsive and technical QA locally; deployment is not marked as complete until production deployment actually occurs.
+
 ## Sprint 4.6 - Conversion and navigation optimization (2026-07-27)
 - Audited the highest-value conversion entry points: Home, Start Here, Treatment Guidance, Contact, About, Trust Center, Knowledge Center, For Professionals, the alcohol and gambling pillars, alcohol warning signs, alcohol family journey and the professional choice guide.
 - Strengthened the homepage first-step line so unsure visitors can choose either `start-here.html` or `services/treatment-guidance.html`.
