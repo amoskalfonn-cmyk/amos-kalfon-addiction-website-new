@@ -297,3 +297,9 @@ Next: Sprint 3.4 should expand the gambling cluster with a family-focused page o
 - Strengthened the pornography addiction topical cluster with natural links from the pillar, category and articles index.
 - Included 8 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
 - Status: implemented and ready for QA/release validation.
+
+## Sprint 5.4 - Pornography Addiction Topic Cluster Article #2
++- Created the second supporting article for the `/pornography-addiction/` pillar: `/articles/can-you-quit-pornography-alone`.
++- Strengthened the topical cluster around independent change, accountability, CBT-oriented help, medical boundaries and respectful contact pathways.
++- Included 8 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
++- Status: implemented and ready for QA/release validation.

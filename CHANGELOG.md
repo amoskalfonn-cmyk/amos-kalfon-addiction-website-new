@@ -395,3 +395,10 @@
 - Added contextual inbound links from the Articles index, Pornography Knowledge category and Pornography Addiction pillar page.
 - Added sitemap and clean-URL redirect coverage for the new article.
 - Preserved the existing design system, JavaScript, navigation, WhatsApp links and sitewide functionality.
+
+## Sprint 5.4 - Pornography Addiction Quitting Alone Article
++- Added the Hebrew article `האם אפשר להיגמל מפורנוגרפיה לבד?` at `/articles/can-you-quit-pornography-alone`.
++- Added SEO metadata, clean canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 8-question FAQ schema.
++- Added contextual inbound links from the pornography pillar page, pornography knowledge page, articles index and the previous pornography cluster article.
++- Added sitemap and Netlify clean-URL redirect coverage for the new article.
++- Preserved the existing design system, accessibility patterns, JavaScript, navigation, WhatsApp links and sitewide functionality.
