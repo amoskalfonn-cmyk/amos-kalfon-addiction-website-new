@@ -409,3 +409,11 @@
 +- Added contextual inbound links from the pornography pillar page, pornography knowledge page, articles index and the two previous pornography cluster articles.
 +- Added sitemap and Netlify clean-URL redirect coverage for the new article.
 +- Preserved the existing design system, accessibility patterns, JavaScript, navigation, WhatsApp links and sitewide functionality.
+
+## Sprint 5.6 - Pornography Mental Health Article
++- Added the Hebrew article `פורנוגרפיה, חרדה ודיכאון – האם יש קשר?` at `/articles/pornography-anxiety-depression`.
++- Added SEO metadata, clean canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 8-question FAQ schema.
++- Added contextual internal links to the pornography pillar, prior pornography cluster articles, Contact, About, Sources, Editorial Policy and Disclaimer.
++- Added sitemap and Netlify clean-URL redirect coverage for the new article.
++- Included high-risk safety wording for self-harm risk, suicidal intent, severe psychiatric deterioration, psychosis, mania, danger to others and inability to care for basic needs.
++- Deployment status: pending automatic Netlify deployment after commit and push.
