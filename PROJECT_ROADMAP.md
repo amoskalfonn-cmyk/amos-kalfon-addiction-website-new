@@ -1,4 +1,10 @@
 # Project Roadmap
+## Sprint 5.8 - Pornography Addiction Topic Cluster Article #6 (2026-08-05)
+- Created `/articles/pornography-treatment-process` as the high-conversion completion article for the pornography addiction cluster.
+- Focused the page on first-meeting expectations, personal planning, CBT, motivation, setbacks, family involvement and medical/psychiatric referral boundaries.
+- Included 10 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
+- Pending: production validation after automatic Netlify deployment.
+
 ## Sprint 5.7 - Pornography Addiction Topic Cluster Article #5 (2026-08-05)
 - Created `/articles/pornography-brain-addiction` as the fifth supporting article for the `/pornography-addiction/` pillar.
 - Strengthened the topical cluster around reward learning, dopamine, triggers, habit loops, shame, CBT-oriented work and professional-safety boundaries.

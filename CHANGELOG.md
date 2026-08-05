@@ -1,4 +1,12 @@
 # Changelog
+## Sprint 5.8 - Pornography Treatment Process Article (2026-08-05)
+- Added the Hebrew high-conversion article `איך נראה טיפול בהתמכרות לפורנוגרפיה?` at `/articles/pornography-treatment-process`.
+- Added SEO metadata, clean canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 10-question FAQ schema.
+- Added contextual internal links across the pornography pillar, Knowledge category and prior pornography cluster articles.
+- Added sitemap and Netlify clean-URL redirect coverage for the new article.
+- Preserved service boundaries around guidance, CBT, medical care, psychiatric care and emergency support.
+- Deployment status: pending automatic Netlify deployment after commit and push.
+
 ## Sprint 5.7 - Pornography Brain and Behavior Article (2026-08-05)
 - Added the Hebrew article `מה קורה במוח בזמן התמכרות לפורנוגרפיה?` at `/articles/pornography-brain-addiction`.
 - Added SEO metadata, clean canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 8-question FAQ schema.
