@@ -303,3 +303,9 @@ Next: Sprint 3.4 should expand the gambling cluster with a family-focused page o
 +- Strengthened the topical cluster around independent change, accountability, CBT-oriented help, medical boundaries and respectful contact pathways.
 +- Included 8 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
 +- Status: implemented and ready for QA/release validation.
+
+## Sprint 5.5 - Pornography Addiction Topic Cluster Article #3
++- Created the third supporting article for the `/pornography-addiction/` pillar: `/articles/pornography-relationships-trust`.
++- Strengthened the topical cluster around relationship harm, intimacy, secrecy, boundaries, trust rebuilding and respectful contact pathways.
++- Included 8 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
++- Status: implemented and ready for QA/release validation.

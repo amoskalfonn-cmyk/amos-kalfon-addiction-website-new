@@ -402,3 +402,10 @@
 +- Added contextual inbound links from the pornography pillar page, pornography knowledge page, articles index and the previous pornography cluster article.
 +- Added sitemap and Netlify clean-URL redirect coverage for the new article.
 +- Preserved the existing design system, accessibility patterns, JavaScript, navigation, WhatsApp links and sitewide functionality.
+
+## Sprint 5.5 - Pornography Relationships and Trust Article
++- Added the Hebrew article `איך פורנוגרפיה משפיעה על זוגיות, אינטימיות ואמון?` at `/articles/pornography-relationships-trust`.
++- Added SEO metadata, clean canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 8-question FAQ schema.
++- Added contextual inbound links from the pornography pillar page, pornography knowledge page, articles index and the two previous pornography cluster articles.
++- Added sitemap and Netlify clean-URL redirect coverage for the new article.
++- Preserved the existing design system, accessibility patterns, JavaScript, navigation, WhatsApp links and sitewide functionality.
