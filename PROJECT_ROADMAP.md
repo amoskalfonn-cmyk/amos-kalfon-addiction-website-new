@@ -1,4 +1,10 @@
 # Project Roadmap
+## Sprint 5.7 - Pornography Addiction Topic Cluster Article #5 (2026-08-05)
+- Created `/articles/pornography-brain-addiction` as the fifth supporting article for the `/pornography-addiction/` pillar.
+- Strengthened the topical cluster around reward learning, dopamine, triggers, habit loops, shame, CBT-oriented work and professional-safety boundaries.
+- Included 8 visible FAQ items with matching FAQPage schema and maintained clean URL canonicalization standards.
+- Pending: production validation after automatic Netlify deployment.
+
 ## Sprint 5.2 - Clean URL Canonicalization (2026-08-04)
 - Standardized the website on clean canonical URLs without `.html`.
 - Added page-level 301 redirect coverage for deprecated `.html` routes, including `/index.html` and `/pornography-addiction/index.html`.

@@ -1,4 +1,12 @@
 # Changelog
+## Sprint 5.7 - Pornography Brain and Behavior Article (2026-08-05)
+- Added the Hebrew article `מה קורה במוח בזמן התמכרות לפורנוגרפיה?` at `/articles/pornography-brain-addiction`.
+- Added SEO metadata, clean canonical URL, Open Graph, Twitter metadata, Article schema, Breadcrumb schema and matching 8-question FAQ schema.
+- Added contextual internal links to the pornography pillar and prior pornography cluster articles.
+- Added sitemap and Netlify clean-URL redirect coverage for the new article.
+- Included scientific-caution wording around dopamine, reward learning, tolerance, brain-damage claims and recovery expectations.
+- Deployment status: pending automatic Netlify deployment after commit and push.
+
 ## Sprint 5.2 - Sitewide clean URL canonicalization (2026-08-04)
 - Selected clean URLs without `.html` as the sitewide canonical URL policy.
 - Added explicit Netlify 301 redirects from deprecated `.html` URLs to clean canonical URLs.
